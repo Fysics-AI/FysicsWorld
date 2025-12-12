@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+<a target="_blank"><img src="figs/OmniWorld-logo.png" alt="" style="width: 50%; min-width: 200px; display: block; margin: auto;"></a>
+</p>
+
 <div align="center">
 <br>
 <h1>OmniWorld: A Unified Full-Modality Benchmark for Any-to-Any Understanding, Generation, and Reasoning</h1>
@@ -18,7 +22,7 @@
 ## 🎯 ***OmniWorld*** Overview
 <img src="figs/fig-teaser.jpg" width="100%" height="100%">
 
-We introduce **OmniWorld**, the **first** unified full-modality benchmark that supports bidirectional input–output across *image, video, audio, and text*, enabling comprehensive any-to-any evaluation across understanding, generation, and reasoning. Our systematic design spans uni-modal perception tasks to fusion-dependent reasoning under strong cross-modal coupling, allowing us to diagnose, with unprecedented clarity, the limitations and emerging strengths of modern multimodal and omni-modal architectures. In contrast to existing omni-modal and multi-modal benchmarks, our ***OmniWorld*** has several advantages: 
+We introduce ***OmniWorld***, the **first** unified full-modality benchmark that supports bidirectional input–output across *image, video, audio, and text*, enabling comprehensive any-to-any evaluation across understanding, generation, and reasoning. Our systematic design spans uni-modal perception tasks to fusion-dependent reasoning under strong cross-modal coupling, allowing us to diagnose, with unprecedented clarity, the limitations and emerging strengths of modern multimodal and omni-modal architectures. In contrast to existing omni-modal and multi-modal benchmarks, our ***OmniWorld*** has several advantages: 
 
 * **Diversity and High Quality**. ***OmniWorld*** is characterized by **8 "multi"** properties, reflecting its comprehensive coverage, diversity, and robustness, namely:
 *multi-dimensional* (understanding, generation, reasoning, voice interaction), *multi-modal* (text, image, video, audio as both inputs and outputs), *multi-task* (16 primary tasks, 200+ sub-tasks), *multi-source* (3,268 samples from 40+ data sources and curated web data), *multi-domain* (170+ fine-grained open-domain categories), *multi-type* (closed-ended, open-ended, multiple-choice question, and image/video/audio generation), *multi-target* (evaluates Omni-LLMs, MLLMs, modality-specific models, unified understanding–generation models), and *multi-assurance* (multi-stage quality control strategies).
@@ -36,7 +40,7 @@ Based on **OmniWorld**, we extensively evaluate various advanced models, includi
 
 ## 🔮 Evaluation
 
-To ensure a fair and standardized evaluation protocol, we release the full ***OmniWorld*** dataset with ground-truth answers withheld, along with a test-mini subset (300 samples) that includes answers for local validation and debugging. The QA data can be downloaded from [Link](https://huggingface.co/datasets/Fysics-AI/OmniWorld) (full OmniWorld) and [Link](https://huggingface.co/datasets/Fysics-AI/OmniWorld) (test-mini), respectively.
+To ensure a fair and standardized evaluation protocol, we release the full ***OmniWorld*** dataset with ground-truth answers withheld, along with a test-mini subset (300 samples) that includes answers for local validation and debugging. You can find the QA data in [./testset](https://huggingface.co/datasets/Fysics-AI/OmniWorld) (full ***OmniWorld***) and [./test-mini](https://huggingface.co/datasets/Fysics-AI/OmniWorld) (test-mini), respectively.
 
 🕹️ **Usage**:
 
