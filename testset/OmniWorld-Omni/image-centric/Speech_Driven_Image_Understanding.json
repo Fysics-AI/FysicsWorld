@@ -1,0 +1,3151 @@
+[
+  {
+    "question": "According to the image, in 2020, did China have a larger population aged between 50 and 54 years than those aged between 0 and 4 years?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/87e9eb74_20_1.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/7cbb7c3e_HallusionBench_1.wav"
+  },
+  {
+    "question": "From 2012 to 2022, did Apple derive the majority of its revenue from Japan?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/0f52baa2_6_2.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c06493b8_HallusionBench_2.wav"
+  },
+  {
+    "question": "According to the image, in 2018, did \"Black Panther\" achieve the highest box office revenue in North America?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c145759d_21_1.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/67239992_HallusionBench_3.wav"
+  },
+  {
+    "question": "Accroding to the information provided in the table, does Taylor Swift release the album \"Midnights\"?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/72a70b8a_8_2.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/d8ce8fef_HallusionBench_4.wav"
+  },
+  {
+    "question": "In 2023, did Syria have higher population growth than United Kingdom?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/867ea1d3_1_1.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/b0836669_HallusionBench_5.wav"
+  },
+  {
+    "question": "According to the table, does Shanghai have the most dense population in China in 2020?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/ddce0356_6_2.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/07461810_HallusionBench_6.wav"
+  },
+  {
+    "question": "According to the map, can I take the Yellow Line towards the Pentagon on the DC Metro system?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/87fab9c6_6_2.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/aa292bc3_HallusionBench_7.wav"
+  },
+  {
+    "question": "According to the map, can I take the Yellow Line towards the Pentagon on the DC Metro system?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/14931e6f_6_1.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/3e9f4c0e_HallusionBench_8.wav"
+  },
+  {
+    "question": "According to the image, is Key West the southernmost point of Florida?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/bb03d634_7_2.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/0abad44f_HallusionBench_9.wav"
+  },
+  {
+    "question": "According to the image, is the text in this figure the four freedoms proposed by Franklin D. Roosevelt?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/14bd7161_7_2.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/7f95d86f_HallusionBench_10.wav"
+  },
+  {
+    "question": "Is the text in this figure made by Winston Churchill?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/1a49cd31_12_1.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/6e827844_HallusionBench_11.wav"
+  },
+  {
+    "question": "According to the text below the logo, is this image for Al-Jazari?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/0ce8d50c_7_1.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/11e92c75_HallusionBench_12.wav"
+  },
+  {
+    "question": "Is the yellow line shorter than the red line in the image? Yes or No",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/8ed66835_28_0.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/1dba6399_HallusionBench_13.wav"
+  },
+  {
+    "question": "According to the Torsion dystonia illusion, are the diameters of the three circles different?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/9b56ad0b_7_0.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/284570d5_HallusionBench_14.wav"
+  },
+  {
+    "question": "The image shows a color illusion. Are two circles in the image different color? Yes or No",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/29ab1b3c_21_0.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/d7223aa7_HallusionBench_15.wav"
+  },
+  {
+    "question": "According to the figure, are the two orange lines both curved? Please answer yes or no.",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/02601bf5_6_0.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/e51f3dc4_HallusionBench_16.wav"
+  },
+  {
+    "question": "If AM=BM=CM, then is M the circumcenter of triangle ABC? Please answer yes or no.",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c530ef93_11_1.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/b83270c6_HallusionBench_17.wav"
+  },
+  {
+    "question": "Is the value of x in the image smaller than 5?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/d6316e6a_1_0.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/55c4acc2_HallusionBench_18.wav"
+  },
+  {
+    "question": "Are all the items in this figure cookies?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/1811e4ad_8_1.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/d91c1eb5_HallusionBench_19.wav"
+  },
+  {
+    "question": "Are all the animals in this figure swans?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/3da8fffe_4_1.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/e3803725_HallusionBench_20.wav"
+  },
+  {
+    "question": "Are all the animals in this figure chickens?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/5f3f55f9_2_0.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/9094fe04_HallusionBench_21.wav"
+  },
+  {
+    "question": "Are there four people wearing yellow vests?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/9d28c741_COCO_val2014_000000245448.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/f1a0d0be_MMVU_22.wav"
+  },
+  {
+    "question": "In the photograph, which of the following is a feature of the little girl's attire?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/92d9810c_COCO_val2014_000000236865.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/a403bc47_MMVU_23.wav"
+  },
+  {
+    "question": "Is the person in the picture bending down to pick up a bat?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/16ec31db_COCO_val2014_000000275863.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/82252aba_MMVU_24.wav"
+  },
+  {
+    "question": "Is the object hanging on the wall used to blow out cold air?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/38ec5fd6_128.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/dbccb349_MMVU_25.wav"
+  },
+  {
+    "question": "Are there five people in the picture?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/912a7553_COCO_val2014_000000205729.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/b814593b_MMVU_26.wav"
+  },
+  {
+    "question": "How many people are lying down in the picture?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/65d78ebf_COCO_val2014_000000579231.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/da089441_MMVU_27.wav"
+  },
+  {
+    "question": "Is the year in the billboard 2022?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/7f2c8e06_20.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/88576747_MMVU_28.wav"
+  },
+  {
+    "question": "Question:Is the man talking with the woman in this image?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/51268039_mmbench_1937.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/49581f22_MMVU_29.wav"
+  },
+  {
+    "question": "Are there any erasers floating in the soup, resembling the shape of the sliced carrots?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/803ddf07_COCO_val2014_000000209755.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/e6b616d3_MMVU_30.wav"
+  },
+  {
+    "question": "Is the fireplace above the mirror?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/99497af8_COCO_val2014_000000246999.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/8e40203b_MMVU_31.wav"
+  },
+  {
+    "question": "Is there a rabbit visible on the TV screen in the picture?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/6c6f27e9_COCO_val2014_000000007320.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/0fc7c362_MMVU_32.wav"
+  },
+  {
+    "question": "What is the animal next to the boy in the picture? ",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/9b0d8c71_13.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/597191fb_MMVU_33.wav"
+  },
+  {
+    "question": "Are there four people sitting on the white sofa in the picture? ",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/61a24a3e_23.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/774aefbb_MMVU_34.wav"
+  },
+  {
+    "question": "Is the subject in the picture a train?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c6b168ac_COCO_val2014_000000505542.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/2f97cd47_MMVU_35.wav"
+  },
+  {
+    "question": "Where is the giraffe located in the picture?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/870b8a70_mmbench_1000640.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/d950360c_MMVU_36.wav"
+  },
+  {
+    "question": "Calculate the present value of the midlife payment in case D, assuming it is an annuity paid at the end of the period with an annual interest rate of 5% and a total maturity of 7 years. Which option is closest to the calculated present value of the annuity?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/87ae02c5_mmmu_test_Finance_55.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/a438da93_MMVU_37.wav"
+  },
+  {
+    "question": "Are there two people dancing in the picture?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/7e28dbf5_06.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/6bdd3e48_MMVU_38.wav"
+  },
+  {
+    "question": "What are the words in the picture?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/596db228_mmbench_1001639.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c34f24ad_MMVU_39.wav"
+  },
+  {
+    "question": "In this hand-drawn anatomical illustration of the left leg, what specific structure or feature does the number \"166\" refer to?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/87d38c21_mmmu_test_Biology_200.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/f7719e52_MMVU_40.wav"
+  },
+  {
+    "question": "What is the dominant feature of the male figure's facial hair in the painting?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/9b6fd1c4_mmmu_test_Art_144.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/632a1f74_MMVU_41.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What should the ego vehicle do when encountering the purple sedan on the right",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Ego2Vehicle",
+      "Answer choices": [
+        "(A) accelerating/speeding up",
+        "(B) slowing down",
+        "(C) yielding",
+        "(D) stopping",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/429d9107_scenario_316_frame_104.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c703d91e_MME-RealWorld_42.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What should the ego vehicle do when encountering the purple sedan on the right",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Ego2Vehicle",
+      "Answer choices": [
+        "(A) accelerating/speeding up",
+        "(B) passing by",
+        "(C) stopping",
+        "(D) slowing down",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/fcfde552_scenario_554_frame_079.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/de730321_MME-RealWorld_43.wav"
+  },
+  {
+    "question": "What should the ego vehicle do when encountering the white suv on the ego lane?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Ego2Vehicle",
+      "Answer choices": [
+        "(A) slowing down",
+        "(B) following",
+        "(C) yielding",
+        "(D) accelerating/speeding up",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/1fe23e97_scenario_198_frame_004.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/71ed2e67_MME-RealWorld_44.wav"
+  },
+  {
+    "question": "What should the ego vehicle do when encountering the white van on the left?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Ego2Vehicle",
+      "Answer choices": [
+        "(A) accelerating/speeding up",
+        "(B) stopping",
+        "(C) no response",
+        "(D) slowing down",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/6cf4353d_scenario_004_frame_004.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/a09bc03b_MME-RealWorld_45.wav"
+  },
+  {
+    "question": "What should the ego vehicle do when encountering the white suv on the ego lane?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Ego2Vehicle",
+      "Answer choices": [
+        "(A) slowing down",
+        "(B) following",
+        "(C) stopping",
+        "(D) yielding",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/6abb847e_scenario_567_frame_014.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/15fbfc09_MME-RealWorld_46.wav"
+  },
+  {
+    "question": "What should the ego vehicle do when encountering the black suv on the left?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Ego2Vehicle",
+      "Answer choices": [
+        "(A) following",
+        "(B) passing by",
+        "(C) stopping",
+        "(D) slowing down",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/52660598_scenario_254_frame_059.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/7793e17f_MME-RealWorld_47.wav"
+  },
+  {
+    "question": "What should the ego vehicle do when encountering the black sedan on the left?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Ego2Vehicle",
+      "Answer choices": [
+        "(A) following",
+        "(B) no response",
+        "(C) slowing down",
+        "(D) passing by",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/5c82ef97_scenario_008_frame_044.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/4cf92893_MME-RealWorld_48.wav"
+  },
+  {
+    "question": "What should the ego vehicle do when encountering the white sedan on the ego lane?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Ego2Vehicle",
+      "Answer choices": [
+        "(A) slowing down",
+        "(B) following",
+        "(C) stopping",
+        "(D) passing by",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/1188d98e_scenario_234_frame_039.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/a53ee829_MME-RealWorld_49.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the status of the trucks that are to the front of the ego car?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Motion_MultiVehicles",
+      "Answer choices": [
+        "(A) Three of the trucks are parked, and one is moving.",
+        "(B) One of the trucks is parked, and two are moving.",
+        "(C) Three trucks are parked.",
+        "(D) Two of the trucks are parked, and one is moving.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/e54a54f0_n015-2018-07-27-11-36-48+0800__CAM_FRONT__1532662735412460.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/520a7456_MME-RealWorld_50.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the status of the cars that are to the front of the ego car?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Motion_MultiVehicles",
+      "Answer choices": [
+        "(A) Three of the cars are moving and one is parked.",
+        "(B) One of the cars is parked, and many are moving.",
+        "(C) Three of the cars are parked, and two are moving.",
+        "(D) Many cars are parked, and three are moving.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/76b851d6_n008-2018-09-18-14-54-39-0400__CAM_FRONT__1537297605912404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c60c600b_MME-RealWorld_51.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the status of the cars that are to the front of the ego car?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Motion_MultiVehicles",
+      "Answer choices": [
+        "(A) Three cars are moving and many are parked.",
+        "(B) Many cars are parked and one is moving.",
+        "(C) Many cars are parked, and one is moving.",
+        "(D) Two of the cars are moving, and many are parked.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/16be39c0_n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573394862404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c3126037_MME-RealWorld_52.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the status of the trucks that are to the front of the ego car?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Motion_MultiVehicles",
+      "Answer choices": [
+        "(A) Three trucks are moving.",
+        "(B) Three trucks are parked.",
+        "(C) Two of the trucks are moving, and two are parked.",
+        "(D) Three of the trucks are moving, and three are parked.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/3543dd21_n008-2018-09-18-13-10-39-0400__CAM_FRONT__1537290893412404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/f1b4da5c_MME-RealWorld_53.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the status of the cars that are to the front of the ego car?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Motion_MultiVehicles",
+      "Answer choices": [
+        "(A) Three of the cars are moving, and three are parked.",
+        "(B) Many cars are parked, and many are moving.",
+        "(C) Two of the cars are moving, and one is parked.",
+        "(D) One of the cars is parked, and two are moving.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/020d4532_n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708377012404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/a6307d21_MME-RealWorld_54.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the status of the trailers that are to the front of the ego car?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Motion_MultiVehicles",
+      "Answer choices": [
+        "(A) One of the trailers is moving, and one is parked.",
+        "(B) One of the trailers is parked, and one is moving.",
+        "(C) One of the trailers is parked, and the other one is moving.",
+        "(D) Many trailers are parked.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/6e7f6656_n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292677612404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/5e4104b3_MME-RealWorld_55.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the status of the trailers that are to the front of the ego car?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Motion_MultiVehicles",
+      "Answer choices": [
+        "(A) Many trailers are parked.",
+        "(B) One of the trailers is moving, and one is parked.",
+        "(C) One of the trailers is parked, and one is moving.",
+        "(D) Three of the trailers are moving, and many are parked.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/7b83e0f8_n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915647912465.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/9834fd6c_MME-RealWorld_56.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the status of the cars that are to the front of the ego car?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Motion_MultiVehicles",
+      "Answer choices": [
+        "(A) Two of the cars are parked and one is moving.",
+        "(B) Three of the cars are parked, and one is moving.",
+        "(C) One of the cars is parked and one is moving.",
+        "(D) Three of the cars are moving, and three are parked.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/8e51e967_n015-2018-08-03-15-00-36+0800__CAM_FRONT__1533279684662460.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/74553dff_MME-RealWorld_57.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the status of the cars that are to the front of the ego car?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Motion_MultiVehicles",
+      "Answer choices": [
+        "(A) Many cars are moving and two are parked.",
+        "(B) Many cars are parked and many are moving.",
+        "(C) Many cars are parked and three are moving.",
+        "(D) Many cars are moving, and three are parked.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/1931f886_n015-2018-11-14-19-09-14+0800__CAM_FRONT__1542194057662460.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/314c23c2_MME-RealWorld_58.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the status of the cars that are to the front of the ego car?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Motion_MultiVehicles",
+      "Answer choices": [
+        "(A) Many cars are parked, and one is moving.",
+        "(B) Three of the cars are moving, and three are parked.",
+        "(C) One of the cars is moving and many are parked.",
+        "(D) Three of the cars are moving, and two are parked.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/b44c3c50_n008-2018-09-18-12-53-31-0400__CAM_FRONT__1537289762912404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/3aae0dab_MME-RealWorld_59.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the future state of the white truck in the middle?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Prediction_Intention_Vehicle",
+      "Answer choices": [
+        "(A) Turn right.",
+        "(B) Keep going straight.",
+        "(C) Turn left.",
+        "(D) Stationary.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/dce9419a_n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537292746662404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/b7be562d_MME-RealWorld_60.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the future state of the white sedan car in the middle?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Prediction_Intention_Vehicle",
+      "Answer choices": [
+        "(A) Turn left.",
+        "(B) Keep going straight.",
+        "(C) Turn right.",
+        "(D) Stationary.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/f42958cb_n008-2018-09-18-14-54-39-0400__CAM_FRONT__1537297465262404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/26eeefbc_MME-RealWorld_61.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the future state of the white sedan on the right side?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Prediction_Intention_Vehicle",
+      "Answer choices": [
+        "(A) Turn left.",
+        "(B) Keep going straight.",
+        "(C) Stationary.",
+        "(D) Turn right.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/d2fa928a_n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114282662460.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/3e767df6_MME-RealWorld_62.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. Based on the observations of the white truck on the right side, what are possible actions to be taken by the orange suv in the middle? What is the reason?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Other2Other",
+      "Answer choices": [
+        "(A) The action is to accelerate and go ahead, the reason is to avoid a collision.",
+        "(B) The action is to decelerate and go ahead, the reason is that there is no safety issue.",
+        "(C) The action is to keep going at the same speed, the reason is that there is no safety issue.",
+        "(D) The action is to gently brake to a stop, the reason is to follow the traffic rules.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/a022cac8_n015-2018-08-02-17-28-51+0800__CAM_FRONT__1533202480162460.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/14135fc6_MME-RealWorld_63.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. Based on the observations of the pedestrian wearing an orange shirt in the middle, what are possible actions to be taken by the yellow car in the middle? What is the reason?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Other2Other",
+      "Answer choices": [
+        "(A) The action is to remain stationary, the reason is to follow the traffic rules.",
+        "(B) The action is to keep going at the same speed, and the reason is to maintain a safe distance.",
+        "(C) The action is to decelerate and go ahead, the reason is to keep a safe distance.",
+        "(D) The action is to keep going at the same speed, the reason is that there is no safety issue.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/ff6ca308_n015-2018-09-27-15-33-17+0800__CAM_FRONT__1538033773862460.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/2e0d2708_MME-RealWorld_64.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. Based on the observations of the black suv in the middle, what are possible actions to be taken by the white sedan in the middle? What is the reason?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Other2Other",
+      "Answer choices": [
+        "(A) The action is to take none, the reason is that there is no safety issue.",
+        "(B) The action is to keep going at the same speed, the reason is that there is no safety issue.",
+        "(C) The action is to decelerate and go ahead, the reason is to yield to pedestrians.",
+        "(D) The action is to decelerate and go ahead, the reason is to keep a safe distance.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/dc94782e_n008-2018-08-28-16-16-48-0400__CAM_FRONT__1535488034162404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/a126d81d_MME-RealWorld_65.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. Based on the observations of the a person wearing red clothes in the middle, what are possible actions to be taken by the a person wearing white clothes in the middle? What is the reason?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Other2Other",
+      "Answer choices": [
+        "(A) The action is to accelerate and go ahead, the reason is to follow the traffic rules.",
+        "(B) The action is to keep going at the same speed, the reason is to avoid a collision.",
+        "(C) The action is to take none, the reason is that there is no safety issue.",
+        "(D) The action is to keep going at the same speed, and the reason is to maintain a safe distance.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c905056a_n015-2018-10-08-16-03-24+0800__CAM_FRONT__1538986247762460.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/6a684c9d_MME-RealWorld_66.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. Based on the observations of the silver sedan on the left side, what are possible actions to be taken by the black sedan on the left side? What is the reason?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Other2Other",
+      "Answer choices": [
+        "(A) The action is to decelerate and go ahead, the reason is to yield to pedestrians.",
+        "(B) The action is to accelerate and go ahead, the reason is to follow the traffic rules.",
+        "(C) The action is to keep going at the same speed, the reason is to avoid a collision.",
+        "(D) The action is to take none, the reason is that there is no safety issue.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/f2a60c0c_n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573471362404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/4044143e_MME-RealWorld_67.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. Based on the observations of the person riding a bicycle in the middle, what are possible actions to be taken by the white commercial vehicle in the middle? What is the reason?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Other2Other",
+      "Answer choices": [
+        "(A) The action is to keep going at the same speed, the reason is to maintain a safe distance.",
+        "(B) The action is to slightly offset to the right, the reason is to avoid a collision.",
+        "(C) The action is to remain stationary, the reason is to follow the traffic rules.",
+        "(D) The action is to remain stationary, the reason is that there is no safety issue.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/8693535c_n015-2018-08-01-16-32-59+0800__CAM_FRONT__1533112619162464.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/9a9597f1_MME-RealWorld_68.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. Based on the observations of the white commercial vehicle in the middle, what are possible actions to be taken by the black car in the middle? What is the reason?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Other2Other",
+      "Answer choices": [
+        "(A) The action is to keep going at the same speed, the reason is that there is no safety issue.",
+        "(B) The action is to decelerate and go ahead, the reason is to keep a safe distance.",
+        "(C) The action is to decelerate and go ahead, the reason is to yield to pedestrians.",
+        "(D) The action is to remain stationary, and the reason is to follow traffic rules.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/8c23fa9d_n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729287012404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/27999dbe_MME-RealWorld_69.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. Based on the observations of the white truck in the middle, what are possible actions to be taken by the white small car in the middle? What is the reason?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Other2Other",
+      "Answer choices": [
+        "(A) The action is to keep going at the same speed, and the reason is to maintain a safe distance.",
+        "(B) The action is to decelerate and go ahead, the reason is to yield to pedestrians.",
+        "(C) The action is to remain stationary, the reason is to follow the traffic rules.",
+        "(D) The action is to keep going at the same speed, the reason is that there is no safety issue.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/62aeab55_n008-2018-09-18-12-07-26-0400__CAM_FRONT__1537287316162404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/5a78b693_MME-RealWorld_70.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. Based on the observations of the black car in the middle, what are possible actions to be taken by the blue t-shirt pedestrian in the middle? What is the reason?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Other2Other",
+      "Answer choices": [
+        "(A) The action is to take none, the reason is that there is no safety issue.",
+        "(B) The action is to decelerate and go ahead, and the reason is to avoid a collision.",
+        "(C) The action is to decelerate and go ahead, the reason is to keep a safe distance.",
+        "(D) The action is to turn left, the reason is that there is no safety issue.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/197bae2a_n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708224412404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/d7d3acb7_MME-RealWorld_71.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. Based on the observations of the person wearing black clothes in the middle, what are possible actions to be taken by the a person wearing white clothes in the middle? What is the reason?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Other2Other",
+      "Answer choices": [
+        "(A) The action is to take none, the reason is to avoid a collision.",
+        "(B) The action is to keep going at the same speed, and the reason is to maintain a safe distance.",
+        "(C) The action is to keep going at the same speed, and the reason is to avoid a collision.",
+        "(D) The action is to keep going at the same speed, the reason is to keep a safe distance.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/227f6dbd_n015-2018-10-08-16-03-24+0800__CAM_FRONT__1538986247762460.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/ff0dc91e_MME-RealWorld_72.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the future status of the construction vehicle on the left side ?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Prediction_Intention_Pedestrian",
+      "Answer choices": [
+        "(A) Stationary.",
+        "(B) Keep going straight.",
+        "(C) Turn left.",
+        "(D) Turn right.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/e617d666_n015-2018-09-27-15-33-17+0800__CAM_FRONT__1538033794262460.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/d0303633_MME-RealWorld_73.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the future state of the pedestrian in the middle?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Prediction_Intention_Pedestrian",
+      "Answer choices": [
+        "(A) Stationary.",
+        "(B) Turn right.",
+        "(C) Keep going straight.",
+        "(D) Turn left.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/a65cc959_n015-2018-09-25-11-10-38+0800__CAM_FRONT__1537845566762460.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/46123b36_MME-RealWorld_74.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the future state of the white shirt pedestrian in the middle?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Prediction_Intention_Pedestrian",
+      "Answer choices": [
+        "(A) Keep going straight.",
+        "(B) Stationary.",
+        "(C) Turn right.",
+        "(D) Turn left.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/72d33646_n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531886054412463.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/08b9a97f_MME-RealWorld_75.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Prediction_Intention_Ego",
+      "Answer choices": [
+        "(A) The ego vehicle is steering to the right. The ego vehicle is driving very fast.",
+        "(B) The ego vehicle is steering to the left. The ego vehicle is driving slowly.",
+        "(C) The ego vehicle is steering to the right. The ego vehicle is driving fast.",
+        "(D) The ego vehicle is going straight. The ego vehicle is not moving.",
+        "(E) All the above answers are wrong."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/6216d2eb_n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884290162460.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/333d7053_MME-RealWorld_76.wav"
+  },
+  {
+    "question": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Prediction_Intention_Ego",
+      "Answer choices": [
+        "(A) The ego vehicle is going straight. The ego vehicle is driving fast.",
+        "(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.",
+        "(C) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.",
+        "(D) The ego vehicle is steering to the left. The ego vehicle is driving fast.",
+        "(D) None of the above",
+        "(E) All the above answers are wrong."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/be88ea7c_n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153647412404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c8339943_MME-RealWorld_77.wav"
+  },
+  {
+    "question": "What is the number of persons in the image?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Monitoring",
+      "Category": "person/counting",
+      "Answer choices": [
+        "(A) 30",
+        "(B) 26",
+        "(C) 32",
+        "(D) 31",
+        "(E) The image does not feature the persons"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/6cf2c45e_4abd59a0dbaf705d7eba5083c2d5b587.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c41fe237_MME-RealWorld_78.wav"
+  },
+  {
+    "question": "What is the number of pedestrians in the image?(If a human maintains standing pose or walking, please classify it as pedestrian, otherwise, it is classified as a people.)",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Monitoring",
+      "Category": "person/counting",
+      "Answer choices": [
+        "(A) 10",
+        "(B) 2",
+        "(C) 1",
+        "(D) 7",
+        "(E) The image does not feature the pedestrians"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/8cbc3d89_9999998_00281_d_0000234.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/b9d74088_MME-RealWorld_79.wav"
+  },
+  {
+    "question": "What color is the traffic light on the right?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Visual_TrafficSignal",
+      "Answer choices": [
+        "(A) red",
+        "(B) yellow",
+        "(C) green",
+        "(D) changing or off",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/1ce72e1f_scenario_246_frame_004.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/0ec91674_MME-RealWorld_80.wav"
+  },
+  {
+    "question": "What type of the traffic signal (excluding traffic lights) is on the right?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Visual_TrafficSignal",
+      "Answer choices": [
+        "(A) speed limit sign",
+        "(B) construction work",
+        "(C) stop sign",
+        "(D) no parking",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/126b2231_scenario_188_frame_044.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c1adefe1_MME-RealWorld_81.wav"
+  },
+  {
+    "question": "What type of the traffic signal (excluding traffic lights) is on the ego lane?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Visual_TrafficSignal",
+      "Answer choices": [
+        "(A) speed limit sign",
+        "(B) construction work",
+        "(C) stop sign",
+        "(D) no parking",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/91ebd58f_scenario_455_frame_134.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/4ac6f2c8_MME-RealWorld_82.wav"
+  },
+  {
+    "question": "What color is the traffic light on the right?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Visual_TrafficSignal",
+      "Answer choices": [
+        "(A) red",
+        "(B) yellow",
+        "(C) green",
+        "(D) changing or off",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/4714a842_scenario_103_frame_004.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/3d93b92f_MME-RealWorld_83.wav"
+  },
+  {
+    "question": "What color is the traffic light on the right?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Visual_TrafficSignal",
+      "Answer choices": [
+        "(A) red",
+        "(B) yellow",
+        "(C) green",
+        "(D) changing or off",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/d8cbfd90_scenario_154_frame_129.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/a2cd0538_MME-RealWorld_84.wav"
+  },
+  {
+    "question": "What color is the traffic light on the right?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Visual_TrafficSignal",
+      "Answer choices": [
+        "(A) red",
+        "(B) yellow",
+        "(C) green",
+        "(D) changing or off",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/d1501ee8_scenario_112_frame_004.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/b159a5db_MME-RealWorld_85.wav"
+  },
+  {
+    "question": "What color is the traffic light on the left?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Visual_TrafficSignal",
+      "Answer choices": [
+        "(A) red",
+        "(B) yellow",
+        "(C) green",
+        "(D) changing or off",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/b4a649cd_scenario_018_frame_004.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/29b82944_MME-RealWorld_86.wav"
+  },
+  {
+    "question": "What type of the traffic signal (excluding traffic lights) is on the right?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Visual_TrafficSignal",
+      "Answer choices": [
+        "(A) speed limit sign",
+        "(B) construction work",
+        "(C) stop sign",
+        "(D) no parking",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/ce133f21_scenario_533_frame_024.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/8719d259_MME-RealWorld_87.wav"
+  },
+  {
+    "question": "What color is the traffic light on the ego lane?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Visual_TrafficSignal",
+      "Answer choices": [
+        "(A) red",
+        "(B) yellow",
+        "(C) green",
+        "(D) changing or off",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/2595e13c_scenario_474_frame_004.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/d3e23101_MME-RealWorld_88.wav"
+  },
+  {
+    "question": "What color is the traffic light on the left?",
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Visual_TrafficSignal",
+      "Answer choices": [
+        "(A) red",
+        "(B) yellow",
+        "(C) green",
+        "(D) changing or off",
+        "(E) The image does not feature the object"
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/a1013aa4_scenario_474_frame_024.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/3c124fe8_MME-RealWorld_89.wav"
+  },
+  {
+    "question": "Who Is the actor inside the red bounding box?",
+    "choices": [
+      "John Travolta",
+      "Keir Dullea",
+      "Tom Cruise",
+      "Brad Pitt"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c5208052_tt0062622_shot_0291_img_0.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/170ab002_SEED-Bench_90.wav"
+  },
+  {
+    "question": "Identify and read emotions of people from their faces as shown in the image below.",
+    "choices": [
+      "Happy",
+      "Neutral",
+      "Sad",
+      "Fear"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/f69df17d_29177.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/294161e1_SEED-Bench_91.wav"
+  },
+  {
+    "question": "Who Is the actor inside the red bounding box?",
+    "choices": [
+      "Bruce Willis",
+      "Bruce Campbell",
+      "Bruce Springsteen",
+      "Bruce Jenner"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/074151d6_tt0083907_shot_0633_img_0.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/a2cbc3f2_SEED-Bench_92.wav"
+  },
+  {
+    "question": "According to the first paragraph of the Introduction, what is an example of a detection dataset that has seen slower progress in detection accuracy?",
+    "choices": [
+      "PASCAL VOC",
+      "ImageNet",
+      "COCO",
+      "SIFT"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/50d00919_155.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/29bc55eb_SEED-Bench_93.wav"
+  },
+  {
+    "question": "Which of the following is NOT a color option available for the Elite Gourmet EMW013B Electric Nonstick Mini Waffle Maker as shown in the image?",
+    "choices": [
+      "Black",
+      "Mini",
+      "Omelet",
+      "Stuffed Waffle"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/a101cffd_457.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/66b5f86b_SEED-Bench_94.wav"
+  },
+  {
+    "question": "What is the percentage of overweight children in 2005?",
+    "choices": [
+      "8.64312",
+      "10.70395",
+      "12.98435",
+      "9.659888"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/d6eb7078_35.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/74c014c3_SEED-Bench_95.wav"
+  },
+  {
+    "question": "What term related to 'idea' is visibly repeated throughout the word cloud?",
+    "choices": [
+      "concept",
+      "concoct",
+      "conclusion",
+      "contend"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/097059d0_340.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/16efe979_SEED-Bench_96.wav"
+  },
+  {
+    "question": "Which two nationalities are shown to be crossing through both the Western and Central Mediterranean routes in Q2 2017?",
+    "choices": [
+      "Nigerians and Bangladeshis",
+      "Syrians and Algerians",
+      "Guineans and Ivorians",
+      "Afghanis and Iraqis"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/37101705_112.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/d747f0b7_SEED-Bench_97.wav"
+  },
+  {
+    "question": "Which mockup is authored by \"yogurt86\" and features packaging for multiple items?",
+    "choices": [
+      "Cosmetic Mock-up 6",
+      "Urban Poster Mock-up",
+      "Isolated Phone X Mock-up",
+      "Perfect Hands Mockups"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/1108b1eb_377.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/ce192eb6_SEED-Bench_98.wav"
+  },
+  {
+    "question": "What would person1 probably do with object2 ?",
+    "choices": [
+      "person1 will pour a liquor into the glass .",
+      "person1 would place object2 back up on the platform .",
+      "If object2 was empty person1 would pour object2 into object2 .",
+      "person1 will drink out of object2 ."
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/7a83eb85_3036_IN_TIME_00.31.36.495-00.31.38.778@0.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/3c239d34_SEED-Bench_99.wav"
+  },
+  {
+    "question": "What year is displayed for the crime data presented on the map?",
+    "choices": [
+      "2013",
+      "2014",
+      "2015",
+      "2016"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/11fcca71_493.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/87204dff_SEED-Bench_100.wav"
+  },
+  {
+    "question": "Based on this map, which of these features is indicated by a blue color?",
+    "choices": [
+      "Roads",
+      "Railroads",
+      "Bodies of water",
+      "Parks"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/2f174275_254.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/0a26f670_SEED-Bench_101.wav"
+  },
+  {
+    "question": "What is the name of the landmark in the picture?",
+    "choices": [
+      "José Miguel Agrelot Coliseum",
+      "Tenryū-ji (Kyoto)",
+      "Occoneechee State Park",
+      "Église Saint-Piat, Tournai"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/2c4df6fc_2c55df2772950b2a.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/7d2165de_SEED-Bench_102.wav"
+  },
+  {
+    "question": "What is the average star rating based on the reviews for this property?",
+    "choices": [
+      "4.65",
+      "4.75",
+      "4.85",
+      "4.55"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/3234f859_144.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/17c1e9ef_SEED-Bench_103.wav"
+  },
+  {
+    "question": "How many times will the loop containing \"Print a\" and \"c = c + 1\" execute before stopping?",
+    "choices": [
+      "5 times",
+      "4 times",
+      "6 times",
+      "3 times"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/eaf903ec_328.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/9d3f3294_SEED-Bench_104.wav"
+  },
+  {
+    "question": "According to the infographic, which entity is responsible for the final step of delivery in the __tandart Shipping_ method?",
+    "choices": [
+      "Crowdsourced delivery",
+      "New nearby fulfillment center",
+      "Sortation Center",
+      "U.S. Postal Service"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/b0ded632_360.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/840188fb_SEED-Bench_105.wav"
+  },
+  {
+    "question": "What is the size and resolution of the iMac's display as advertised?",
+    "choices": [
+      "25.5-inch (Retina 5K)",
+      "24-inch (Retina 4K)",
+      "21.5-inch (Retina 4K)",
+      "27-inch (Retina 5K)"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/0de646a3_102.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/0d25b6a5_SEED-Bench_106.wav"
+  },
+  {
+    "question": "In which year was the cost of damage caused due to the depletion of minerals in Sub-Saharan Africa (developing only) maximum?",
+    "choices": [
+      "1971",
+      "1972",
+      "1974",
+      "1975"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/b9b80453_95.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/de0eead6_SEED-Bench_107.wav"
+  },
+  {
+    "question": "Which content rating organization's logo is displayed on the \"Cyberpunk 2077\" game page?",
+    "choices": [
+      "ESRB",
+      "PEGI",
+      "USK",
+      "ACB"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/f1331eb9_295.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/38ded0f1_SEED-Bench_108.wav"
+  },
+  {
+    "question": "In which year was the merchandise imports maximum?",
+    "choices": [
+      "1970",
+      "1971",
+      "1972",
+      "1973"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/f80f5744_106.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/60623a03_SEED-Bench_109.wav"
+  },
+  {
+    "question": "According to the image, which of these is not listed as a component of \"Projects\" related to mind mapping?",
+    "choices": [
+      "Ideas",
+      "Goals",
+      "Strategies",
+      "Sharing"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/5a1e45b8_281.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/dcc7ecd2_SEED-Bench_110.wav"
+  },
+  {
+    "question": "What is the difference between the amount of loans disbursed in Costa Rica in 2004 and the amount of loans disbursed in Papua New Guinea in 2009?",
+    "choices": [
+      "-9520000",
+      "-9820000",
+      "-10520000",
+      "-10570000"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/9e6b1845_46.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/2578ac35_SEED-Bench_111.wav"
+  },
+  {
+    "question": "What is the total merchandise exports in the graph?",
+    "choices": [
+      "0.651581747",
+      "0.777430802",
+      "1.047081692",
+      "1.144317028"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/82f1e6cf_54.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/8d2cdaef_SEED-Bench_112.wav"
+  },
+  {
+    "question": "Which is NOT a feature listed for Tide Hygienic Clean Heavy 10x Duty Power PODS?",
+    "choices": [
+      "Removes visible and invisible dirt with concentrated cleaning actives",
+      "Equipped with 50% more cleaning power vs. Tide Liquid",
+      "Each Power POD is equivalent to 3 Tide PODS",
+      "Works in all machines and water conditions"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/bcc525f5_460.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/eac621d4_SEED-Bench_113.wav"
+  },
+  {
+    "question": "Which continent is highlighted?",
+    "choices": [
+      "Antarctica",
+      "Asia",
+      "Australia",
+      "South America"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/5ca0f47b_image.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/5f60e94b_SEED-Bench_114.wav"
+  },
+  {
+    "question": "What is the main research interest of Tsung-Yi Lin as mentioned in the snapshot?",
+    "choices": [
+      "Statistical machine learning",
+      "Theoretical computer science",
+      "Visual perception and algorithms for learning",
+      "Networking and security protocols"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c2d0fb64_10.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/422f0396_SEED-Bench_115.wav"
+  },
+  {
+    "question": "Which of the following is NOT one of Taylor Swift's albums mentioned in this excerpt?",
+    "choices": [
+      "Folklore",
+      "Speak Now",
+      "Midnights",
+      "Everlasting"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c3f95d83_125.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c86e1453_SEED-Bench_116.wav"
+  },
+  {
+    "question": "Identify and read emotions of people from their faces as shown in the image below.",
+    "choices": [
+      "Surprise",
+      "Neutral",
+      "Fear",
+      "Angry"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/eac2768c_28761.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/4afe7924_SEED-Bench_117.wav"
+  },
+  {
+    "question": "What is the name of the landmark in the picture?",
+    "choices": [
+      "Adrar Region",
+      "Castro Valnera",
+      "Lake Bled",
+      "Chilkoot Inlet"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c718b83b_89ed3b88e6cd735d.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/6046eef3_SEED-Bench_118.wav"
+  },
+  {
+    "question": "How many people migrated from California to Colorado between 1995 and 2000?",
+    "choices": [
+      "35,300",
+      "55,300",
+      "65,300",
+      "75,300"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/440d726e_549.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/2502ca4d_SEED-Bench_119.wav"
+  },
+  {
+    "question": "Who Is the person inside the red bounding box?",
+    "choices": [
+      "Sean Bean",
+      "Sean Astin",
+      "Sean Penn",
+      "Sean Connery"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/efe626c3_tt0089218_shot_0327_img_0.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/270358e1_SEED-Bench_120.wav"
+  },
+  {
+    "question": "Across all years, what is the minimum under-5 female mortality rate?",
+    "choices": [
+      "4.098039257",
+      "6.160950442",
+      "3.621969619",
+      "2.521992218"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/ed69d674_63.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/7b22ef7e_SEED-Bench_121.wav"
+  },
+  {
+    "question": "Which word appears most frequently in this word cloud?",
+    "choices": [
+      "Portrait",
+      "Photography",
+      "Woman",
+      "Lady"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/394725dc_341.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/039f6d85_SEED-Bench_122.wav"
+  },
+  {
+    "question": "What is person2 thinking ?",
+    "choices": [
+      "person1 is wondering what he did wrong .",
+      "person2 thinks the sees someone he knows .",
+      "He is hoping all the men at the table do not get into a fight in his bar .",
+      "He ' s angry he has to be in the rain ."
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c661e8aa_1020_Crazy_Stupid_Love_00.24.45.505-00.24.46.573@0.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c1ed0971_SEED-Bench_123.wav"
+  },
+  {
+    "question": "What is the result of the arithmetic operation in the image?",
+    "choices": [
+      "58",
+      "62",
+      "65",
+      "67"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/ebe9035d_0003.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/b0602dfb_SEED-Bench_124.wav"
+  },
+  {
+    "question": "Which educational institution is mentioned on this user's LinkedIn profile?",
+    "choices": [
+      "Harvard Business School",
+      "Stanford University",
+      "London Business School",
+      "Oxford University"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/dd292693_409.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/5a917207_SEED-Bench_125.wav"
+  },
+  {
+    "question": "Which plateau is located to the east of the Rocky Mountains as indicated on the map?",
+    "choices": [
+      "Columbia Plateau",
+      "Colorado Plateau",
+      "Great Plains",
+      "Edwards Plateau"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c78142b9_163.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/ddbe2cb3_SEED-Bench_126.wav"
+  },
+  {
+    "question": "Identify and read emotions of people from their faces as shown in the image below.",
+    "choices": [
+      "Angry",
+      "Disgust",
+      "Surprise",
+      "Neutral"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/6d6b8e0d_28801.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/9801b3bb_SEED-Bench_127.wav"
+  },
+  {
+    "question": "What is the number of refugees by country of asylum in 2003?",
+    "choices": [
+      "4710",
+      "7023",
+      "8046",
+      "9265"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/e5b0d265_76.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/5cd5d4e2_SEED-Bench_128.wav"
+  },
+  {
+    "question": "For how long was the individual involved with DNNResearch according to the information shown?",
+    "choices": [
+      "3 months",
+      "2 years and 10 months",
+      "2 years and 11 months",
+      "2 months"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/d210f0f5_410.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/523c4f7f_SEED-Bench_129.wav"
+  },
+  {
+    "question": "What is the role of Harper Snee within the team?",
+    "choices": [
+      "QA Specialist",
+      "IT Systems Admin",
+      "Software Engineer",
+      "Security Engineering"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/35b2a34d_185.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/6fa6449a_SEED-Bench_130.wav"
+  },
+  {
+    "question": "What is the difference between the rating of statistical capacity in Armenia in 2004 and that in 2007?",
+    "choices": [
+      "10",
+      "12.22222222",
+      "14.44444444",
+      "15.55555556"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/35ecea54_11.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/df279a04_SEED-Bench_131.wav"
+  },
+  {
+    "question": "Identify and read emotions of people from their faces as shown in the image below.",
+    "choices": [
+      "Fear",
+      "Angry",
+      "Neutral",
+      "Happy"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/1e3f3c39_29130.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/0341ebc5_SEED-Bench_132.wav"
+  },
+  {
+    "question": "Which of the following locations is not directly under a red spot on the heat map, indicating lower metric intensity?",
+    "choices": [
+      "Huntington Park",
+      "Whittier",
+      "La Habra Heights",
+      "Rolling Hills"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/bacacdc3_380.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/02234b8f_SEED-Bench_133.wav"
+  },
+  {
+    "question": "Which customer expectation aligns with the highest importance level in accounting and sales, but not in financial analysis, according to this matrix?",
+    "choices": [
+      "Extensive advice",
+      "Inexpensive/fast",
+      "Extensive audit",
+      "Efficiency/speed"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/70731b65_527.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/e66bc8ec_SEED-Bench_134.wav"
+  },
+  {
+    "question": "Which mockup collection has been updated with new models added?",
+    "choices": [
+      "Stationery Mockups Collection",
+      "Ultimate Apparel Mockup Collection",
+      "Essential Packaging Mockup Collection",
+      "Specialty Print Mockup Pack"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/3c33eeee_376.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/51b5fbe6_SEED-Bench_135.wav"
+  },
+  {
+    "question": "What is the benefit of working visually that is associated with \"Win Buy-in\" in the image provided?",
+    "choices": [
+      "Share info",
+      "Explain & excuse",
+      "Make connections",
+      "More $$ (money)"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/548cf263_235.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/9dd134b6_SEED-Bench_136.wav"
+  },
+  {
+    "question": "According to the seller's information provided, how is the seller's feedback rating presented?",
+    "choices": [
+      "97.5% positive",
+      "98.7% positive",
+      "96.5% positive",
+      "97.8% positive"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/866c144b_106.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/743f65bd_SEED-Bench_137.wav"
+  },
+  {
+    "question": "What is the required minimum processor speed to run the game?",
+    "choices": [
+      "2.4GHz",
+      "2.0GHz",
+      "3.0GHz",
+      "3.2GHz"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/7dbb0cdf_194.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/f84dce8e_SEED-Bench_138.wav"
+  },
+  {
+    "question": "What is the second benefit of product pricing as mentioned in the infographic?",
+    "choices": [
+      "Manage Costs and Expenses",
+      "Used as a Marketing Tool",
+      "Attract Customers",
+      "Increase Customer Service"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/ae77577a_359.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/7f5f1e2b_SEED-Bench_139.wav"
+  },
+  {
+    "question": "What is the name of the landmark in the picture?",
+    "choices": [
+      "Pfarrkirche St. Michael (Tännesberg)",
+      "Duinrell",
+      "Park in Ostromecko",
+      "Tour Vauban"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/cdf03f84_2ed4c8680889bacf.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/7db7aae7_SEED-Bench_140.wav"
+  },
+  {
+    "question": "Who Is the actor inside the red bounding box?",
+    "choices": [
+      "Arnold Schwarzenegger",
+      "Bruce Willis",
+      "Sylvester Stallone",
+      "Jean-Claude Van Damme"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/8e83300a_tt0075148_shot_0618_img_0.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/fdc77d92_SEED-Bench_141.wav"
+  },
+  {
+    "question": "Based on the heatmap, which area shows the highest density of data points?",
+    "choices": [
+      "Chicago",
+      "Aurora",
+      "Naperville",
+      "Evanston"
+    ],
+    "ground_truth": "",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/f119478e_382.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/bf92aff1_SEED-Bench_142.wav"
+  },
+  {
+    "question": "How many trees are the treehouse built on?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "One",
+        "More than one"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/443b9ef3_275.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/e83b4741_MMVP_143.wav"
+  },
+  {
+    "question": "Does the snowman in the picture have a mouth?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/5d358c34_171.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/b45dbeda_MMVP_144.wav"
+  },
+  {
+    "question": "Is the minion in the image smiling with its tongue out?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c0d64eaa_291.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/0a7d7996_MMVP_145.wav"
+  },
+  {
+    "question": "Is the flower's center protruding or indented?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Protruding",
+        "Indented"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/03394663_128.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/495ab35d_MMVP_146.wav"
+  },
+  {
+    "question": "Is there an orange with leaves next to the cup?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/d2fc0d52_210.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/165fcedb_MMVP_147.wav"
+  },
+  {
+    "question": "Are these oranges hanging on the tree?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/5f641cc0_204.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/65fce2c1_MMVP_148.wav"
+  },
+  {
+    "question": "Are there patterns on the easter eggs?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/7f164f04_297.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c3e63e5a_MMVP_149.wav"
+  },
+  {
+    "question": "In the photo, is one of the man's hands blocked by the woman?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/5a4c7846_222.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/f91d8dd7_MMVP_150.wav"
+  },
+  {
+    "question": "Can you see the key \"Z\" in the image?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/8f9fce98_9.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/b51db1ef_MMVP_151.wav"
+  },
+  {
+    "question": "Are the ears of the dog erect or drooping?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Erect",
+        "Drooping"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/84278a7e_85.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/3fc4ae25_MMVP_152.wav"
+  },
+  {
+    "question": "In the image, is the snake's head oriented facing upwards or directed forwards?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Upwards",
+        "Forward"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/af4152d0_79.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/a57d8371_MMVP_153.wav"
+  },
+  {
+    "question": "Is the duck floating?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/b121acd1_40.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/656f68e8_MMVP_154.wav"
+  },
+  {
+    "question": "Is the school bus driving towards or away from the camera?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Towards the camera",
+        "Away from the camera"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/1e813fb1_8.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/4343d6ee_MMVP_155.wav"
+  },
+  {
+    "question": "Do the individuals in the picture face the front or the back?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Front",
+        "Back"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/6d889efd_235.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/28e30800_MMVP_156.wav"
+  },
+  {
+    "question": "Has the peacock opened its tail?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/0b3cad16_11.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/1f83bfb2_MMVP_157.wav"
+  },
+  {
+    "question": "What does the center button say?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "OK/SELECT",
+        "OK"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/a0979323_133.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/7e8bb49f_MMVP_158.wav"
+  },
+  {
+    "question": "Is the crocodile submerged in the water?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/8e3893ee_58.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/13582ad9_MMVP_159.wav"
+  },
+  {
+    "question": "Did the snake stick out its tongue and touch its skin?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/4b8c832e_70.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/4b8c7164_MMVP_160.wav"
+  },
+  {
+    "question": "Is the rabbit in the image facing left or right?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Left",
+        "Right"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/882321ab_243.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/b2b8aa3b_MMVP_161.wav"
+  },
+  {
+    "question": "Is the flame of the match more round or thin?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Round",
+        "Thin"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/e9429f19_3.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/ef7c0721_MMVP_162.wav"
+  },
+  {
+    "question": "Is the bell pepper in the picture red or yellow?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Red",
+        "Yellow"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/62dfa1bb_208.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/1db51613_MMVP_163.wav"
+  },
+  {
+    "question": "Is the child in the picture facing forward or in profile?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Facing forward",
+        "In profile"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/9176037f_267.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/59b4afe8_MMVP_164.wav"
+  },
+  {
+    "question": "From the camera's perspective, are the words \"SCHOOL BUS\" in the picture facing straight or oriented at an angle?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Directly towards the camera",
+        "At an angle"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/49be1c5a_129.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/6528902b_MMVP_165.wav"
+  },
+  {
+    "question": "In the picture, how is the snake primarily positioned?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Coiled",
+        "Head extended"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/88135e84_138.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/36ea8356_MMVP_166.wav"
+  },
+  {
+    "question": "Is the piano's back panel on the left or right side?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Left",
+        "Right"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/2f686ac8_149.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/7656422e_MMVP_167.wav"
+  },
+  {
+    "question": "Are the butterfly's feet visible?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/1503ba54_107.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/6e26c468_MMVP_168.wav"
+  },
+  {
+    "question": "How many eyes of the cat can you see in the picture?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "1",
+        "2"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/619da7af_118.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/db451f57_MMVP_169.wav"
+  },
+  {
+    "question": "The image captures a woman running from:",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Back view",
+        "Side view"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/cfd9c9c9_151.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/648446be_MMVP_170.wav"
+  },
+  {
+    "question": "Can you see people in this image?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/7f7d5a50_89.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/79924f42_MMVP_171.wav"
+  },
+  {
+    "question": "Is the lock locked or unlocked?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Locked",
+        "Unlocked"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/985b5799_71.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/3ffc5a29_MMVP_172.wav"
+  },
+  {
+    "question": "For the people operating the machine in the image, can you see one arm or both arms?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "One arm",
+        "Both arms"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/2eeb2ae4_159.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/f29c2157_MMVP_173.wav"
+  },
+  {
+    "question": "Is it a slice of cake or a whole cake in the picture?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Slice",
+        "Whole"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c22081f6_264.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/a996bf1b_MMVP_174.wav"
+  },
+  {
+    "question": "Is the person in the picture already standing on the weighing scale?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/eefb6971_185.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/5a3e0df9_MMVP_175.wav"
+  },
+  {
+    "question": "Is the vase beside the bedside table or on the windowsill?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Beside the bedside Table",
+        "On the Windowsill"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/0f2680cd_155.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/841618e2_MMVP_176.wav"
+  },
+  {
+    "question": "Are there patterns on the easter eggs?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/8eaeff43_298.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/d35221fe_MMVP_177.wav"
+  },
+  {
+    "question": "Is the knife laid flat or standing up?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Flat",
+        "Standing up"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/bb517c59_217.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/611e7182_MMVP_178.wav"
+  },
+  {
+    "question": "In the photo, is one of the man's hands blocked by the woman?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/92a3e941_221.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/1bf0bc94_MMVP_179.wav"
+  },
+  {
+    "question": "Where is the yellow animal's head lying in this image?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Floor",
+        "Carpet"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/873fbe51_131.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/ede46ca0_MMVP_180.wav"
+  },
+  {
+    "question": "What color are the flowers in the background?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Pink",
+        "Violet"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/6e460c3d_38.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/3d4af72b_MMVP_181.wav"
+  },
+  {
+    "question": "Do all the bottles in the picture face the same direction?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/3dba3776_230.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/609f4218_MMVP_182.wav"
+  },
+  {
+    "question": "Are the butterfly's wings closer to being open or closed?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Open",
+        "Closed"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/f894caf7_1.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/9a939b1a_MMVP_183.wav"
+  },
+  {
+    "question": "Is the dog facing left or right from the camera's perspective?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Left",
+        "Right"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/e3fdf59e_5.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/90185c8b_MMVP_184.wav"
+  },
+  {
+    "question": "Can you see letter \"J\" in the image?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/d563f11b_61.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/dd05dc1c_MMVP_185.wav"
+  },
+  {
+    "question": "Are there any clouds?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/b01ea50c_67.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c297527c_MMVP_186.wav"
+  },
+  {
+    "question": "Is the Christmas tree positioned in front of a large window or in front of a wall situated between two windows?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "In front of a large window",
+        "In front of a wall between two windows"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/91ec4e5a_164.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/fddf6bda_MMVP_187.wav"
+  },
+  {
+    "question": "Is the flame of the match more round or thin?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Round",
+        "Thin"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/a56cde0d_4.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/5d6d5bcd_MMVP_188.wav"
+  },
+  {
+    "question": "Do the vegetables have spikes?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/180cb3e2_35.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/16ba6dd8_MMVP_189.wav"
+  },
+  {
+    "question": "Do you see this flower from the top or the side?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Top",
+        "Side"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/09fb5397_75.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/e7570175_MMVP_190.wav"
+  },
+  {
+    "question": "Can you see the side windows of the vehicles?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/da3d1bab_139.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/ef59e99f_MMVP_191.wav"
+  },
+  {
+    "question": "Is the frame at the front of the motorcycle primarily silver or black in color?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Silver",
+        "Black"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/061e482a_157.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/08fde94e_MMVP_192.wav"
+  },
+  {
+    "question": "Is the male in the picture wearing a shirt or a T-shirt?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Shirt",
+        "T-shirt"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/e0d37b83_271.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/8e2292c4_MMVP_193.wav"
+  },
+  {
+    "question": "Is the beverage in the picture contained in a mug or a glass?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Mug",
+        "Glass"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/e1f8815b_252.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/341660ad_MMVP_194.wav"
+  },
+  {
+    "question": "Is the person weighing themselves barefoot?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/85ffcda6_197.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/67eacfd0_MMVP_195.wav"
+  },
+  {
+    "question": "From the camera's perspective, is the spider web very dense or relatively sparse?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Very dense",
+        "Relatively sparse"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/3893ac38_95.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/29ac365e_MMVP_196.wav"
+  },
+  {
+    "question": "Is the cup placed on a surface or being held by hand?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Placed on a surface",
+        "Held by hand"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c8b5477b_287.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/d1f33f9f_MMVP_197.wav"
+  },
+  {
+    "question": "Are there drinks on the table?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/0ae02bee_281.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/94e19009_MMVP_198.wav"
+  },
+  {
+    "question": "Are there any fruits or vegetables in the heart-shaped part of the picture?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/30a52dfb_248.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/9f05bd10_MMVP_199.wav"
+  },
+  {
+    "question": "Does the snowman in the picture have a mouth?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/5e324206_172.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/ff207084_MMVP_200.wav"
+  },
+  {
+    "question": "Is the minion in the image smiling with its tongue out?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/3e49d2f5_292.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/de6f393b_MMVP_201.wav"
+  },
+  {
+    "question": "Is the very top of the cake strawberries or cream?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Strawberries",
+        "Cream"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/a66daadc_249.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/a7bf0884_MMVP_202.wav"
+  },
+  {
+    "question": "Does the snowman have arms made of branches?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/b35b1307_214.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/e617ec59_MMVP_203.wav"
+  },
+  {
+    "question": "Is the wall behind the bed empty or is there a painting hanging on it?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Empty",
+        "A painting hanging on it"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/f9cd37fb_270.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/9dccf2d8_MMVP_204.wav"
+  },
+  {
+    "question": "Does the elephant have long or short tusks?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Long",
+        "Short"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/770856f4_99.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/9eb60082_MMVP_205.wav"
+  },
+  {
+    "question": "Are all the cups and bottles in the picture the same height?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/2c4afb67_226.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/e2166098_MMVP_206.wav"
+  },
+  {
+    "question": "Is the design in the picture Santa Claus or a snowman?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Santa Claus",
+        "Snowman"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c6e77682_254.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/b5a38342_MMVP_207.wav"
+  },
+  {
+    "question": "In this image, are the berries placed",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "On a dish",
+        "In bowls of yogurts"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/8451bd68_165.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/73671fa1_MMVP_208.wav"
+  },
+  {
+    "question": "Is the beverage in the picture contained in a mug or a glass?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Mug",
+        "Glass"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/75ba32a8_251.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/43dbb7f3_MMVP_209.wav"
+  },
+  {
+    "question": "Is the child in the picture facing forward or in profile?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Facing forward",
+        "In profile"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/d7f0b055_268.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/b878bc2f_MMVP_210.wav"
+  },
+  {
+    "question": "Are juice and all carrots on the same surface?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/0a6032e4_195.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/3da5417a_MMVP_211.wav"
+  },
+  {
+    "question": "Is the design in the picture Santa Claus or a snowman?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Santa Claus",
+        "Snowman"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/740cbdc0_253.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/763b3008_MMVP_212.wav"
+  },
+  {
+    "question": "Are the ears of the dog erect or drooping?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Erect",
+        "Drooping"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c82ef693_86.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/2b1c5da1_MMVP_213.wav"
+  },
+  {
+    "question": "Can you see the side windows of the vehicles?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/90aae3ce_140.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/68c6e840_MMVP_214.wav"
+  },
+  {
+    "question": "Do the individuals in the picture face the front or the back?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Front",
+        "Back"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/a885b5c6_236.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c605fa1d_MMVP_215.wav"
+  },
+  {
+    "question": "Is the peacock's head visible in the image?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/eda6e0f7_27.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/062c9920_MMVP_216.wav"
+  },
+  {
+    "question": "Do you see any window in this image?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/4325df7d_114.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/63431199_MMVP_217.wav"
+  },
+  {
+    "question": "Is the shoe in the image tied or untied?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Tied",
+        "Untied"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/2e443218_265.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c797b366_MMVP_218.wav"
+  },
+  {
+    "question": "Is the photo taken looking down from above or looking up from below?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Looking down from above",
+        "Looking up from below"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/425af557_145.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/446ea66d_MMVP_219.wav"
+  },
+  {
+    "question": "How would you describe the background of the image?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Light shining through the clouds from the upper right corner",
+        "Most of the background is dark and cloudy"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/88708155_300.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/0cf66d14_MMVP_220.wav"
+  },
+  {
+    "question": "Does this corn have white kernels?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/566fb743_121.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/a51efdb7_MMVP_221.wav"
+  },
+  {
+    "question": "Are these vegetables placed on the floor or on the soil?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Floor",
+        "Soil"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/a3a9c90e_194.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/65417810_MMVP_222.wav"
+  },
+  {
+    "question": "Are the bird's wings flapping upward or downward?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Upward",
+        "Downward"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/bfa47270_109.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/e6a2c1eb_MMVP_223.wav"
+  },
+  {
+    "question": "Is the edge of the heart in the picture white or dark-colored?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "White",
+        "Dark-colored"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/584bb75c_295.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/68aa2b65_MMVP_224.wav"
+  },
+  {
+    "question": "Is this a hammerhead shark?",
+    "ground_truth": "",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/d7c1987f_82.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/abce8f36_MMVP_225.wav"
+  }
+]

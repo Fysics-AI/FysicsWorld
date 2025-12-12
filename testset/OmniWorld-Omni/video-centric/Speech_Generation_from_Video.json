@@ -1,0 +1,986 @@
+[
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Sports",
+            "content_fine_category": "Career Highlights",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/540a2327_G_VTkkb34gw_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Education",
+            "content_fine_category": "Engineering Projects",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/0b0c864e_d6b4OmUFt7I_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Sports",
+            "content_fine_category": "Career Highlights",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/3ce7c70a_G_VTkkb34gw_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Sports",
+            "content_fine_category": "Career Highlights",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/788e7440_G_VTkkb34gw_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Education",
+            "content_fine_category": "Engineering Projects",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/1622bc53_d6b4OmUFt7I_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Education",
+            "content_fine_category": "Engineering Projects",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/20f67ea0_d6b4OmUFt7I_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Education",
+            "content_fine_category": "Engineering Projects",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/c8e0dcf8_d6b4OmUFt7I_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Sports",
+            "content_fine_category": "Documentary Profiles",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/a68164ec_jj5j3jksbUM_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Sports",
+            "content_fine_category": "Documentary Profiles",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/314dc016_jj5j3jksbUM_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Lifestyle",
+            "content_fine_category": "Travel Tips",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/90444b8f_6vKvjzuICxg_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Sports",
+            "content_fine_category": "Documentary Profiles",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/447ab509_jj5j3jksbUM_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Lifestyle",
+            "content_fine_category": "Travel Tips",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/db8f018e_6vKvjzuICxg_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "News & Politics",
+            "content_fine_category": "World News",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/18cef5eb_2u3tic9llpw_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "News & Politics",
+            "content_fine_category": "World News",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/349774a4_2u3tic9llpw_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "News & Politics",
+            "content_fine_category": "World News",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/4ee05a86_2u3tic9llpw_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "News & Politics",
+            "content_fine_category": "World News",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/cb38b6b0_2u3tic9llpw_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Education",
+            "content_fine_category": "Historical Analysis",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/e6b64579_P6-I5fsCA9w_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Education",
+            "content_fine_category": "Marketing Strategies",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/e89b9414_gleNOAoDG4U_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Education",
+            "content_fine_category": "Historical Analysis",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/0f091538_06b2PxvBoNU_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "News & Politics",
+            "content_fine_category": "Political News",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/e652827b_zI4QBIVHeIY_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Education",
+            "content_fine_category": "Marketing Strategies",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/12fe0eda_gleNOAoDG4U_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "News & Politics",
+            "content_fine_category": "Breaking News",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/46fef955_DTA5AbpHwEQ_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "News & Politics",
+            "content_fine_category": "World News",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/8270eadc_i9x_JohBBe4_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "News & Politics",
+            "content_fine_category": "Social Commentary",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/36ebc76c_ZtE20CoGkus_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "News & Politics",
+            "content_fine_category": "Social Commentary",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/93456959_ZtE20CoGkus_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Education",
+            "content_fine_category": "Marketing Strategies",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/2f4bb6ac_jqJNYUb22Xk_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "News & Politics",
+            "content_fine_category": "Social Commentary",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/9185f899_ZtE20CoGkus_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "Science & Technology",
+            "content_fine_category": "Climate Change",
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/c563b77f_b7LiW66cSM4_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": null,
+            "content_fine_category": null,
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/9306cede_2q4_wFFFG_U_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": null,
+            "content_fine_category": null,
+            "video_category": "News & Politics",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/68812117_2q4_wFFFG_U_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/925b0464_08km9Yqbt-A_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/1bdcd8b5_08km9Yqbt-A_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/0f0e1e89_1NH5dJ9VRvU_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/978913d3_08km9Yqbt-A_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/9dc32085_1NH5dJ9VRvU_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/fa0f4986_20gUIdXGuAs_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/4711ad3c_20gUIdXGuAs_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/790c4f08_1NH5dJ9VRvU_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/34c47d7d_40BlVzjxu-I_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/4da7900e_40BlVzjxu-I_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/3f9d3be7_20gUIdXGuAs_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/4b3aba2e_3fQxvz4ENDg_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/c9041d09_40BlVzjxu-I_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/b5a7885c_3fQxvz4ENDg_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/3eafaa8a_3uV8XZcIBbk_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/0d4b0f84_3fQxvz4ENDg_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/6ccdc6e9_54H8ppxnp8I_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/427b518c_3fQxvz4ENDg_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/6e628824_8TNPeimqOO0_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/fdbe7999_8TNPeimqOO0_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/eaab7736_8TNPeimqOO0_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/0d51be03_990ci2H9BBc_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/d50fa3a8_9QXXL96y3A0_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/71f302e1_8TNPeimqOO0_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/f1a09429_9Y-YJEtxHeo_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/536ce0bb_9Y-YJEtxHeo_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/d3924755_9Y-YJEtxHeo_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/d4685d3f_AFFZjzuAHMg_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/88b81bf8_AFFZjzuAHMg_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/0f75338a_CKYw_RG7i7w_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/f25f1733_CKYw_RG7i7w_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/cd6a87a1_E-YnmCB6yjo_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/57ef9015_E-YnmCB6yjo_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/82ce5d9f_FkZn5u3MIiY_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/2d900819_E-YnmCB6yjo_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/33bb3c0a_FcP0mzWFCQU_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/fe4c2a1d_FkZn5u3MIiY_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/bfbd26f6_FkZn5u3MIiY_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/4376e0f2_HK13nVxBYxI_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/3eda9785_N1cdUjctpG8_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/2e0ae361_N1cdUjctpG8_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/eb9cf56b_NEFG7YcIDcI_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/37defe67_K3ksKkCOgTw_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/8d8577f8_NEFG7YcIDcI_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/7288ec28_QTA8j5wSTx4_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/44c46db1_RBTiTcHm_ac_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/50af1cf3_RBTiTcHm_ac_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/7accfc2f_UyaKyS2wTQk_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/532fc005_UZvydHZKyww_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/9e8c43ad_UyaKyS2wTQk_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/e859dcdc_VQKpMmBDtZo_video.mp4",
+        "audio_path": ""
+    },
+    {
+        "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+        "task": "Speech_Generation",
+        "other_info": {
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Speech_Generation_from_Video/b151abee_RBTiTcHm_ac_video.mp4",
+        "audio_path": ""
+    }
+]

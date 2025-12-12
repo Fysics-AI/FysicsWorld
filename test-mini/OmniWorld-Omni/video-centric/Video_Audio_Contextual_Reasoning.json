@@ -1,0 +1,471 @@
+[
+    {
+        "question": "What does the dotted line with a moving airplane on the map primarily represent in the context of Nina's story?",
+        "ground_truth": "Nina's immigration sponsorship process",
+        "other_info": {
+            "choices": [
+                "Legal clinic outreach routes",
+                "Sponsorship application timelines",
+                "Domestic violence reporting paths",
+                "Nina's immigration sponsorship process"
+            ],
+            "Task": "Inference",
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "Nonprofits & Activism",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/a23e9377_Hel5dqvImSw_video.mp4"
+    },
+    {
+        "question": "What distinct musical characteristic emerged in the 40-60s segment that was absent in the 20-40s performance?",
+        "ground_truth": "Pulsating rhythmic foundation",
+        "other_info": {
+            "choices": [
+                "Improvisational violin solos",
+                "Digital audio manipulation effects",
+                "Pulsating rhythmic foundation",
+                "Prominent brass fanfare sections"
+            ],
+            "Task": "Comparative",
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "Sports",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/34a551ff_CwzjlmBLfrQ_video.mp4"
+    },
+    {
+        "question": "How much time does the man in the video spend each week scheduling for the store?",
+        "ground_truth": "2 hours.",
+        "other_info": {
+            "choices": [
+                "4 hours.",
+                "1 hour.",
+                "2 hours.",
+                "3 hours."
+            ],
+            "Task": "Recognition",
+            "sub_task": "Attribute Recognition",
+            "audio_class": [
+                "Speech",
+                "Music"
+            ],
+            "domain": "Tech & Science",
+            "sub_category": "Software",
+            "video_duration": "45s",
+            "duration": "<1min",
+            "video_caption": "A person with dark hair is visible against a light-colored background, with the word \"myBURGER\" written over the person's torso in white text. Then, blurry scenes of a kitchen area with multiple people behind a counter are shown. The video cuts to a close up of a person with dark hair and a light-colored shirt with a black jacket talking. The scene then transitions to a shot of several tables in a restaurant. The video then cuts back to the person in the black jacket talking. A laptop with a calendar on the screen is shown. The video again shows the person in the black jacket talking, followed by a very blurry shot of a table. The scene cuts to a slightly more focused shot of a table with condiments. The video then shows red chairs stacked up. The person in the black jacket is then shown holding white cups behind a counter. The person behind the counter is partially visible, wearing a white shirt and dark cap. The scene cuts again to the person in the black jacket talking. The video shows several yellow jars of mustard. The video then shows two halves of a burger on a white surface with various toppings. A shot of text that reads \"Flippin' good Burgers\" is shown over a wall."
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/de7f7f36_FyEqOPGL.mp4"
+    },
+    {
+        "question": "What visual detail was present when the audio mentioned discovering a blue tag in the forest?",
+        "ground_truth": "The man wearing a navy jacket and speaking to the camera",
+        "other_info": {
+            "choices": [
+                "The man touching fungus while estimating its age",
+                "The man sitting on a log examining fungus",
+                "The man wearing a feathered hat and holding a pendant",
+                "The man wearing a navy jacket and speaking to the camera"
+            ],
+            "Task": "AV Event Alignment",
+            "content_parent_category": "",
+            "content_fine_category": "",
+            "video_category": "Science & Technology",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/ebba1731_rieb8cBb2z8_video.mp4"
+    },
+    {
+        "question": "Which event occurs first: the initial appearance of the Israeli flag on a damaged structure or the first explicit reference to Iran's diplomatic response?",
+        "ground_truth": "Israeli flag appears during aftermath visuals",
+        "other_info": {
+            "choices": [
+                "Neither is directly addressed in the content",
+                "Iran's response is mentioned during conflict analysis",
+                "Israeli flag appears during aftermath visuals",
+                "Both occur when discussing regional tensions"
+            ],
+            "Task": "Event Sequence",
+            "content_parent_category": "News & Politics",
+            "content_fine_category": "World News",
+            "video_category": "Education",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/fcfd68d8_h_0DNygeF8A_video.mp4"
+    },
+    {
+        "question": "What change occurs in the saxophone music in the video?",
+        "ground_truth": "From calm to joyful.",
+        "other_info": {
+            "choices": [
+                "From gentle to heavy.",
+                "From heavy to gentle.",
+                "From calm to joyful.",
+                "From joyful to tranquil."
+            ],
+            "Task": "Reasoning",
+            "sub_task": "Audio Change",
+            "audio_class": [
+                "Music"
+            ],
+            "domain": "Music",
+            "sub_category": "Covers",
+            "video_duration": "60s",
+            "duration": "<1min",
+            "video_caption": "Three individuals are standing in a room. Each person is playing a saxophone. Each person has a music stand in front of them. The person on the left is wearing a blue shirt, the middle person is wearing a red shirt, and the person on the right is wearing a black shirt. There are empty chairs, a trash can, and a whiteboard in the room. The camera angle is stable and the lighting is bright."
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/58578809_quGdQZGH.mp4"
+    },
+    {
+        "question": "Is the keyboard making sound in the audio?",
+        "ground_truth": "Yes",
+        "other_info": {
+            "Task": "Video-driven Audio Hallucination",
+            "choices": [
+                "yes",
+                "no"
+            ]
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/e395b01d_02204.mp4"
+    },
+    {
+        "question": "What role does the initial electronic music serve in relation to its accompanying visual elements?",
+        "ground_truth": "To synchronize with the geometric patterns suggesting technological innovation",
+        "other_info": {
+            "choices": [
+                "To synchronize with the geometric patterns suggesting technological innovation",
+                "To foreshadow natural environments shown later in the video",
+                "To establish a meditative atmosphere for the product reveal",
+                "To create an auditory contrast with subsequent high-energy tracks"
+            ],
+            "Task": "Inference",
+            "content_parent_category": "Hobbies & Interests",
+            "content_fine_category": "Buyer’s Guides",
+            "video_category": "People & Blogs",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/13b249ec_cyfur9LHDII_video.mp4"
+    },
+    {
+        "question": "How many types of instruments are there in the video?",
+        "ground_truth": "Three types.",
+        "other_info": {
+            "choices": [
+                "Two types.",
+                "Three types.",
+                "Four types.",
+                "One type."
+            ],
+            "Task": "Recognition",
+            "sub_task": "Audio Counting",
+            "audio_class": [
+                "Music"
+            ],
+            "domain": "Music",
+            "sub_category": "Covers",
+            "video_duration": "60s",
+            "duration": "<1min",
+            "video_caption": "Three musicians are performing on a stage for a seated audience.  To the left, a person plays a grand piano. In the center, a musician plays an erhu, a two-stringed bowed musical instrument.  To the right, a musician plays a dizi, a transverse flute. The musicians are dressed in dark clothing. The stage is covered in an orange carpet, and the walls are white with large windows and dark window shades halfway drawn.  The musicians play their instruments continuously throughout the video. The audience watches attentively."
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/48067799_lFJblBlb.mp4"
+    },
+    {
+        "question": "Which visual element appeared when the speaker said 'don't buy anything...'?",
+        "ground_truth": "A woman working beside boxes with product images",
+        "other_info": {
+            "choices": [
+                "A woman working beside boxes with product images",
+                "Social media logos connected to a cell phone",
+                "A smartphone displaying a shopping cart",
+                "A man contemplating numbered checkpoints"
+            ],
+            "Task": "AV Event Alignment",
+            "content_parent_category": "Science & Technology",
+            "content_fine_category": "Software Reviews",
+            "video_category": "Science & Technology",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/69d6a968_AeS6jJ_e_CM_video.mp4"
+    },
+    {
+        "question": "What is the account rating displayed on the Nas Daily statistics interface in the second half of the video?",
+        "ground_truth": "A-.",
+        "other_info": {
+            "choices": [
+                "B+.",
+                "A-.",
+                "B-.",
+                "A+."
+            ],
+            "Task": "Understanding",
+            "sub_task": "Text and Diagram Understanding",
+            "audio_class": [
+                "Speech",
+                "Music",
+                "Event"
+            ],
+            "domain": "Culture & Politics",
+            "sub_category": "Social Commentary",
+            "video_duration": "610s",
+            "duration": ">8min",
+            "video_caption": "A video plays on a screen showing two dark-skinned boys. Two men with beards sit in front of the screen. One wears a gray sweater and the other a white shirt. The scene changes to a woman with long black hair, wearing a black turtleneck dress, standing on a stage with a dark background. She gestures with her hands as she speaks.  The scene cuts to two men on a brown leather couch. One has partially gray, short hair, and wears a black t-shirt. The other man has short black hair, a black t-shirt with a green design, and yellow and white sneakers. A bearded man appears in a smaller frame in the bottom right corner. The man with gray hair talks and gestures while the other man listens. The perspective switches to the bearded man who is wearing headphones and a black t-shirt against a swirling purple, teal, and red background.  “CHECK THE DESCRIPTION” and “BOBBY’S PERSPECTIVE” appear in orange and purple text. The scene returns to the two men on the couch; both are now gesturing as they talk. The video cuts back to Bobby, who is talking and gesturing. Two men sit at a table with a laptop between them.  One wears a camouflage tank top and a baseball cap, and the other a black t-shirt.  They appear to be having a conversation. The scene cuts back to the men on the brown couch.  Bobby reappears, looking down. An image of a shirtless man with tattoos appears with text that reads \"LAST TIME TATE DRUNK\". The scene changes back to Bobby, who raises his eyebrows and speaks, looking directly at the camera.  Bobby closes his eyes and lowers his head slightly."
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/fe6f3222_SbImIxzv.mp4"
+    },
+    {
+        "question": "Who is 15 years old?",
+        "ground_truth": "Jordan",
+        "other_info": {
+            "Task": "speaker_identification",
+            "domain": "stream video",
+            "timestamp": 58.479
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/d3fc7079_P3VcHnECgbs.mp4"
+    },
+    {
+        "question": "Which visual example supports the woman's statement about 'tooth decay, iron deficiency anemia'?",
+        "ground_truth": "A baby eats cereal in a highchair",
+        "other_info": {
+            "choices": [
+                "A child drinks from a purple bottle as a man discusses soda intake",
+                "A refrigerator stocked with beer and wrapped meat",
+                "A toddler grabs fried chicken from a patterned floor",
+                "A baby eats cereal in a highchair"
+            ],
+            "Task": "Reasoning",
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "Science & Technology",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/7d131b99_B7Hh0PY1kks_video.mp4"
+    },
+    {
+        "question": "When the rapper says 'Money on my mind,' which visual element is synchronized with this lyric?",
+        "ground_truth": "Gun in holster with studded belt",
+        "other_info": {
+            "choices": [
+                "Hundred-dollar bills scattered on the ground",
+                "Green litter box with a blue scoop",
+                "Close-up of a gray tabby cat in a litter box",
+                "Gun in holster with studded belt"
+            ],
+            "Task": "Context understanding",
+            "content_parent_category": "Entertainment",
+            "content_fine_category": "Music Videos",
+            "video_category": "Music",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/933db045_k48QCmAh31E_video.mp4"
+    },
+    {
+        "question": "Which visual element coincided with the narrator stating 'Temperatures may also drop depending on a couple of fact'?",
+        "ground_truth": "Total solar eclipse framed by tree branches",
+        "other_info": {
+            "choices": [
+                "Animated Earth and Moon against black background",
+                "White board with shadow bands text",
+                "Thermometer with red liquid in background",
+                "Total solar eclipse framed by tree branches"
+            ],
+            "Task": "AV Event Alignment",
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "News & Politics",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/c5783759_990ci2H9BBc_video.mp4"
+    },
+    {
+        "question": "What is the primary purpose of the '*REGULAR LEVEL 2*' text displayed at 20-30s?",
+        "ground_truth": "It synchronizes with the narrator's current dialogue",
+        "other_info": {
+            "choices": [
+                "It introduces a sublevel not previously mentioned",
+                "It contrasts the environment described in the audio",
+                "It synchronizes with the narrator's current dialogue",
+                "It highlights a safe zone within the level"
+            ],
+            "Task": "Inference",
+            "content_parent_category": "Entertainment",
+            "content_fine_category": "Travel Vlogs",
+            "video_category": "Entertainment",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/aee5dc45_fqRSLvhdUII_video.mp4"
+    },
+    {
+        "question": "At the precise moment the upbeat rock music began, which visual element was displayed?",
+        "ground_truth": "Exterior shot of ED'S bike shop showing crowd and pennants",
+        "other_info": {
+            "choices": [
+                "Customer signing waiver at check-in table",
+                "Mechanic adjusting handlebars in workshop",
+                "Close-up of two cyclists performing mid-air stunts",
+                "Exterior shot of ED'S bike shop showing crowd and pennants"
+            ],
+            "Task": "Comparative",
+            "content_parent_category": "Entertainment",
+            "content_fine_category": "Event Livestreams",
+            "video_category": "People & Blogs",
+            "video_duration": "30s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/9a8ecc64_jsCsIW8zFvQ_video.mp4"
+    },
+    {
+        "question": "What prize is explicitly stated as the reward for the winner in the game explanation?",
+        "ground_truth": "A new pair of shoes",
+        "other_info": {
+            "choices": [
+                "A car from the '4 Million Road' segment",
+                "A signed basketball jersey",
+                "A trip to space shown in special effects",
+                "A new pair of shoes"
+            ],
+            "Task": "Inference",
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "Sports",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/af928992_EavQ0LtEICY_video.mp4"
+    },
+    {
+        "question": "Which visual corresponds to the audio question 'And what happens with different cultures in the workplace?'",
+        "ground_truth": "Crowded airport check-in area with 'QUEUE HERE' sign",
+        "other_info": {
+            "choices": [
+                "Airline counter with AB AIRLINE employees",
+                "Passengers disembarking via mobile staircase",
+                "Crowded airport check-in area with 'QUEUE HERE' sign",
+                "Diversity dashboard showing 'DEAL ORIENTATED' gauge"
+            ],
+            "Task": "Context understanding",
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "Education",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/756f09db_PSt_op3fQck_video.mp4"
+    },
+    {
+        "question": "Why does the first man in the video take off his clothes?",
+        "ground_truth": "Because he is attending a party.",
+        "other_info": {
+            "choices": [
+                "Because his clothes are wet.",
+                "Because he feels hot.",
+                "Because he is trying on clothes.",
+                "Because he is attending a party."
+            ],
+            "Task": "Understanding",
+            "sub_task": "Human Emotions",
+            "audio_class": [
+                "Music",
+                "Event"
+            ],
+            "domain": "Film & TV",
+            "sub_category": "Event Livestreams",
+            "video_duration": "171s",
+            "duration": "2-4min",
+            "video_caption": "A man in a blue t-shirt and black shorts stands in an art gallery, holding a golf club and dancing. He removes his t-shirt.  A group of people dance in the gallery. Two people hug. A man with a white beanie and white shirt dances. He has red tape wrapped around his torso that reads “DANGER.” He has a small red bin in one hand. A man and a woman stand next to a white structure with “THE GLORY” spray-painted on it in green.  A woman dances and takes photos with a cell phone. A man wearing a black fedora and green t-shirt takes photos. Several people dance in the gallery. A group dances, and they lift a person in the air and carry them around the gallery. A person carries a tray of lit cupcakes. A man with a hat and a green t-shirt blows out the candles on the cupcakes. People cheer and clap. The person who blew out the candles and the person holding the cupcakes kiss."
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/eeaa6330_vfneWNFi.mp4"
+    },
+    {
+        "question": "What changes occurred in the state of the ring-shaped drones in the video?",
+        "ground_truth": "The drones changed from a state of rest to motion and then returned to rest.",
+        "other_info": {
+            "choices": [
+                "The drones transitioned from a state of motion to rest and then back to motion.",
+                "The drones changed from a state of rest to motion and then remained in motion.",
+                "The drones transitioned from a state of motion to rest and then remained at rest.",
+                "The drones changed from a state of rest to motion and then returned to rest."
+            ],
+            "Task": "Reasoning",
+            "sub_task": "Object State Change",
+            "audio_class": [
+                "Speech",
+                "Music",
+                "Event"
+            ],
+            "domain": "Tech & Science",
+            "sub_category": "Engineering Projects",
+            "video_duration": "122s",
+            "duration": "2-4min",
+            "video_caption": "The first portion of the video depicts two people indoors. One person is wearing a red t-shirt, and the other is wearing a black t-shirt. The person in the black shirt is holding a long, thin structure. This structure appears to have several lights and wires attached to it. The two people appear to be speaking to each other. Later in the video, a person wearing a red hoodie can be seen outdoors, holding a controller. There are several large pipes and metal structures visible. There is a flying structure visible in the air, which is also lit with lights. The perspective changes to that of the flying structure, revealing that it is a multi-rotor configuration with a perimeter frame, moving around various outdoor industrial locations. Later, it returns to the view of the person holding the controller, and then focuses on various aerial views of the flying structure as well."
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/c6d1c549_FHlbeENJ.mp4"
+    },
+    {
+        "question": "Which visual event occurred when the speaker said 'Did he? He reviewed reviews on products'?",
+        "ground_truth": "Person in olive green hoodie speaking",
+        "other_info": {
+            "choices": [
+                "Man in gray jacket wiping his face",
+                "Mark Zuckerberg holding a VR headset",
+                "Person in olive green hoodie speaking",
+                "Person in light green hoodie discussing Vision Pro"
+            ],
+            "Task": "AV Event Alignment",
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "Science & Technology",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/95d170cd_NCNeFSJexSY_video.mp4"
+    },
+    {
+        "question": "Which elements in the opening sequence primarily establish the video's scientific context?",
+        "ground_truth": "Ethereal synthesizer tones layered under spiral galaxy visuals",
+        "other_info": {
+            "choices": [
+                "Absence of narration with static-filled screens",
+                "Textual data about planetary motion",
+                "Ethereal synthesizer tones layered under spiral galaxy visuals",
+                "Corporate emblem transitioning into starfield visuals"
+            ],
+            "Task": "Context understanding",
+            "content_parent_category": "No content_parent_category provided",
+            "content_fine_category": "No content_fine_category provided",
+            "video_category": "Science & Technology",
+            "video_duration": "60s"
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/36faf4c0_0w4OTD4L0GQ_video.mp4"
+    },
+    {
+        "question": "Who teamed up with the host during the visit to the fish market?",
+        "ground_truth": "Tatiana",
+        "other_info": {
+            "Task": "speaker_identification",
+            "domain": "stream video",
+            "timestamp": 494.5675
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/513512d3_Gt8U7ekFCC0.mp4"
+    },
+    {
+        "question": "How does the spaceship defeat the white robot on the snowy ground?",
+        "ground_truth": "Use a rope to wrap around the robot's legs.",
+        "other_info": {
+            "choices": [
+                "Use a rope to wrap around the robot's legs.",
+                "Employ a special method to short-circuit the robot.",
+                "Attack the robot's legs using the spaceship's machine gun.",
+                "Fire spaceship cannons at the ground near the robot's legs."
+            ],
+            "Task": "Recognition",
+            "sub_task": "Event Recognition",
+            "audio_class": [
+                "Music"
+            ],
+            "domain": "Film & TV",
+            "sub_category": "Film Trailers",
+            "video_duration": "36s",
+            "duration": "<1min",
+            "video_caption": "A bright blue light flares horizontally across the screen. The words \"ALL NINE FILMS\" appear on a black starry background.  Two yellow podracers speed through a desert landscape, connected by pink lightning. A Star Destroyer floats in space above a planet, a smaller ship firing a green laser towards it. A TIE fighter flies past the Star Destroyer. A Lego Luke Skywalker fires a blaster at a Lego Slave I. A Lego Kylo Ren ignites his blue lightsaber in a darkened room.  A Lego Poe Dameron grins in the cockpit of an X-wing.  Countless Lego Star Wars ships fly through space. A giant Lego Yoda appears, looking downwards. The words “IN THE BIGGEST LEGO GAME EVER” appear against a black background. Several Lego Jedi ignite their lightsabers on a desert planet.  A Lego X-wing flies and fires red lasers, exploding against a large ship and terrain. Lego Han Solo uses macrobinoculars in the cockpit of the Millennium Falcon. Lego Han Solo, Chewbacca, and Luke Skywalker walk together, surrounded by rebel soldiers. Lego General Grievous faces Lego Obi-Wan Kenobi.  Lego Obi-Wan Kenobi smiles. A Lego Jedi deflects blaster fire with a lightsaber. A Lego snowspeeder flies past an AT-AT’s legs in a snowy landscape.  The AT-AT falls forwards into the snow. Lego Luke Skywalker’s face is illuminated by a lightsaber. Lego Finn fights a Lego stormtrooper with melee weapons. Lego Luke Skywalker stands against a backdrop of flames, then ignites his lightsaber. A Lego Jedi deflects Force lightning with a lightsaber. Many Lego Star Wars characters are assembled on a hilltop against a starry night sky; their lightsabers are ignited."
+        },
+        "video_path": "media_merge/video/Video_Audio_Contextual_Reasoning/af099285_BQDKdEep.mp4"
+    }
+]

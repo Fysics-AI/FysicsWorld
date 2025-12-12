@@ -1,0 +1,785 @@
+[
+  {
+    "prompt": "Remove the people on the bridge.",
+    "task": "image edit",
+    "other_info": {},
+    "image_path": "media_merge/image/Image_Editing/cd9ba3fa_000172967.jpg"
+  },
+  {
+    "prompt": "Adjust all stools to the size of the smallest stool.",
+    "task": "image edit",
+    "other_info": {
+      "category": "size_adjustment"
+    },
+    "image_path": "media_merge/image/Image_Editing/de5efe4a_19.jpg"
+  },
+  {
+    "prompt": "Remove the person on the left side of the image, and adjust the brightness of the sky to make it appear sunnier.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "compose",
+      "category": "compose/human"
+    },
+    "image_path": "media_merge/image/Image_Editing/f7c47f65_7.jpg"
+  },
+  {
+    "prompt": "Remove the pool table from the scene.",
+    "task": "image edit",
+    "other_info": {},
+    "image_path": "media_merge/image/Image_Editing/6d433517_000107147.jpg"
+  },
+  {
+    "prompt": "Color change after phenolphthalein reagent is added to this cup of pure water",
+    "task": "image edit",
+    "other_info": {
+      "category": "chemistry"
+    },
+    "image_path": "media_merge/image/Image_Editing/3b734b23_12.png"
+  },
+  {
+    "prompt": "Draw the front view of the object based on its side view.",
+    "task": "image edit",
+    "other_info": {
+      "category": "viewpoint_change"
+    },
+    "image_path": "media_merge/image/Image_Editing/127dc274_1.jpg"
+  },
+  {
+    "prompt": "Remove the transport object in the image.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "remove",
+      "category": "transport"
+    },
+    "image_path": "media_merge/image/Image_Editing/b6883595_000210129.jpg"
+  },
+  {
+    "prompt": "Please draw the correct shape in the box at the lower right corner according to the pattern.",
+    "task": "image edit",
+    "other_info": {
+      "category": "abstract_reasoning"
+    },
+    "image_path": "media_merge/image/Image_Editing/47137e72_15.jpeg"
+  },
+  {
+    "prompt": "Extract the black T-shirt worn by the person in the image.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "extract",
+      "category": "clothes"
+    },
+    "image_path": "media_merge/image/Image_Editing/bfd9e22d_00000021.jpg"
+  },
+  {
+    "prompt": "Change the object color to a soft blue.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "adjust",
+      "category": "daily object"
+    },
+    "image_path": "media_merge/image/Image_Editing/bd56a2ac_000276684.jpg"
+  },
+  {
+    "prompt": "Correct the unreasonable parts of the animal in the image",
+    "task": "image edit",
+    "other_info": {
+      "category": "anomaly_correction"
+    },
+    "image_path": "media_merge/image/Image_Editing/4bb0b9b8_25.png"
+  },
+  {
+    "prompt": "Remove the object on the left side of the image, and increase the brightness of the central figure.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "compose",
+      "category": "compose/objects"
+    },
+    "image_path": "media_merge/image/Image_Editing/23eba94c_3.jpg"
+  },
+  {
+    "prompt": "Mark the path of the maze with a red line.",
+    "task": "image edit",
+    "other_info": {
+      "category": "rule-based_reasoning"
+    },
+    "image_path": "media_merge/image/Image_Editing/7eaa90e2_13.jpg"
+  },
+  {
+    "prompt": "Extract the transport (the rusty off-road vehicle) from the image, including the surrounding environment (sand dunes and background).",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "extract",
+      "category": "transport"
+    },
+    "image_path": "media_merge/image/Image_Editing/a28db5df_000278113.jpg"
+  },
+  {
+    "prompt": "Add a vintage bicycle leaning against the fence on the left side of the road.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "add",
+      "category": "for_add"
+    },
+    "image_path": "media_merge/image/Image_Editing/3f1e2021_000018370.jpg"
+  },
+  {
+    "prompt": "Change the number '26' on the rear of the car to '33'.",
+    "task": "image edit",
+    "other_info": {},
+    "image_path": "media_merge/image/Image_Editing/12949eef_000072858.jpg"
+  },
+  {
+    "prompt": "Please fill in the correct number at the question mark in the bottom left corner of the image according to the pattern.",
+    "task": "image edit",
+    "other_info": {
+      "category": "abstract_reasoning"
+    },
+    "image_path": "media_merge/image/Image_Editing/d678fdc0_52.png"
+  },
+  {
+    "prompt": "Modify to represent the situation where the ball is out of bounds.",
+    "task": "image edit",
+    "other_info": {
+      "category": "practical_knowledge"
+    },
+    "image_path": "media_merge/image/Image_Editing/dfa37749_26.jpg"
+  },
+  {
+    "prompt": "Complete the strings of the guitar",
+    "task": "image edit",
+    "other_info": {
+      "category": "part_completion"
+    },
+    "image_path": "media_merge/image/Image_Editing/f218cd33_10.jpg"
+  },
+  {
+    "prompt": "For a voltmeter connected to piezoelectric materials, demonstrate the voltage change after applying pressure.",
+    "task": "image edit",
+    "other_info": {
+      "category": "physics"
+    },
+    "image_path": "media_merge/image/Image_Editing/a2b2341a_31.png"
+  },
+  {
+    "prompt": "Remove the chair that is far from the camera and next to the plants.",
+    "task": "image edit",
+    "other_info": {},
+    "image_path": "media_merge/image/Image_Editing/07147adb_000068077.jpg"
+  },
+  {
+    "prompt": "Remove the object in the top left corner of the image, and resize the object in the bottom right to be larger.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "compose",
+      "category": "compose/objects"
+    },
+    "image_path": "media_merge/image/Image_Editing/95b638c1_4.jpg"
+  },
+  {
+    "prompt": "Transfer the image into a clean graphite pencil-sketch style.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "style",
+      "category": "style"
+    },
+    "image_path": "media_merge/image/Image_Editing/bc262035_000015317.jpg"
+  },
+  {
+    "prompt": "Place the printed document in front of the printer.",
+    "task": "image edit",
+    "other_info": {
+      "category": "position_movement"
+    },
+    "image_path": "media_merge/image/Image_Editing/c22a2ef3_11.jpg"
+  },
+  {
+    "prompt": "Correct the unreasonable parts of the wine glass in the image",
+    "task": "image edit",
+    "other_info": {
+      "category": "anomaly_correction"
+    },
+    "image_path": "media_merge/image/Image_Editing/6fc3d074_42.png"
+  },
+  {
+    "prompt": "Changes in the Fish When Encountering Danger in the Image",
+    "task": "image edit",
+    "other_info": {
+      "category": "biology"
+    },
+    "image_path": "media_merge/image/Image_Editing/8fd34196_45.jpg"
+  },
+  {
+    "prompt": "Change the background of the suit from a blank wall to a luxurious office setting that includes a wooden desk and a large window showing a cityscape.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "background",
+      "category": "daily object"
+    },
+    "image_path": "media_merge/image/Image_Editing/38bd4a53_000299747.jpg"
+  },
+  {
+    "prompt": "Based on the given image, draw the front view of the object.",
+    "task": "image edit",
+    "other_info": {
+      "category": "viewpoint_change"
+    },
+    "image_path": "media_merge/image/Image_Editing/8dd00b87_18.jpg"
+  },
+  {
+    "prompt": "Change to three spoons",
+    "task": "image edit",
+    "other_info": {
+      "category": "count_change"
+    },
+    "image_path": "media_merge/image/Image_Editing/04a0f2ea_38.png"
+  },
+  {
+    "prompt": "Change this candy to green.",
+    "task": "image edit",
+    "other_info": {
+      "category": "color_change"
+    },
+    "image_path": "media_merge/image/Image_Editing/c7a340fe_38.jpg"
+  },
+  {
+    "prompt": "Remove the book on the table, and adjust the size of the vase to be larger.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "compose",
+      "category": "compose/objects"
+    },
+    "image_path": "media_merge/image/Image_Editing/fa7e919b_2.jpg"
+  },
+  {
+    "prompt": "Place a paperclip in a cup of water to demonstrate the effect of surface tension.",
+    "task": "image edit",
+    "other_info": {
+      "category": "physics"
+    },
+    "image_path": "media_merge/image/Image_Editing/9c4807cc_37.png"
+  },
+  {
+    "prompt": "Adjust the shorter book to match the height of the taller book.",
+    "task": "image edit",
+    "other_info": {
+      "category": "size_adjustment"
+    },
+    "image_path": "media_merge/image/Image_Editing/8b30c5e7_11.png"
+  },
+  {
+    "prompt": "Remove the sign in the scene",
+    "task": "image edit",
+    "other_info": {},
+    "image_path": "media_merge/image/Image_Editing/0b7a7c65_000020019.jpg"
+  },
+  {
+    "prompt": "Draw what it will look like after being frozen in the refrigerator.",
+    "task": "image edit",
+    "other_info": {
+      "category": "temporal_reasoning",
+      "subtask": "Material Progression"
+    },
+    "image_path": "media_merge/image/Image_Editing/2f1b41be_AAA_9.png"
+  },
+  {
+    "prompt": "Remove the object in the foreground, and adjust the brightness of the background to make it lighter.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "compose",
+      "category": "compose/objects"
+    },
+    "image_path": "media_merge/image/Image_Editing/7f415840_15.jpg"
+  },
+  {
+    "prompt": "Change the tablecloth in the background to a solid light blue color.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "background",
+      "category": "daily object"
+    },
+    "image_path": "media_merge/image/Image_Editing/182ca6da_000273675.jpg"
+  },
+  {
+    "prompt": "Adjust the large eraser to the size of the small eraser.",
+    "task": "image edit",
+    "other_info": {
+      "category": "size_adjustment"
+    },
+    "image_path": "media_merge/image/Image_Editing/3de9d8d7_22.png"
+  },
+  {
+    "prompt": "Bubble carbon dioxide slowly into the beaker and show the colour shift.",
+    "task": "image edit",
+    "other_info": {
+      "category": "chemistry"
+    },
+    "image_path": "media_merge/image/Image_Editing/a7563042_52.png"
+  },
+  {
+    "prompt": "Place the potted plant on the far right of the same shelf level.",
+    "task": "image edit",
+    "other_info": {
+      "category": "position_movement"
+    },
+    "image_path": "media_merge/image/Image_Editing/aa3f635a_15.png"
+  },
+  {
+    "prompt": "Changes after dropping litmus solution into the pool",
+    "task": "image edit",
+    "other_info": {
+      "category": "chemistry"
+    },
+    "image_path": "media_merge/image/Image_Editing/4afab344_7.png"
+  },
+  {
+    "prompt": "Correct the unreasonable part in the image.",
+    "task": "image edit",
+    "other_info": {
+      "category": "anomaly_correction"
+    },
+    "image_path": "media_merge/image/Image_Editing/dffc6b0c_53.png"
+  },
+  {
+    "prompt": "Remove the watermark from the image",
+    "task": "image edit",
+    "other_info": {},
+    "image_path": "media_merge/image/Image_Editing/680d3d5a_000323538.jpg"
+  },
+  {
+    "prompt": "Modify the depicted character in the image to the most representative figure in Christianity.",
+    "task": "image edit",
+    "other_info": {
+      "category": "humanities"
+    },
+    "image_path": "media_merge/image/Image_Editing/a14d4f28_20.jpeg"
+  },
+  {
+    "prompt": "Adjust the small doll to the size of the large doll.",
+    "task": "image edit",
+    "other_info": {
+      "category": "size_adjustment"
+    },
+    "image_path": "media_merge/image/Image_Editing/11ffcc7a_7.png"
+  },
+  {
+    "prompt": "Draw what it will look like after one hour on a hot grill.",
+    "task": "image edit",
+    "other_info": {
+      "category": "temporal_reasoning",
+      "subtask": "Material Progression"
+    },
+    "image_path": "media_merge/image/Image_Editing/b8653ef1_AAA_3.png"
+  },
+  {
+    "prompt": "Now fold this white paper once such that point A and point B coincide, and draw the crease line on the unfolded white paper.",
+    "task": "image edit",
+    "other_info": {
+      "category": "mathematics"
+    },
+    "image_path": "media_merge/image/Image_Editing/ac79a4fe_37.png"
+  },
+  {
+    "prompt": "Complete the knife",
+    "task": "image edit",
+    "other_info": {
+      "category": "part_completion"
+    },
+    "image_path": "media_merge/image/Image_Editing/d8d48dd9_48.png"
+  },
+  {
+    "prompt": "Based on the given image, draw the rear view of the object.",
+    "task": "image edit",
+    "other_info": {
+      "category": "viewpoint_change"
+    },
+    "image_path": "media_merge/image/Image_Editing/15d32f8c_25.jpg"
+  },
+  {
+    "prompt": "Modify to wind speed variation encountered by the diffusion effect",
+    "task": "image edit",
+    "other_info": {
+      "category": "geography"
+    },
+    "image_path": "media_merge/image/Image_Editing/c92c4863_30.jpg"
+  },
+  {
+    "prompt": "Remove the pink cushion on the ground, and change the drink in the woman's hand on the right to a green beverage.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "compose",
+      "category": "compose/human"
+    },
+    "image_path": "media_merge/image/Image_Editing/c5e155f6_15.jpg"
+  },
+  {
+    "prompt": "Use shading to mark the common intersection of sets A, B, C, and D.",
+    "task": "image edit",
+    "other_info": {
+      "category": "mathematics"
+    },
+    "image_path": "media_merge/image/Image_Editing/279b146f_12.png"
+  },
+  {
+    "prompt": "Remove the human sitting on the bench in the foreground.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "remove",
+      "category": "human"
+    },
+    "image_path": "media_merge/image/Image_Editing/28ff0ec5_000352814.jpg"
+  },
+  {
+    "prompt": "Direct a blower straight upward and place a small ball in the airstream",
+    "task": "image edit",
+    "other_info": {
+      "category": "physics"
+    },
+    "image_path": "media_merge/image/Image_Editing/b7edff62_69.jpeg"
+  },
+  {
+    "prompt": "Remove the tree in the background on the left side of the image, and increase the size of the kangaroo in the foreground on the right.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "compose",
+      "category": "compose/animal"
+    },
+    "image_path": "media_merge/image/Image_Editing/b9001a02_5.jpg"
+  },
+  {
+    "prompt": "Soccer match, left side is out of bounds, only retain the ball that is out of bounds",
+    "task": "image edit",
+    "other_info": {
+      "category": "practical_knowledge"
+    },
+    "image_path": "media_merge/image/Image_Editing/d4ad4f02_27.jpg"
+  },
+  {
+    "prompt": "Draw what it will look like a six hours later.",
+    "task": "image edit",
+    "other_info": {
+      "category": "temporal_reasoning",
+      "subtask": "Environmental Cycles"
+    },
+    "image_path": "media_merge/image/Image_Editing/0dc74723_AAA_8.png"
+  },
+  {
+    "prompt": "Modify to appear as post-shoulder dislocation",
+    "task": "image edit",
+    "other_info": {
+      "category": "medicine"
+    },
+    "image_path": "media_merge/image/Image_Editing/37c88d57_43.png"
+  },
+  {
+    "prompt": "Change the embroidery to a rabbit-shaped design",
+    "task": "image edit",
+    "other_info": {},
+    "image_path": "media_merge/image/Image_Editing/34622689_000122881.jpg"
+  },
+  {
+    "prompt": "Match each item on the left with the animal on the right based on its production origin.",
+    "task": "image edit",
+    "other_info": {
+      "category": "rule-based_reasoning"
+    },
+    "image_path": "media_merge/image/Image_Editing/17b06c34_68.jpg"
+  },
+  {
+    "prompt": "Change the garden environment in the picture to a snowy landscape.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "background",
+      "category": "animal"
+    },
+    "image_path": "media_merge/image/Image_Editing/571ad6f2_000000265.jpg"
+  },
+  {
+    "prompt": "Remove the plastic-wrapped cookies on the metallic surface.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "remove",
+      "category": "daily object"
+    },
+    "image_path": "media_merge/image/Image_Editing/e431d824_000106052.jpg"
+  },
+  {
+    "prompt": "Modify to look like when not pregnant",
+    "task": "image edit",
+    "other_info": {
+      "category": "medicine"
+    },
+    "image_path": "media_merge/image/Image_Editing/d410d1d7_44.png"
+  },
+  {
+    "prompt": "Draw what this species look like more than two million years ago.",
+    "task": "image edit",
+    "other_info": {
+      "category": "temporal_reasoning",
+      "subtask": "Life Progression"
+    },
+    "image_path": "media_merge/image/Image_Editing/7b59f68c_AAA_4.png"
+  },
+  {
+    "prompt": "Complete the pottery bowl.",
+    "task": "image edit",
+    "other_info": {
+      "category": "part_completion"
+    },
+    "image_path": "media_merge/image/Image_Editing/2658e2c7_35.png"
+  },
+  {
+    "prompt": "Transfer the image into a neon-soaked cyberpunk poster style.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "style",
+      "category": "style"
+    },
+    "image_path": "media_merge/image/Image_Editing/f7f6e7af_000278574.jpg"
+  },
+  {
+    "prompt": "Modify to appear as a middle finger fracture",
+    "task": "image edit",
+    "other_info": {
+      "category": "medicine"
+    },
+    "image_path": "media_merge/image/Image_Editing/13787094_1.jpg"
+  },
+  {
+    "prompt": "Change all green tablecloths to red.",
+    "task": "image edit",
+    "other_info": {},
+    "image_path": "media_merge/image/Image_Editing/798ead82_000125936.jpg"
+  },
+  {
+    "prompt": "Remove all people wearing shorts",
+    "task": "image edit",
+    "other_info": {},
+    "image_path": "media_merge/image/Image_Editing/e08ac831_000273734.jpg"
+  },
+  {
+    "prompt": "Mark the length of side BC in the diagram",
+    "task": "image edit",
+    "other_info": {
+      "category": "mathematics"
+    },
+    "image_path": "media_merge/image/Image_Editing/66dfe943_50.jpg"
+  },
+  {
+    "prompt": "Transfer the image into a faceted low-poly 3-D render style.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "style",
+      "category": "style"
+    },
+    "image_path": "media_merge/image/Image_Editing/23df89c9_000278574.jpg"
+  },
+  {
+    "prompt": "Remove the person wearing green clothes and restore the person wearing orange clothes that he is blocking",
+    "task": "image edit",
+    "other_info": {},
+    "image_path": "media_merge/image/Image_Editing/d0e80fa3_000010901.jpg"
+  },
+  {
+    "prompt": "Remove all people from the scene.",
+    "task": "image edit",
+    "other_info": {},
+    "image_path": "media_merge/image/Image_Editing/467ba67c_000120836.jpg"
+  },
+  {
+    "prompt": "Modify the weapon in the image to symbolize the spirit of Japanese Bushido.",
+    "task": "image edit",
+    "other_info": {
+      "category": "humanities"
+    },
+    "image_path": "media_merge/image/Image_Editing/848c9764_49.jpeg"
+  },
+  {
+    "prompt": "Change the season in the image to autumn",
+    "task": "image edit",
+    "other_info": {
+      "category": "biology"
+    },
+    "image_path": "media_merge/image/Image_Editing/0515a9da_50.jpg"
+  },
+  {
+    "prompt": "Change the ordinary bridge in the image to London’s Tower Bridge over the Thames",
+    "task": "image edit",
+    "other_info": {
+      "category": "humanities"
+    },
+    "image_path": "media_merge/image/Image_Editing/beeb6e5c_55.jpg"
+  },
+  {
+    "prompt": "Please fill in the two empty 3x3 grids according to the pattern.",
+    "task": "image edit",
+    "other_info": {
+      "category": "abstract_reasoning"
+    },
+    "image_path": "media_merge/image/Image_Editing/2a9d6fb3_35.png"
+  },
+  {
+    "prompt": "Add a modern skyscraper to the background.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "add",
+      "category": "for_add"
+    },
+    "image_path": "media_merge/image/Image_Editing/59c26821_000153470.jpg"
+  },
+  {
+    "prompt": "Place Minions' favorite food on the table",
+    "task": "image edit",
+    "other_info": {
+      "category": "humanities"
+    },
+    "image_path": "media_merge/image/Image_Editing/f0d14e1d_30.png"
+  },
+  {
+    "prompt": "Extract the metallic silver top worn by the person in the image.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "extract",
+      "category": "clothes"
+    },
+    "image_path": "media_merge/image/Image_Editing/088c88d2_00000054.jpg"
+  },
+  {
+    "prompt": "Use the image object as the main visual. Place the smartphone vertically at the center of a completely black background. The blue light emitted from the screen should be the only light source, creating a halo diffusion effect around it to enhance the visual language of \"Technology as Light.\" Do not introduce any other objects. Only place the title \"BEYOND THE EDGE\" in extremely fine white sans-serif font at the top center of the image. The overall composition should be centered and symmetrical, with a minimalist, cool, and futuristic tension, suitable for high-end tech brand visual displays or new product launch posters.",
+    "task": "image edit",
+    "other_info": {
+      "category": "multi-instruction_execution"
+    },
+    "image_path": "media_merge/image/Image_Editing/a2ede206_17.png"
+  },
+  {
+    "prompt": "Add a coffee mug on the table in the foreground.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "add",
+      "category": "for_add"
+    },
+    "image_path": "media_merge/image/Image_Editing/20e72462_000088945.jpg"
+  },
+  {
+    "prompt": "Draw what they will look like after frying for 5 minutes.",
+    "task": "image edit",
+    "other_info": {
+      "category": "temporal_reasoning",
+      "subtask": "Material Progression"
+    },
+    "image_path": "media_merge/image/Image_Editing/a733d58f_AAA_1.png"
+  },
+  {
+    "prompt": "Change to five bowls",
+    "task": "image edit",
+    "other_info": {
+      "category": "count_change"
+    },
+    "image_path": "media_merge/image/Image_Editing/75b51849_43.jpg"
+  },
+  {
+    "prompt": "Add an equal amount of red paint to the blue paint to mix into a new color",
+    "task": "image edit",
+    "other_info": {
+      "category": "practical_knowledge"
+    },
+    "image_path": "media_merge/image/Image_Editing/bc937f1d_21.jpeg"
+  },
+  {
+    "prompt": "Based on the given image, draw the object's front view.",
+    "task": "image edit",
+    "other_info": {
+      "category": "viewpoint_change"
+    },
+    "image_path": "media_merge/image/Image_Editing/66cb6289_8.jpg"
+  },
+  {
+    "prompt": "Disconnect the rightmost red wire.",
+    "task": "image edit",
+    "other_info": {
+      "category": "physics"
+    },
+    "image_path": "media_merge/image/Image_Editing/f09d67fa_44.jpeg"
+  },
+  {
+    "prompt": "Place the glasses into the glasses case.",
+    "task": "image edit",
+    "other_info": {
+      "category": "position_movement"
+    },
+    "image_path": "media_merge/image/Image_Editing/66cd65c7_23.png"
+  },
+  {
+    "prompt": "Make this graph a connected graph without changing the number of nodes.",
+    "task": "image edit",
+    "other_info": {
+      "category": "mathematics"
+    },
+    "image_path": "media_merge/image/Image_Editing/db42d522_22.png"
+  },
+  {
+    "prompt": "Replace all Ferrari logos in the scene with Porsche logos",
+    "task": "image edit",
+    "other_info": {},
+    "image_path": "media_merge/image/Image_Editing/997df8e8_000267175.jpg"
+  },
+  {
+    "prompt": "Center the ceramic purple clay teapot as the main visual focus, positioning it slightly to the right of the ink wash background. Place the teapot on a coarse ceramic tea tray. The background should consist of a vast area of pale gray and rice paper white for a large blank space, with a faint wisp of tea smoke subtly appearing in the upper right corner. The light should shine diagonally from the upper left to enhance the natural glaze variations and handcrafted textures on the teapot's surface. The overall color tone should primarily feature gray, red, and brown, embodying a serene and subdued style that echoes the \"silent beauty\" of Oriental objects.",
+    "task": "image edit",
+    "other_info": {
+      "category": "multi-instruction_execution"
+    },
+    "image_path": "media_merge/image/Image_Editing/3f7c0001_29.jpg"
+  },
+  {
+    "prompt": "Change the person's shirt color to blue.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "adjust",
+      "category": "human"
+    },
+    "image_path": "media_merge/image/Image_Editing/06ab67d0_000309116.jpg"
+  },
+  {
+    "prompt": "Change the snowy forest environment to a springtime forest with budding trees and wildflowers.",
+    "task": "image edit",
+    "other_info": {
+      "edit_type": "background",
+      "category": "architecture"
+    },
+    "image_path": "media_merge/image/Image_Editing/6da01184_000276347.jpg"
+  },
+  {
+    "prompt": "Change this red bell pepper to green.",
+    "task": "image edit",
+    "other_info": {
+      "category": "color_change"
+    },
+    "image_path": "media_merge/image/Image_Editing/058d67d2_35.jpeg"
+  },
+  {
+    "prompt": "Observe the test tube containing quinine water under a UV lamp",
+    "task": "image edit",
+    "other_info": {
+      "category": "chemistry"
+    },
+    "image_path": "media_merge/image/Image_Editing/35692d4e_17.jpg"
+  },
+  {
+    "prompt": "Draw what it will look like after the seasons have fully cycled twice.",
+    "task": "image edit",
+    "other_info": {
+      "category": "temporal_reasoning",
+      "subtask": "Environmental Cycles"
+    },
+    "image_path": "media_merge/image/Image_Editing/41af01d0_AAA_5.png"
+  },
+  {
+    "prompt": "Play the Four Color Theorem game on this map by coloring it with red, yellow, blue, and green.",
+    "task": "image edit",
+    "other_info": {
+      "category": "rule-based_reasoning"
+    },
+    "image_path": "media_merge/image/Image_Editing/29f3bf05_33.jpg"
+  }
+]

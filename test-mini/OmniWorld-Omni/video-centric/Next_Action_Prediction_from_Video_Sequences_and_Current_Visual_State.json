@@ -1,0 +1,378 @@
+[
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nMy role involves makes potato salad, and the video highlights the task's progress, What are the outcomes I should expect from the next task?",
+        "choice": [
+            "feed cat",
+            "garnish potato salad with sliced carrots",
+            "clean chopsticks",
+            "heat oil in pan",
+            "season meat in polythene bag"
+        ],
+        "ground_truth": "dry hands",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/817ae44e_grp-3d7ccb44-b05d-4b67-baae-4e0f55d8307b_797.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/c8ca8bbb_grp-3d7ccb44-b05d-4b67-baae-4e0f55d8307b_797.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nI am in charge of Clean the knife and chopping board, and the video reveals the task's advancement, What are the tools I'll need for the next task?",
+        "choice": [
+            "place chop board behind sink",
+            "wash knife",
+            "pick up chop board"
+        ],
+        "ground_truth": "open tap",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/8c985cbe_9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_588.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/775ae371_9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_588.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nAs I am in the process of make noodle dish general, with my progress visible in the video How does what I should do next impact my future tasks?",
+        "choice": [
+            "Turn on cooker",
+            "Regulate heat",
+            "Arrange plates",
+            "Get ingredients from refrigerator",
+            "Serve pasta"
+        ],
+        "ground_truth": "Boil pasta",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/9bb735bc_grp-67759ea1-52a2-45ee-b129-f482532d83df_391.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/8e3ae56d_grp-67759ea1-52a2-45ee-b129-f482532d83df_391.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nI am working on Cover pan and adjust stove. The video showcases the progress, How does what I should do next impact the bigger picture?",
+        "choice": [
+            "press buttons",
+            "adjust control knob",
+            "cover pan"
+        ],
+        "ground_truth": "pick up pan lid",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/4fa9b7cc_d5b7e865-a74f-41c1-9946-f3c6da61c0c5_719.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/8a8d19eb_d5b7e865-a74f-41c1-9946-f3c6da61c0c5_719.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nI am in charge of Cooking a rice sushi roll, and the video reveals the task's advancement, Can you reflect on my progress so far?",
+        "choice": [
+            "Add spice to the rice in the bowl",
+            "Wipe the cabinet with napkin",
+            "Wash the utensil",
+            "Scoop rice into a bowl from the rice cooker",
+            "Dice the vegetable"
+        ],
+        "ground_truth": "Gather ingredient",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/d52a4fca_grp-5251b41e-91b1-4b87-9a18-c631b1d17e2e_17.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/ea07f0ac_grp-5251b41e-91b1-4b87-9a18-c631b1d17e2e_17.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nI am engaged in Serve the food into a bowl and clean the pot, with the video capturing the task's development, Next?",
+        "choice": [
+            "put pot in sink",
+            "pull bowl",
+            "pick up pot",
+            "taste food",
+            "put spoon in pot"
+        ],
+        "ground_truth": "turn on tap",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/c870048d_6ac1d2ed-1f6b-4828-a1ab-f81c40bd5e80_859.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/898c369a_6ac1d2ed-1f6b-4828-a1ab-f81c40bd5e80_859.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nI am working on cooking general. The video showcases the progress, What are the prerequisites for the next task?",
+        "choice": [
+            "Stir fry the sliced gourd to the pan",
+            "Reposition a pot",
+            "Get corn",
+            "Rekindle the fire with dung wood",
+            "Sieve flour"
+        ],
+        "ground_truth": "Set chili pepper",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/cf8bca0e_478d7fa4-b174-4266-b0ff-bd180ba0b806_846.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/7bc54825_478d7fa4-b174-4266-b0ff-bd180ba0b806_846.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nMy job is to Clean the vegetable peeler. The progress is visible in the video, How does what I should do next impact the bigger picture?",
+        "choice": [
+            "select peeler",
+            "wash vegetable peeler",
+            "put peeler on plate rack"
+        ],
+        "ground_truth": "open tap",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/623b6700_9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_82.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/695abca1_9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_82.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nCurrently, I am working on Fry the next flatbread. The video provides evidence of the task's advancement, How does what I should do next impact my future tasks?",
+        "choice": [
+            "pick up piece of dough",
+            "pick up rolling pin",
+            "scoop oil",
+            "put dough onto frying pan"
+        ],
+        "ground_truth": "stretch dough piece",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/c483a162_864fa3d8-9b18-44cb-a8e9-9b40765e2d0c_717.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/67f27d75_864fa3d8-9b18-44cb-a8e9-9b40765e2d0c_717.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nI am involved in Put away stir mixer machine and plate, and the video illustrates the progress achieved, Can you provide an instruction for the next task?",
+        "choice": [
+            "remove whisks on mixer",
+            "pick up stir mixer machine",
+            "place stir mixer",
+            "put plate on cabinet",
+            "put plate on sink cabinet"
+        ],
+        "ground_truth": "put whisks on plate",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/b2e868b5_2bd1593c-ae88-417e-827f-3997201da229_909.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/d99decc6_2bd1593c-ae88-417e-827f-3997201da229_909.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nI have been assigned to Add sauce to the eggs from the fridge, and the video demonstrates my progress, What are the opportunities I should seize in the next task?",
+        "choice": [
+            "open bottle",
+            "add sauce to eggs",
+            "shake bottle",
+            "pick up bottle from fridge",
+            "open fridge"
+        ],
+        "ground_truth": "put sauce in fridge",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/266b1b03_c799c3ab-9e07-427c-94f9-0d9d295153b8_265.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/28bb1f05_c799c3ab-9e07-427c-94f9-0d9d295153b8_265.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nAs I am in the process of Add water to the frying pan, with my progress visible in the video How does what I should do next relate to my overall goal?",
+        "choice": [
+            "open tap",
+            "pour water in frying pan",
+            "pick up knife from cabinet",
+            "put cup in zinc"
+        ],
+        "ground_truth": "put down knife",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/ac65e578_487f5966-3469-4753-9b44-7899a311d73d_150.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/a5fe7750_487f5966-3469-4753-9b44-7899a311d73d_150.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nCurrently, I am working on Cook food in pot. The video provides evidence of the task's advancement, What is the most important task I should focus on?",
+        "choice": [
+            "wipe hands with dishrag",
+            "pick up oil bottle",
+            "transfer chopsticks to left hand",
+            "pour oil in pot",
+            "place chopsticks on kitchen surface"
+        ],
+        "ground_truth": "open pot",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/94e8fe5b_c1c18372-0f3a-4996-beaf-d505faed7d17_345.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/7ec92b02_c1c18372-0f3a-4996-beaf-d505faed7d17_345.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nGiven my responsibility to Prepare the fruit and plate, the video shows the progress, Can you provide an alternative solution for the next task?",
+        "choice": [
+            "open cabinet",
+            "close cabinet",
+            "put knife on cutting board"
+        ],
+        "ground_truth": "put fruit on cutting board",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/955fcf61_51fc62f8-00f4-44e3-af9c-7ebb63da6c3d_378.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/5a658afa_51fc62f8-00f4-44e3-af9c-7ebb63da6c3d_378.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nI have been assigned to Check the kitchen cabinet, and the video demonstrates my progress, What is the most important task I should focus on?",
+        "choice": [
+            "open kitchen cabinet",
+            "get up",
+            "close kitchen cabinet"
+        ],
+        "ground_truth": "bend down",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/039b04a0_1f9c087f-0d2e-424a-8f90-d5402d639fb8_17.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/ed6986d6_1f9c087f-0d2e-424a-8f90-d5402d639fb8_17.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nMy role involves Prepare rice for cooking, and the video highlights the task's progress, What are the dependencies involved in the next task?",
+        "choice": [
+            "open pot cover",
+            "carry pot",
+            "stir grain of rice by hand",
+            "pour into sauce pot",
+            "place cup on table"
+        ],
+        "ground_truth": "put pot on table",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/eb941ebe_bbc7640a-6dd8-4522-9ff9-fca37be6fd64_385.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/987ff1a5_bbc7640a-6dd8-4522-9ff9-fca37be6fd64_385.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nAs I am responsible for Making chapati, the video illustrates the task's progression, How does what I should do next impact the bigger picture?",
+        "choice": [
+            "cooking both sides of the chapati"
+        ],
+        "ground_truth": "regulating the cooker",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/df72a90d_54337e20-df12-4133-9e34-618e0381265e_257.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/06f50bd8_54337e20-df12-4133-9e34-618e0381265e_257.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nI have been assigned to Clean up and prepare the kitchen, and the video demonstrates my progress, What are the consequences of what I should do next?",
+        "choice": [
+            "turn off light switch",
+            "wipe hands with napkin",
+            "put down napkin",
+            "put down frypan"
+        ],
+        "ground_truth": "adjust plates on sink",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/2cb68f83_ea26e6c4-a144-43a4-8549-07f7b8030454_464.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/c2998b4e_ea26e6c4-a144-43a4-8549-07f7b8030454_464.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nMy role involves Prepare dough, and the video highlights the task's progress, What are the consequences of what I should do next?",
+        "choice": [
+            "open dough mixer",
+            "touch surface",
+            "touch dough",
+            "pick up jug",
+            "put jug on sink"
+        ],
+        "ground_truth": "operate dough mixer",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/938bbc41_07b1c874-9dc1-42bc-87ff-dffa9bef14fb_338.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/dcae966a_07b1c874-9dc1-42bc-87ff-dffa9bef14fb_338.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nAs I am in the process of Make pancake, with my progress visible in the video Can you recreate the steps I'll need to take?",
+        "choice": [
+            "Stir the pancake batter in the bowl",
+            "Serve pancake in the plate",
+            "wash hands",
+            "Check if the pancake in the syrup is ready",
+            "Flip the pan in the pan"
+        ],
+        "ground_truth": "Add the pancake to the syrup in the pot",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/71a588e8_0a01978c-e16d-4587-95f1-49efa3ab15d9_1654.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/8af25632_0a01978c-e16d-4587-95f1-49efa3ab15d9_1654.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nI have been assigned to Making a recipe, and the video demonstrates my progress, Can you recreate the steps I'll need to take?",
+        "choice": [
+            "Declutter remaining Burrito Ingredients from kitchen countertop",
+            "Prepares cheese",
+            "Drinks water",
+            "Cooks chicken in vegetable mixture",
+            "Prepares to heat frying pan"
+        ],
+        "ground_truth": "Prepares Vegetables",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/254d93be_2c0c6508-397f-4c48-aeb7-abc7a3cae8d1_56.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/588546be_2c0c6508-397f-4c48-aeb7-abc7a3cae8d1_56.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nCurrently, I am working on Making design with pastry mix. The video provides evidence of the task's advancement, Can you analyze my approach for the next task?",
+        "choice": [
+            "pipe pastry mix into emroidered pattern"
+        ],
+        "ground_truth": "pipe pastry mix into embroidered pattern",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/011f17fe_44e3114f-8654-48ee-97c5-9506311ba188_209.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/68d1eb8c_44e3114f-8654-48ee-97c5-9506311ba188_209.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nI am in charge of get pack from fridge, and the video reveals the task's advancement, What are the opportunities I should consider in the next task?",
+        "choice": [
+            "close drawer",
+            "open fridge",
+            "search in fridge",
+            "open drawer",
+            "put pack on table"
+        ],
+        "ground_truth": "close fridge",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/a4e80379_e19b1be3-8ee9-44cc-ae7d-99a3591ebba5_545.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/94dd39bc_e19b1be3-8ee9-44cc-ae7d-99a3591ebba5_545.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nAs I am in the process of Wash and arrange plate, with my progress visible in the video How does what I should do next impact my future tasks?",
+        "choice": [
+            "pick up plate from sink",
+            "place plate",
+            "scrub plate"
+        ],
+        "ground_truth": "turn on tap",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/ddc1907f_201956f0-8e28-4ba2-b96b-98855c738fb0_871.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/8ee4f957_201956f0-8e28-4ba2-b96b-98855c738fb0_871.mp4"
+    },
+    {
+        "question": "Analyze the behavior in the video and the current state shown in the image, then predict the most likely next action that will occur in the video.\nMy current task is to Slice bread. The task's progress is demonstrated in the provided video. What should be my next action? ",
+        "choice": [
+            "put bread on chopping board",
+            "close cabinet",
+            "open cabinet",
+            "slice bread with knife"
+        ],
+        "ground_truth": "remove knife from cabinet",
+        "other_info": {
+            "Task": "action_prediction"
+        },
+        "image_path": "media_merge/image/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/7da4f30e_deb43adb-2e2f-454a-ba4e-811ebfe4eaa2_745.png",
+        "video_path": "media_merge/video/Next_Action_Prediction_from_Video_Sequences_and_Current_Visual_State/38870f38_deb43adb-2e2f-454a-ba4e-811ebfe4eaa2_745.mp4"
+    }
+]
