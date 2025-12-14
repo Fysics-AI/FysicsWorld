@@ -14,7 +14,7 @@
 </div>
 
 ##  🚀  News
-- **`2025-12-13`** We release [***FysicsWorld***](https://huggingface.co/datasets/Fysics-AI/FysicsWorld), the first unified full-modality benchmark that supports bidirectional input–output across image, video, audio, and text, enabling comprehensive any-to-any evaluation across understanding, generation, and reasoning. 
+- **`2025-12-14`** We release [***FysicsWorld***](https://huggingface.co/datasets/Fysics-AI/FysicsWorld), the first unified full-modality benchmark that supports bidirectional input–output across image, video, audio, and text, enabling comprehensive any-to-any evaluation across understanding, generation, and reasoning. 
 
 
 
@@ -51,8 +51,8 @@ To ensure a fair and standardized evaluation protocol, we release the full ***Fy
 
 1. Download the full FysicsWorld dataset from [here](https://huggingface.co/datasets/Fysics-AI/FysicsWorld).
 2. Run inference using your model on the provided questions.
-3. Format the model responses according to the required [submission format]().
-4. Send the formatted responses to [us](jiangyue23@m.fudan.edu.cn). We will periodically update the corresponding scores on the leaderboard.
+3. Format the model responses according to the required [submission format](https://github.com/Fysics-AI/FysicsWorld/blob/main/eval/submission_format.json).
+4. Send the formatted responses to *t1.jiangyue@outlook.com*. We will periodically update the corresponding scores on the leaderboard.
 
 
 ## 📈 Experimental Results
