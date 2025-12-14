@@ -1,0 +1,8 @@
+
+[
+{
+    "model": "string (required) - The name of the model used for the submission.",
+    "task": "string (required) - The specific task, e.g., 'Image_Understanding'",
+    "predictions": "list (required) - A list of prediction objects, each containing 'index' and 'output'. "
+}
+]

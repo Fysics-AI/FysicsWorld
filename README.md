@@ -1,55 +1,58 @@
 <p align="center" width="100%">
-<a target="_blank"><img src="figs/OmniWorld-logo.png" alt="" style="width: 50%; min-width: 200px; display: block; margin: auto;"></a>
+<a target="_blank"><img src="figs/FysicsWorld-logo.png" alt="" style="width: 50%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
 <div align="center">
 <br>
-<h1>OmniWorld: A Unified Full-Modality Benchmark for Any-to-Any Understanding, Generation, and Reasoning</h1>
+<h1>FysicsWorld: A Unified Full-Modality Benchmark for Any-to-Any Understanding, Generation, and Reasoning</h1>
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
-<font size=7><div align='center' > [[🏠 Project Page](https://github.com/Fysics-AI/OmniWorld)] [[📖 arXiv Paper](https://arxiv.org/pdf/2512.XXXX)] [[🤗 Dataset](https://huggingface.co/datasets/Fysics-AI/OmniWorld)] [[🏆 Leaderboard](https://huggingface.co/spaces/Fysics-AI/OmniWorld-Leaderboard)]  </div></font>
+<font size=7><div align='center' > [[🏠 Project Page](https://github.com/Fysics-AI/FysicsWorld)] [[📖 arXiv Paper](https://arxiv.org/pdf/2512.XXXX)] [[🤗 Dataset](https://huggingface.co/datasets/Fysics-AI/FysicsWorld)] [[🏆 Leaderboard](https://huggingface.co/spaces/Fysics-AI/FysicsWorld-Leaderboard)]  </div></font>
 
 
 </div>
 
 ##  🚀  News
-1. [2025-12-13] We release [***OmniWorld***](https://huggingface.co/datasets/Fysics-AI/OmniWorld), the first unified full-modality benchmark that supports bidirectional input–output across image, video, audio, and text, enabling comprehensive any-to-any evaluation across understanding, generation, and reasoning. 
+- **`2025-12-13`** We release [***FysicsWorld***](https://huggingface.co/datasets/Fysics-AI/FysicsWorld), the first unified full-modality benchmark that supports bidirectional input–output across image, video, audio, and text, enabling comprehensive any-to-any evaluation across understanding, generation, and reasoning. 
 
 
 
 
-## 🎯 ***OmniWorld*** Overview
+## 🎯 ***FysicsWorld*** Overview
 <img src="figs/fig-teaser.jpg" width="100%" height="100%">
 
-We introduce ***OmniWorld***, the **first** unified full-modality benchmark that supports bidirectional input–output across *image, video, audio, and text*, enabling comprehensive any-to-any evaluation across understanding, generation, and reasoning. Our systematic design spans uni-modal perception tasks to fusion-dependent reasoning under strong cross-modal coupling, allowing us to diagnose, with unprecedented clarity, the limitations and emerging strengths of modern multimodal and omni-modal architectures. In contrast to existing omni-modal and multi-modal benchmarks, our ***OmniWorld*** has several advantages: 
+We introduce ***FysicsWorld***, the **first** unified full-modality benchmark that supports bidirectional input–output across *image, video, audio, and text*, enabling comprehensive any-to-any evaluation across understanding, generation, and reasoning. Our systematic design spans uni-modal perception tasks to fusion-dependent reasoning under strong cross-modal coupling, allowing us to diagnose, with unprecedented clarity, the limitations and emerging strengths of modern multimodal and omni-modal architectures. In contrast to existing omni-modal and multi-modal benchmarks, our ***FysicsWorld*** has several advantages: 
 
-* **Diversity and High Quality**. ***OmniWorld*** is characterized by **8 "multi"** properties, reflecting its comprehensive coverage, diversity, and robustness, namely:
+* **Diversity and High Quality**. ***FysicsWorld*** is characterized by **8 "multi"** properties, reflecting its comprehensive coverage, diversity, and robustness, namely:
 *multi-dimensional* (understanding, generation, reasoning, voice interaction), *multi-modal* (text, image, video, audio as both inputs and outputs), *multi-task* (16 primary tasks, 200+ sub-tasks), *multi-source* (3,268 samples from 40+ data sources and curated web data), *multi-domain* (170+ fine-grained open-domain categories), *multi-type* (closed-ended, open-ended, multiple-choice question, and image/video/audio generation), *multi-target* (evaluates Omni-LLMs, MLLMs, modality-specific models, unified understanding–generation models), and *multi-assurance* (multi-stage quality control strategies).
 
 * **Fusion-Dependent Cross-Modal Reasoning**. We propose a method for omni-modal data construction, which is named **C**ross-**M**odal **C**omplementarity **S**creening (**CMCS**) strategy, which ensures that our tasks maintain strong cross-modal coupling, preventing single-modality shortcuts and enforcing true synergistic perception of omni-modality.
 
 * **Speech-Driven Cross-Modal Interaction**. To support natural, multimodal communication and interaction, we develop a speech-grounded multimodal data construction pipeline that ensures both linguistic fluency and semantic fidelity in voice-based interactions, including 20+ authentic voices and tones.
 
-Based on **OmniWorld**, we extensively evaluate various advanced models, including Omni-LLMs, MLLMs, modality-specific models, and unified understanding–generation models. By establishing a unified benchmark and highlighting key capability gaps, OmniWorld provides not only a foundation for evaluating emerging multimodal systems but also a roadmap for the next generation of full-modality architectures capable of genuinely holistic perception, reasoning, and interaction.
+Based on **FysicsWorld**, we extensively evaluate various advanced models, including Omni-LLMs, MLLMs, modality-specific models, and unified understanding–generation models. By establishing a unified benchmark and highlighting key capability gaps, FysicsWorld provides not only a foundation for evaluating emerging multimodal systems but also a roadmap for the next generation of full-modality architectures capable of genuinely holistic perception, reasoning, and interaction.
 
 <p align="center">
     <img src="figs/fig-statiscs.jpg" width="100%" height="100%">
 </p>
 
+## 🔍 Dataset Download
+The full dataset, including all associated multimedia content (images, videos, and audio), can be downloaded from [here](https://huggingface.co/datasets/Fysics-AI/FysicsWorld).
+
+
+
 
 ## 🔮 Evaluation
 
-To ensure a fair and standardized evaluation protocol, we release the full ***OmniWorld*** dataset with ground-truth answers withheld, along with a test-mini subset (300 samples) that includes answers for local validation and debugging. You can find the QA data in [./testset](https://huggingface.co/datasets/Fysics-AI/OmniWorld) (full ***OmniWorld***) and [./test-mini](https://huggingface.co/datasets/Fysics-AI/OmniWorld) (test-mini), respectively.
+To ensure a fair and standardized evaluation protocol, we release the full ***FysicsWorld*** dataset with ground-truth answers withheld, along with a test-mini subset (300 samples) that includes answers for local validation and debugging. You can find the QA data in [./data](https://github.com/Fysics-AI/FysicsWorld/tree/main/data) (full ***FysicsWorld***) and [./test-mini](https://github.com/Fysics-AI/FysicsWorld/tree/main/test-mini) (test-mini), respectively.
 
 🕹️ **Usage**:
 
-1. Download the full OmniWorld dataset from [here](https://huggingface.co/datasets/Fysics-AI/OmniWorld).
+1. Download the full FysicsWorld dataset from [here](https://huggingface.co/datasets/Fysics-AI/FysicsWorld).
 2. Run inference using your model on the provided questions.
-3. Format the model responses according to the required submission format.
-4. Upload the formatted responses to the [Leaderboard](https://huggingface.co/spaces/Fysics-AI/OmniWorld-Leaderboard).
-
-We will periodically update the corresponding scores on the leaderboard.
+3. Format the model responses according to the required [submission format]().
+4. Send the formatted responses to [us](jiangyue23@m.fudan.edu.cn). We will periodically update the corresponding scores on the leaderboard.
 
 
 ## 📈 Experimental Results
@@ -90,11 +93,11 @@ Task1-1 (Image Understanding), Task1-2 (Video Understanding), and Task3-6 (Next-
 
 ## 📖 Citation
 
-If you find ***OmniWorld*** helpful for your research, please consider citing our work. Thanks!
+If you find ***FysicsWorld*** helpful for your research, please consider citing our work. Thanks!
 
 ```bibtex
-@article{jiang2025omniworld,
-    title={OmniWorld: A Unified Full-Modality Benchmark for Any-to-Any Understanding, Generation, and Reasoning},
+@article{jiang2025fysicsworld,
+    title={FysicsWorld: A Unified Full-Modality Benchmark for Any-to-Any Understanding, Generation, and Reasoning},
     author={Jiang, Yue and Yang, Dingkang and Han, Minghao and Han, Jinghang and Chen, Zizhi and Liu, Yizhou and Li, Mingcheng and Zhai, Peng and Zhang, Lihua},
     journal={arXiv preprint arXiv:2512.XXXX},
     year={2025}

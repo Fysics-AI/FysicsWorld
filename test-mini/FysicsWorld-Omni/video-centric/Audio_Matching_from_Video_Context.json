@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/f1acfe16_-uMT8KOqKzk_000030.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/57fd4f4e_0-RVVvC8kD0_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/30e76aff_-uMT8KOqKzk_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/2577d9ee_-GJvu5hr6w4_000140.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/5e138712_12tsmtyIALQ_000009.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/569a4851_-uMT8KOqKzk_000030.wav",
+    "index": 1
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/d2f65640_-DcR0SPMJXs_000293.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/9a974f72_-xjTLriKXUw_000017.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/1a3eb110_-DcR0SPMJXs_000293.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/75ee2a94_-3WPsuawZDE_000328.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/34b4f78f_-kZVoaYYU6o_000000.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/c65a0d6e_-DcR0SPMJXs_000293.wav",
+    "index": 2
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/a7015c9b_14tRqIq34wo_000047.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/434f1e55_0UJpeR9-ayg_000213.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/defc5490_-KifOY3Xxd8_000006.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/05e811e9_1FU5odlgLmo_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/4c1d405e_14tRqIq34wo_000047.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/fa1b6200_14tRqIq34wo_000047.wav",
+    "index": 3
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/98cf4180_0ox0JUthX8s_000010.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/45c469a5_-olWtlZdr2c_000360.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/e0e9dc39_-McJLXNN3-o_000050.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/36e8d870_0ox0JUthX8s_000010.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/e5794208_0Ep4JCF9Yn4_000030.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/3a2e0dd2_0ox0JUthX8s_000010.wav",
+    "index": 4
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/0dd9f0fa_-wGBAwEYnoo_000268.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/3ab760e2_-__L3T1Yv_4_000000.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/a155a4c5_05z60rujBQQ_000055.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/8f0c405c_-wGBAwEYnoo_000268.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/4ecb4b31_-ktcAshzoec_000100.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/f270dc74_-wGBAwEYnoo_000268.wav",
+    "index": 5
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/60744344_0b24w9l0flA_000010.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/1a8886a0_0b24w9l0flA_000010.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/1ef3bdec_0ZPoe2MrWt8_000013.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/8a84bdf7_-jxXv_SoNaI_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/b6a8bc0d_0YcqPskxc5g_000032.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/f7fb40e7_0b24w9l0flA_000010.wav",
+    "index": 6
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/4a918571_07gGeI7LT9s_000430.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/01634f79_1Jb2bUPCU8U_000045.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/f24399c9_-2LHurwr5CQ_000095.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/ac0f8f7a_-qhFjEq75Y4_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/958ae811_07gGeI7LT9s_000430.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/f1f11125_07gGeI7LT9s_000430.wav",
+    "index": 7
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/cf411d83_11gu4NKkX50_000120.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/12a4bca2_11gu4NKkX50_000120.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/c81b67aa_01GR5c7dSNo_000008.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/07f2fc67_0g29czLAMlc_000073.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/84a9cf34_0y2PavBJnck_000000.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/b203b989_11gu4NKkX50_000120.wav",
+    "index": 8
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/ca210b48_1PjoTQAo4c8_000025.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/33f37a05_1PjoTQAo4c8_000025.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/65449e35_0mj46Xhzx1Y_000010.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/6bc6e9a8_-e4wXAy1iVo_000000.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/3cfd9b99_14B3-ZVu13k_000030.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/394550a1_1PjoTQAo4c8_000025.wav",
+    "index": 9
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/e8ea91d6_-LeUWYpsQaA_000003.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/84e13942_0q_Sqz88QQc_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/e660cf56_-prv06hmgzM_000057.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/df7c2ac4_0sREKfYyiWE_000076.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/7d0a79af_-LeUWYpsQaA_000003.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/199ca7be_-LeUWYpsQaA_000003.wav",
+    "index": 10
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/9028550b_0oGb85FoRjk_000030.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/01740ec9_0oGb85FoRjk_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/bf61e884_00EJzzciam8_000130.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/c745af14_-GKam-wGnHA_000040.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/0d448c8b_-cT03CPlOqc_000177.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/d569dea7_0oGb85FoRjk_000030.wav",
+    "index": 11
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/d04dcafe_-F6GfPwjLWo_000030.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/29ddcf22_0nYYjIe8MR8_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/fa708a0f_0Pjd13FyuXc_000058.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/26e825a4_-F6GfPwjLWo_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/5e45cc4d_1PBEA7PCBl8_000030.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/0192d675_-F6GfPwjLWo_000030.wav",
+    "index": 12
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/c4495694_0X_JuKcjmf4_000042.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/4a003d5f_-jSirHVQAOk_000369.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/9eec6758_0X_JuKcjmf4_000042.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/1531e9e3_0I4jIbmmyrI_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/d285292c_0I8QOV_goxg_000250.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/2faaae4f_0X_JuKcjmf4_000042.wav",
+    "index": 13
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/e392a000_--qXTWmzUKA_000030.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/633bf413_0BebFqsdWSQ_000144.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/7c3f6320_0gKWarc8e7E_000240.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/e8804804_0SmZOjBjik8_000350.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/eed26987_--qXTWmzUKA_000030.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/c8a25263_--qXTWmzUKA_000030.wav",
+    "index": 14
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/75852f3b_1OUz3CT5Rs0_000030.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/c095f70d_1OUz3CT5Rs0_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/e5b07828_01xKbbgMwFg_000033.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/5877c7dc_0rLECbTbygM_000202.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/3dc0e456_-ghVFtymYk8_000001.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/6a23bf30_1OUz3CT5Rs0_000030.wav",
+    "index": 15
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/f43c5844_15cXbsmPgfk_000059.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/d8c98e6c_15cXbsmPgfk_000059.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/3d281dec_0vXqf9ix8LE_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/111a9b9e_0K92tp-4GEk_000108.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/07bc19a9_0-mQUZTwZQA_000030.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/d6106298_15cXbsmPgfk_000059.wav",
+    "index": 16
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/0c6b5dd6_1LZstiTtzyU_000052.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/a089cc77_-NZ0zMSTEP0_000130.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/981c9955_-E_R5RJEv74_000091.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/bfb7a70d_1LZstiTtzyU_000052.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/07b76e7a_-ByoSbgzr4M_000000.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/702999a5_1LZstiTtzyU_000052.wav",
+    "index": 17
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/38b25712_-TjxYU8lXv4_000016.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/bdb038ad_1-hoshDQKRk_000020.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/df68ce97_-dckeFP03oY_000224.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/702bbe51_-TjxYU8lXv4_000016.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/4a5b7de9_1Kbn1ZyMmRs_000030.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/c7025d6b_-TjxYU8lXv4_000016.wav",
+    "index": 18
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/f3ed74cf_-G_2v0L4U_s_000078.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/9a2fa79d_1ABFvD9mp8Y_000028.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/c6a0d537_1DDBWHBebR4_000050.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/a7f20341_-G_2v0L4U_s_000078.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/977b6852_09hPW_9Q8Rw_000020.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/273b8db8_-G_2v0L4U_s_000078.wav",
+    "index": 19
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/918adf1c_15gUABtgW4Q_000013.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/cea0098c_-j7cWRyB_XA_000242.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/e6bfc600_15gUABtgW4Q_000013.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/042f211c_--L3BCCcGEw_000400.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/4e70e3b3_1Sld2psjrA8_000022.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/2d5537c1_15gUABtgW4Q_000013.wav",
+    "index": 20
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/386ad0b5_1SD1j4n5aUw_000038.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/98db0866_1SD1j4n5aUw_000038.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/6c8f7f40_0ms8GQ5eiho_000010.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/a5d51ad7_0_BM28c_xw4_000000.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/a4e36e04_0T3lxpCsd7M_000014.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/ec2636d5_1SD1j4n5aUw_000038.wav",
+    "index": 21
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/251a3546_-IKnEo70_ZE_000103.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/d0e74b7c_-1KVzbdvkdg_000006.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/43585c9f_-IKnEo70_ZE_000103.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/b8d05457_0jU7Aon2p4k_000024.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/d63a8c0b_0VPuWBiObdY_000043.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/70d0ca7e_-IKnEo70_ZE_000103.wav",
+    "index": 22
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/33350576_-Z2WesHeKF8_000023.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/4f9cc403_0NecAFJWmLY_000042.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/32620cb9_0AalHtEEAFU_000003.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/b6a1ba1b_-Z2WesHeKF8_000023.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/9154c131_06v_fvoL9u0_000030.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/8ef3e8fa_-Z2WesHeKF8_000023.wav",
+    "index": 23
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/416f4140_-_gaZzFfzDQ_000517.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/728d03f6_0JPBc0LK0uM_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/56c7421c_0Ree10eqPN4_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/5861b9e9_-_gaZzFfzDQ_000517.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/b63ba11f_0_7Uwdj-nTQ_000685.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/2693fd32_-_gaZzFfzDQ_000517.wav",
+    "index": 24
+  },
+  {
+    "question": "Watch the silent video and select the audio clip that best matches the visual content from the four given options.",
+    "video_path": "media_merge/video/Audio_Matching_from_Video_Context/8c095a05_0CA5CPHRXDc_000000.mp4",
+    "choices": [
+      "media_merge/audio/Audio_Matching_from_Video_Context/b47762ee_-TYaP9KMzBA_000030.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/5f7fead3_0fTwdhslb6E_000022.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/5812391d_0CA5CPHRXDc_000000.wav",
+      "media_merge/audio/Audio_Matching_from_Video_Context/cac9da93_0RBb9XxmCYA_000050.wav"
+    ],
+    "ground_truth": "media_merge/audio/Audio_Matching_from_Video_Context/29c0e53a_0CA5CPHRXDc_000000.wav",
+    "index": 25
+  }
+]

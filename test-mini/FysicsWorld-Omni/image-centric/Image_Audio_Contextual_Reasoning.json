@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Why is the woman in red near the window?",
+    "choices": [
+      "A. She told her husband to be careful on the road.",
+      "B. She told the driver not to use the mobile phone while driving.",
+      "C. She was worried that the girl would grab the phone she was texting on.",
+      "D. She was afraid someone would notice her texting while driving."
+    ],
+    "ground_truth": "B",
+    "other_info": {
+      "image content": "The image depicts a scene where a woman with long blonde hair is leaning into the driver's side of a black convertible car. She is wearing a maroon coat and appears to be handing something to the driver. The background shows a coastal road with the ocean visible in the distance. There are a few people walking along the sidewalk, and some greenery and buildings can be seen further back. The overall setting suggests a calm, possibly suburban or coastal area.",
+      "audio content": "Female voice + Female voice\nA: …..driving and texting again..I will find your mother...\nB: Mom!\nA: And I will throw this at her...\nB: Don't! You...",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/30cca8af_6-270.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/a4d4d060_6-270.mp4.mp3",
+    "index": 1
+  },
+  {
+    "question": "What is this person doing?",
+    "choices": [
+      "A. Eating pineapple.",
+      "B. Throwing pineapples into the water.",
+      "C. Throwing apples into the water.",
+      "D. Putting pineapples in a bag."
+    ],
+    "ground_truth": "B",
+    "other_info": {
+      "image content": "The image shows a hand holding a plastic bag containing a peeled and sliced pineapple. The pineapple slices are arranged in a spiral or fan-like pattern, with the flesh appearing yellow and juicy. The hand is gripping the bag from the bottom, and the pineapple is visible through the clear plastic. The background appears to be an outdoor setting with a concrete or sandy surface, and there are some small debris or leaves scattered around. The lighting suggests it might be daytime with sunlight casting shadows on the ground.",
+      "audio content": "Sound of something crashing into water surface",
+      "audio type": "sound event"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/3e25f2c9_3_034.jpg",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/2623b054_3_034.mp3",
+    "index": 2
+  },
+  {
+    "question": "What is the person holding?",
+    "choices": [
+      "A. A tablet.",
+      "B. A book.",
+      "C. A mobile phone.",
+      "D. A calculator."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image shows a woman standing in what appears to be a classroom or educational setting. She is wearing a green dress with a floral pattern. Her hair is dark and pulled back. She appears to be holding a tablet or a similar device in her hands. The background includes various educational posters and decorations, such as a calendar labeled \"Today's Schedule\" and other colorful charts and illustrations. The overall setting suggests that she might be a teacher or involved in an educational activity.",
+      "audio content": "Sound of a woman: \nCan you tell me...what 57 multiplied by 135 is?",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/2644dc04_7_107.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/0085de1a_7_107.mp3",
+    "index": 3
+  },
+  {
+    "question": "What is the person doing?",
+    "choices": [
+      "A. The man in the suit is singing.",
+      "B. The woman in the dress is giving a speech.",
+      "C. The man in the dress is singing.",
+      "D. The woman in the dress is performing magic."
+    ],
+    "ground_truth": "C",
+    "other_info": {
+      "image content": "The image depicts a vibrant and theatrical scene. At the center, there is a performer standing on a stage, illuminated by a spotlight. The performer is dressed in an elaborate and colorful costume adorned with feathers, sequins, and various decorative elements. The costume is a mix of bright colors, including red, yellow, green, and blue, creating a visually striking appearance.\n\nThe performer is wearing a large, ornate headdress that features feathers and other decorative elements, adding to the dramatic flair of the outfit. They are holding a microphone, suggesting that they are either singing or speaking to the audience.\n\nIn the background, there is a stained glass window with intricate designs and multiple colors, contributing to the overall aesthetic of the scene. The window is arched and appears to be part of a larger, possibly historic or ornate building.\n\nThe audience is visible in the foreground, though they are mostly in shadow, creating a contrast with the brightly lit performer. The audience members are facing the stage, indicating that they are focused on the performance.\n\nThe setting appears to be indoors, with dim lighting that highlights the performer and the stained glass window. The overall atmosphere is one of a dramatic and visually captivating performance, likely part of a larger show or event.",
+      "audio content": "Male solo singing.\nA: You probably think I'll miss you but I won't.\nA: You probably think I hide my hurt inside but I don't.",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/bb73638b_2_055_sing.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/cb25a59c_2_055_sing.mp3",
+    "index": 4
+  },
+  {
+    "question": "Why is the person in such a hurry?",
+    "choices": [
+      "A. Because someone came to ask him to repay the money.",
+      "B. He was afraid his wife would kill him.",
+      "C. Because he overheard a secret.",
+      "D. Because he broke someone else's window while playing football."
+    ],
+    "ground_truth": "C",
+    "other_info": {
+      "image content": "The image depicts a scene from a television show or movie set on a porch. The porch is decorated with various plants and flowers, creating a cozy and inviting atmosphere. \n\nKey elements in the image include:\n\n1. **Person**: A young man with blond hair is in the center of the image. He is wearing a green shirt with a red design on the front, a white undershirt, blue jeans, and sneakers. He appears to be in motion, possibly dancing or moving energetically.\n\n2. **Porch Setting**: The porch has a wooden floor and is surrounded by a white railing. There are several potted plants and flowers, including a large green plant in a blue pot on the left, a hanging basket with pink flowers, and a small table with yellow flowers.\n\n3. **Furniture**: There is a wicker chair with an orange cushion on the left side of the image, and a small round table with a blue and white patterned top on the right side. There is also a white metal chair with a cushion next to the table.\n\n4. **Decorations**: A sun-shaped wall decoration is mounted on the wall to the left of the door. There is also a striped umbrella leaning against the wall near the door.\n\n5. **Door and Windows**: The back wall features a blue door with glass panes and a window with white trim to the left of the door. There is a small window above the door.\n\n6. **Miscellaneous Items**: A gray watering can is placed on the floor near the table, and a small gray cat statue is on the floor near the wicker chair.\n\nThe overall scene is vibrant and lively, with the person's movement adding a dynamic element to the otherwise serene and well-decorated porch setting.",
+      "audio content": "A woman talking alone.＋sound of footstep\nWOMAN: Ha! I warned you! That's what you get for being a bad husband! And now you are dead!",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/abb6de91_2_002_runaway.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/c77ed6a5_2_002_runaway.mp3",
+    "index": 5
+  },
+  {
+    "question": "Why does the bear say he needs air?",
+    "choices": [
+      "A. He accidentally falls asleep on the surface of the water.",
+      "B. The bear falls asleep in the snow.",
+      "C. He accidentally falls asleep in the deep water.",
+      "D. The bear is swimming in the water."
+    ],
+    "ground_truth": "C",
+    "other_info": {
+      "image content": "The image depicts a sleeping polar bear cub. The cub is lying on its side on a rocky surface, with its head resting on the ground and its eyes closed, appearing to be in a peaceful slumber. The fur of the cub is white and fluffy, and its small, rounded ears and black nose are clearly visible. The background is a soft, blue hue, giving the impression of a cold, icy environment typical of a polar bear's natural habitat. The lighting is gentle and diffused, enhancing the serene and tranquil atmosphere of the scene.",
+      "audio content": "A: Air! l need air!",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/5754cd67_6-001.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/cb516efb_6-001.mp3.mp3.mp3",
+    "index": 6
+  },
+  {
+    "question": "What would the woman say",
+    "choices": [
+      "A. So let's get started with today's lesson",
+      "B. Please come in.",
+      "C. Please wait.",
+      "D. We will study geography today"
+    ],
+    "ground_truth": "B",
+    "other_info": {
+      "image content": "The image depicts a classroom scene with a teacher and several students. The teacher, a woman with blonde hair and glasses, is standing at the front of the classroom. She is wearing a red dress and black shoes. The classroom has a green chalkboard behind the teacher, and there is a globe on a stand to her left. On the desk in front of the chalkboard, there are some markers and a computer monitor.\n\nThe students are seated at wooden desks arranged in rows. There are six students visible, with three in the front row and three in the back row. The students have different hair colors and styles, and they are wearing various colored shirts.\n\nOn the wall to the left, there is a brown bulletin board with several pieces of paper pinned to it. To the right of the chalkboard, there is a clock showing the time as 10:10. Next to the clock, there is an easel with a map and some papers attached to it.\n\nThe floor of the classroom is wooden, and the walls are painted yellow. The overall atmosphere of the classroom appears to be orderly and conducive to learning.",
+      "audio content": "Knocking sound",
+      "audio type": "sound event"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/36361016_1_007.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/880466e4_1_7.mp3",
+    "index": 7
+  },
+  {
+    "question": "What is this person doing?",
+    "choices": [
+      "A. The person in white is drinking something.",
+      "B. This person in black is drinking something.",
+      "C. This person in white is shaking this cup.",
+      "D. This person in black is shaking this cup."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image shows two glasses of water with ice cubes on a dark countertop. The glasses are transparent and filled with clear water, each containing several ice cubes. The background includes a person's arm, a smartphone, a small white bowl, a pair of chopsticks, and a small bottle with a dark liquid, possibly soy sauce. The setting appears to be a restaurant or dining area.",
+      "audio content": "Sound of solid hitting glass in water",
+      "audio type": "sound event"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/0bc2de00_3_266.jpg",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/79603524_3_266.mp3",
+    "index": 8
+  },
+  {
+    "question": "Where is this cat?",
+    "choices": [
+      "A. In a box at the landfill.",
+      "B. In a bag at home.",
+      "C. In a bag in the kitchen.",
+      "D. In a box in the kitchen."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image shows a close-up of a cat eating. The cat's face is partially visible, with its eyes looking downward towards its food. The food appears to be dry cat food, with small, irregularly shaped pieces. The cat's whiskers are also visible, and the lighting in the image is somewhat dim, giving it a warm, cozy atmosphere. The focus is on the cat's face and the food, with the background being blurred and indistinct.",
+      "audio content": "A man's voice:\nYou're a thief, are you? Stealing all my cornflakes?",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/70428e74_7_181.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/940e6615_7_181.mp3",
+    "index": 9
+  },
+  {
+    "question": "What will the woman do next?",
+    "choices": [
+      "A. She will notify the patient's family that the resuscitation attempt has failed.",
+      "B. She will cry because she failed in the resuscitation attempt.",
+      "C. This short-haired woman will give up on using the AED for the person.",
+      "D. This long-haired woman will give up on using the Manual Defibrillator for the person."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image depicts a scene set in a medical environment, likely a hospital or clinic. The primary focus is on a woman, who appears to be a medical professional, possibly a doctor or nurse, attending to a patient. She is holding a medical device, which could be a defibrillator or a similar piece of equipment, and is actively using it on the patient.\n\nThe patient is lying on a medical bed or stretcher, and appears to be unconscious or in a critical condition. The patient is dressed in dark clothing and has a head bandage, suggesting they may have sustained an injury.\n\nIn the background, there are various medical devices and monitors. One prominent monitor displays vital signs and other medical data, indicating that the patient is being closely monitored. There is also an IV stand with a bag of fluid, suggesting that the patient is receiving intravenous treatment.\n\nThe room is well-lit, with a large surgical light overhead, providing bright illumination focused on the patient. The walls are a light color, and there are shelves and cabinets that likely contain medical supplies and equipment.\n\nOverall, the scene conveys a sense of urgency and professionalism, with the medical staff working diligently to provide care to the patient.",
+      "audio content": "Dialogue between a man and a woman.\nA: Hit me again.\nB: Stop doing that!",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/c9a39776_7_139.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/69959c35_7_139.mp3",
+    "index": 10
+  },
+  {
+    "question": "Why did the red wine spill on her face?",
+    "choices": [
+      "A. A woman who dislikes her threw red wine on her face.",
+      "B. Her husband threw red wine on her face during a fight.",
+      "C. The woman with golden long hair was startled by a firework sound.",
+      "D. The woman with golden short hair was startled by a firework sound."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image depicts a woman with blonde, curly hair styled in a vintage fashion. She is wearing a glamorous, sparkling necklace and earrings. Her makeup is dramatic, with dark eyeliner and bright red lipstick. However, her face is smeared with what appears to be blood, particularly around her nose and mouth, suggesting a scene of distress or violence. The background is dark and filled with shelves of books, indicating that the setting might be a library or a room with a large collection of books. The overall atmosphere of the image is eerie and unsettling.",
+      "audio content": "Fireworks sound",
+      "audio type": "sound event"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/f895b4bd_7_063_a_women.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/27305092_7_063_a_women.mp3",
+    "index": 11
+  },
+  {
+    "question": "What will happen next?",
+    "choices": [
+      "A. He will drink water.",
+      "B. He will go to the hospital.",
+      "C. He will go to a restroom.",
+      "D. He will change to a cup of warm water."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image shows a person's hand holding a clear glass filled with a brown liquid, likely iced tea or coffee. The glass has a measurement marking near the top. In the background, there is a wooden table with various items on it. To the left, there are two packages of what appears to be instant noodles or similar food products. To the right, there is a bowl of soup with some toppings, possibly mushrooms and green onions. The setting suggests a casual dining environment, possibly at home or in a simple restaurant.",
+      "audio content": "man: I have a stomach ache.",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/6950e85c_3_124.jpg",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/2ff47180_3_124.mp3",
+    "index": 12
+  },
+  {
+    "question": "Where was the fight between these two people?",
+    "choices": [
+      "A. Alaska",
+      "B. hawaii",
+      "C. Moscow",
+      "D. havana"
+    ],
+    "ground_truth": "A",
+    "other_info": {
+      "image content": "The image depicts a snowy, icy environment with a large, dark structure in the background. The structure appears to be a submarine or a similar vessel, partially submerged in the snow and ice. It has a prominent red and white emblem on its front, resembling a cross or a target. The vessel has several lights on, illuminating the surrounding area.\n\nIn the foreground, there are two individuals engaged in a physical confrontation. Both are dressed in dark, tactical clothing suitable for cold weather. One person is standing and appears to be holding a weapon, possibly a sword or a staff, while the other person is on the ground, seemingly in a defensive or submissive position.\n\nThe ground is covered in snow and ice, and there are chunks of ice scattered around. The overall atmosphere is cold and harsh, with a sense of tension and conflict. The scene suggests a dramatic or action-oriented moment, possibly from a movie or a video game.",
+      "audio content": "A: This is America, you are welcome to come",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/15116860_1_037.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/8161fdb3_1_37.mp3",
+    "index": 13
+  },
+  {
+    "question": "What will they do?",
+    "choices": [
+      "A. The two will divorce.",
+      "B. These two will break up.",
+      "C. A woman will propose to a man in front of a crowd.",
+      "D. A woman will ask the man to marry her."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image depicts a scene with two individuals sitting across from each other at a table, with a warm, orange-hued background that suggests a sunset or a similarly colored environment. The setting appears to be indoors, possibly in a futuristic or otherworldly location, given the unique design of the table and the overall ambiance.\n\nThe person on the left is a woman with her hair styled in an elegant updo. She is wearing a light-colored, possibly metallic or reflective, outfit with intricate patterns. Her posture is upright, and she appears to be engaged in a serious conversation or interaction with the person across from her.\n\nThe person on the right is a man with short, dark hair. He is dressed in a dark, possibly leather, outfit with a high collar and detailed patterns on the shoulders. His expression is focused, and he seems to be intently listening or speaking to the woman.\n\nOn the table between them is a small, futuristic-looking device that appears to be emitting a flame or light, adding to the dramatic and intense atmosphere of the scene. The background features a blurred landscape with what looks like a tall, slender structure or tower, further enhancing the otherworldly feel of the setting.\n\nOverall, the image conveys a sense of tension, importance, and perhaps a critical moment in a narrative, with the two characters deeply engaged in their interaction.",
+      "audio content": "Male Voice+Female Voice\nMan:You are wearing ritual mating colors.\nWoman:So l am.",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/07c6cc56_6_306.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/a6a421a3_6_306.mp4.mp3.mp3",
+    "index": 14
+  },
+  {
+    "question": "Are the audio and image from the same type of music art?\n",
+    "choices": [
+      "A. The image is of a singer singing in front of a microphone, and the audio shows a popular song. Since both are plays, they are probably the same production.",
+      "B. The image is an orchestra and the audio is an opera performance. Since opera requires an orchestra to accompany it, they may not be the same work.",
+      "C. The image is a singer singing in front of a microphone, and the audio shows an opera performance. Opera does not use microphones, so they are not the same work.",
+      "D. The image is an orchestra and the audio is a pop song. Pop songs usually do not require downbeat orchestral accompaniment so they are not one work."
+    ],
+    "ground_truth": "C",
+    "other_info": {
+      "image content": "The image depicts a stage performance featuring three individuals, likely part of a musical or theatrical production. The setting appears to be a concert hall or theater, with a dark background illuminated by blue stage lights. \n\n1. **Left Individual**: \n   - **Attire**: This person is dressed in a white bridal gown, complete with a long veil that extends down their back. The dress is traditional, with long sleeves and a full skirt.\n   - **Action**: They are holding a piece of paper, possibly reading from it, and are standing slightly hunched over, suggesting they might be reading or reciting something.\n\n2. **Middle Individual**: \n   - **Attire**: This person is dressed in a more formal, historical costume. They are wearing a white long-sleeved shirt with a high collar, a black vest, and black pants. The outfit gives a vintage or classical appearance.\n   - **Action**: They are standing with one arm extended outward, possibly gesturing or emphasizing a point during their performance. Their facial expression and body language suggest they are singing or speaking passionately.\n\n3. **Right Individual**: \n   - **Attire**: This person is also dressed in a white, long-sleeved gown that is simpler and more flowing than the bridal gown. The dress has a more relaxed, ethereal look.\n   - **Action**: They are standing with one arm raised, their hand open as if they are reaching out or making a dramatic gesture. Their posture and expression indicate they are deeply engaged in the performance, possibly singing or delivering a powerful line.\n\n**Background and Setting**:\n- The background is dark, with blue stage lights creating a dramatic and focused atmosphere on the performers.\n- There are additional figures in the background, likely musicians or other performers, though they are not the main focus of the image.\n- The stage setup includes microphones, indicating that the performance involves singing or spoken dialogue.\n\n**Analysis**:\nThe image captures a moment of intense emotional expression, likely from a musical or theatrical performance. The costumes and actions of the individuals suggest a scene that could be from a historical or classical piece, possibly involving themes of love, drama, or significant life events, given the bridal attire of the left individual. The use of stage lights and the focused expressions of the performers highlight the importance of this particular moment in the performance.",
+      "audio content": "An opera performance of \"The Magic Flute\" (魔笛), specifically featuring the Queen of the Night aria. The soprano's high pitch changes rapidly, with orchestral accompaniment.",
+      "audio type": "music"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/daafc96b_music_image_45.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/0487df28_music_45.mp3",
+    "index": 15
+  },
+  {
+    "question": "What is happening?",
+    "choices": [
+      "A. The man in the green hat in the picture is hungry, and his stomach is  screaming.",
+      "B. The man in the blue shirt in the picture has a stomachache.",
+      "C. The man in the blue shirt in the picture is hungry, and his stomach is  screaming.",
+      "D. The man in the green hat in the picture has a stomachache."
+    ],
+    "ground_truth": "C",
+    "other_info": {
+      "image content": "The image depicts four animated characters standing in a row outdoors, likely in a forest or park setting. Here's a detailed description of each character from left to right:\n\n1. **First Character**: This character is wearing a yellow hat with goggles on top. They have a mustache and are dressed in a blue shirt and yellow shorts. They appear to be in a relaxed pose with their hands on their hips.\n\n2. **Second Character**: This character is wearing a pink helmet with a visor. They are dressed in a green shirt and pink overalls. They have a neutral expression and are standing with their arms by their sides.\n\n3. **Third Character**: This character is wearing a green hat with a badge on it. They are dressed in a light green shirt and green shorts. They have a calm expression and are standing with their hands by their sides.\n\n4. **Fourth Character**: This character is wearing a white visor. They have brown hair and are dressed in an orange shirt and green shorts. They are standing with their hands on their hips and have a confident expression.\n\nThe background features trees and greenery, suggesting a natural outdoor setting. The characters appear to be part of an animated series or movie, given their stylized appearance and clothing.",
+      "audio content": "Two people talking: A: A bear? A: Hhh...It's my stomach. B: I have apples.",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/46dec9c7_6-002.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/cb736ca2_6-002.mp4.mp3",
+    "index": 16
+  },
+  {
+    "question": "What is the man most likely holding in his hand?",
+    "choices": [
+      "A. A bottle of water.",
+      "B. A pail of lubricating oil.",
+      "C. A crowbar.",
+      "D. A bottle of glue."
+    ],
+    "ground_truth": "B",
+    "other_info": {
+      "image content": "The image depicts a scene inside a house, likely on a staircase landing. A man is bending over the railing of the staircase, holding a bottle of what appears to be medicine or liquid. He is administering the liquid to a young child who is standing on the stairs below him. The child has curly hair and is looking up at the man. \n\nIn the foreground, there is a woman with long dark hair, wearing a dark-colored top. She is facing the man and the child, but her back is to the camera, so her face is not visible. The staircase has white railings and dark wooden steps. The walls are painted a light blue color, and there are framed pictures hanging on the wall. The overall atmosphere suggests a domestic and caring environment.",
+      "audio content": "A: Buddy. Why do you keep getting stuck like this?\nB: I thought I could get out this time.\nC: I'm just gonna say it. He needs to be checked bya specialist.\nA: There. Be free.",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/c5692c2e_6-061.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/1beda092_6-061.mp4.mp3",
+    "index": 17
+  },
+  {
+    "question": "What does the woman do?",
+    "choices": [
+      "A. She buys fish at the market.",
+      "B. She buys fish in a large supermarket chain.",
+      "C. She comes to see a salesperson in the supermarket.",
+      "D. She comes specially for a fishman."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image depicts a scene inside a fish market. The setting is an indoor market with various stalls and counters displaying an assortment of fish and seafood. The market appears to be bustling with activity, though the focus is on two individuals in the foreground.\n\nOn the left side of the image, there is a man wearing a red and white striped sweater and a blue and white striped apron. He is standing behind a counter filled with various types of fish, some of which are laid out on ice. The man appears to be engaged in a conversation or transaction with the woman on the right.\n\nThe woman on the right is dressed in a stylish outfit, consisting of a gray plaid coat, a red beret, and a red handbag. She has dark hair and is wearing makeup. She is gesturing with her right hand, possibly emphasizing a point or asking a question.\n\nIn the background, there are other market stalls and counters, also displaying fish and seafood. There are signs and posters on the walls, and the overall atmosphere suggests a busy, working-class environment. The lighting is bright, illuminating the various fish on display and highlighting the details of the scene.",
+      "audio content": "A man and a woman talking.\nA: Handsome-looking turbot. Two and a half kilos. Not bad for a wild fish.\nB: All right, sweetheart. You looking or buying?\nA: Neither. I'm here for you.",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/d330bebe_2_092_fish.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/2691bc38_2_092_fish.mp3",
+    "index": 18
+  },
+  {
+    "question": "What happens next?",
+    "choices": [
+      "A. The elderly will call their son and daughter-in-law to inform them of the news that they are allowed to have children.",
+      "B. A lesbian couple is going to have IVF.",
+      "C. A couple who have successfully conceived will go for a maternity check.",
+      "D. A woman will go to the hospital to have her IUD removed."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image shows a computer screen displaying an email notification from a fictional email service called \"SiloMail.\" The email is from the \"Child Health Dept.\" and has the subject line \"REPRODUCTIVE CLEARANCE GRANTED.\" The message reads:\n\n\"CONGRATULATIONS, YOU HAVE BEEN APPROVED FOR CHILDBEARING STATUS FOR ONE YEAR. PLEASE SEE YOUR DOCTOR.\"\n\nThere is a \"VIEW\" button on the right side of the email notification, and the email is marked as \"1 NEW MESSAGE.\" The overall aesthetic of the interface suggests a retro or dystopian theme, with a monochromatic color scheme and a simple, utilitarian design.",
+      "audio content": "Man and Woman Laughter\nA: I can't believe it. Third time's a charm.",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/e8c7c69e_6_323.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/671aa368_6_323.mp4.mp3.mp3",
+    "index": 19
+  },
+  {
+    "question": "What's inside the container?",
+    "choices": [
+      "A. A tub of sweet cream.",
+      "B. A tub of salty cream.",
+      "C. A tub of sweet jellied bean curd.",
+      "D. A tub of salty jellied bean curd."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image shows a close-up view of a stainless steel container filled with a white, creamy substance. The container appears to be a large, round pot with handles on either side. The white substance inside the pot has a smooth, slightly lumpy texture, and there are visible patches of a yellowish liquid, likely oil, floating on the surface. The pot is placed on a tiled surface, and there are other containers and objects partially visible in the background. The overall appearance suggests that the white substance could be a type of food or ingredient, possibly a dairy product like yogurt or a similar fermented item.",
+      "audio content": "Woman: Salt is used to add flavor to food.",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/50b1b03c_3_286.jpg",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/0d001d2e_3_286.mp3",
+    "index": 20
+  },
+  {
+    "question": "Where are they and what are they doing?",
+    "choices": [
+      "A. They are enjoying the fountain in the lobby.",
+      "B. They are enjoying the fountain in the park.",
+      "C. They are in the lobby admiring the water curtain controlled by Benjamin.",
+      "D. They are in the park admiring the water curtain controlled by Benjamin."
+    ],
+    "ground_truth": "C",
+    "other_info": {
+      "image content": "The image depicts a scene with four individuals standing in what appears to be an indoor courtyard or atrium. The setting has a warm, ambient lighting that gives the scene a cozy and inviting atmosphere. \n\nOn the left side of the image, there is a large, arched opening through which water is cascading down in a powerful, continuous stream. The water appears to be illuminated from behind, creating a shimmering effect as it flows. The water collects in a pool at the bottom, which is not fully visible in the image.\n\nThe four individuals are standing on the right side of the image, observing the water feature. They are dressed in casual to semi-formal attire. From left to right, the first person is a woman with long dark hair, wearing a dark dress and a long necklace. The second person is a man with dark hair and a beard, dressed in a dark vest over a light-colored shirt and dark pants. The third person is a man with short hair, wearing a dark suit and a light-colored shirt. The fourth person is a woman with shoulder-length dark hair, dressed in a light-colored dress.\n\nThe background features a wall with a decorative pattern of alternating light and dark diagonal stripes. There is also a palm tree visible behind the individuals, adding a touch of greenery to the scene. A door with a decorative window is partially visible on the right side of the image, suggesting that this area might be part of a larger building or residence.",
+      "audio content": "Male Voice\nA: Benjamin can influence the elements.",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/bc62738f_6_333.png",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/83be7101_6_333.mp4.mp3",
+    "index": 21
+  },
+  {
+    "question": "Why is this person crying?",
+    "choices": [
+      "A. Because the clothes were damaged.",
+      "B. Because the person with black hair came in last place.",
+      "C. Because the child came in last place.",
+      "D. Because the person with short hair came in last place."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image depicts a man sitting in what appears to be a storage room or warehouse. He is wearing a blue dress shirt with rolled-up sleeves and a striped tie. His expression seems to be one of distress or frustration, as he is holding his head with one hand. \n\nThe man is seated on the floor, leaning against a metal shelving unit. The shelves around him are stocked with various items. To his left, there are cardboard boxes, one of which is labeled \"LIGHT\" and contains bottles of beer. To his right, there is a box of green brussels sprouts. The overall setting suggests a cluttered and somewhat disorganized storage area.",
+      "audio content": "man: The champ is gonna kill me, there's no way i get out of last place.",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/1067970d_3_109.jpg",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/703e7d72_3_109.mp3",
+    "index": 22
+  },
+  {
+    "question": "What is this liquid?",
+    "choices": [
+      "A. There is beer in the wooden barrel.",
+      "B. There's beer in the bottle.",
+      "C. There is urine in the wooden barrel.",
+      "D. There is urine in the bottle."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image shows a person holding a transparent glass bottle. The bottle appears to be empty or nearly empty, with some residue visible at the bottom. The bottle has a slightly textured surface and a narrow neck. The person's hand is gripping the bottle firmly, with the thumb on one side and the fingers wrapped around the other side. The background consists of a white marble floor with subtle gray veining. The lighting in the image is bright, illuminating the bottle and the hand clearly.",
+      "audio content": "Man: Too cold to get out of bed, but I have to pee.",
+      "audio type": "speech"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/da359784_3_165.jpg",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/76dca44c_3_165.mp3",
+    "index": 23
+  },
+  {
+    "question": "What is this cat doing?",
+    "choices": [
+      "A. The gray cat is eating.",
+      "B. The white cat is eating.",
+      "C. The gray cat is meowing.",
+      "D. The white cat is meowing."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image shows a fluffy white cat with large, expressive blue eyes and a pink nose. The cat is sitting on a wooden floor and looking upwards with its mouth slightly open, revealing a small pink tongue. Above the cat, a hand is holding a piece of food, which appears to be a small, light-colored treat. The background includes a white wall and a wooden cabinet or door. The cat's fur is thick and well-groomed, and its overall appearance is cute and endearing.",
+      "audio content": "Cat meowing sound",
+      "audio type": "sound event"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/af5be238_3_254.jpg",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/ead31954_3_254.mp3",
+    "index": 24
+  },
+  {
+    "question": "What is this person doing?",
+    "choices": [
+      "A. Talking.",
+      "B. Using fire hydrants.",
+      "C. Knocking on the iron plate.",
+      "D. Knocking on the fire hydrant."
+    ],
+    "ground_truth": "D",
+    "other_info": {
+      "image content": "The image shows a young woman standing next to a fire hose reel mounted on a wall. The fire hose reel is red and is housed within a red cabinet. The cabinet door is open, revealing the coiled fire hose and the brass fittings and nozzle. Below the hose reel, there is a rolled-up white fire blanket stored in the cabinet. The woman is wearing a dark blue sweater with a white collar shirt underneath and a high-visibility yellow safety vest over her clothing. She has long dark hair and is looking at the fire hose reel while pointing towards it with her right hand. The background is a plain white wall with a small notice or sign attached to it.",
+      "audio content": "Sound of hitting metal plate",
+      "audio type": "sound event"
+    },
+    "image_path": "media_merge/image/Image_Audio_Contextual_Reasoning/5be728ec_3_084.jpg",
+    "audio_path": "media_merge/audio/Image_Audio_Contextual_Reasoning/0f463306_3_084.mp3",
+    "index": 25
+  }
+]

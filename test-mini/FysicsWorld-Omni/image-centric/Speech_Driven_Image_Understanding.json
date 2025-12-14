@@ -1,0 +1,358 @@
+[
+  {
+    "question": "Is the knife laid flat or standing up?",
+    "ground_truth": "Flat",
+    "other_info": {
+      "choice": [
+        "Flat",
+        "Standing up"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/bb517c59_217.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/611e7182_MMVP_178.wav",
+    "index": 1
+  },
+  {
+    "question": "Who Is the person inside the red bounding box?",
+    "choices": [
+      "Sean Bean",
+      "Sean Astin",
+      "Sean Penn",
+      "Sean Connery"
+    ],
+    "ground_truth": "Sean Astin",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/efe626c3_tt0089218_shot_0327_img_0.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/270358e1_SEED-Bench_120.wav",
+    "index": 2
+  },
+  {
+    "question": "Do the individuals in the picture face the front or the back?",
+    "ground_truth": "Back",
+    "other_info": {
+      "choice": [
+        "Front",
+        "Back"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/a885b5c6_236.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c605fa1d_MMVP_215.wav",
+    "index": 3
+  },
+  {
+    "question": "What is the total merchandise exports in the graph?",
+    "choices": [
+      "0.651581747",
+      "0.777430802",
+      "1.047081692",
+      "1.144317028"
+    ],
+    "ground_truth": "1.144317028",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/82f1e6cf_54.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/8d2cdaef_SEED-Bench_112.wav",
+    "index": 4
+  },
+  {
+    "question": "According to the map, can I take the Yellow Line towards the Pentagon on the DC Metro system?",
+    "ground_truth": "According to the map, yes, you can take the Yellow Line towards the Pentagon on the DC Metro system.",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/87fab9c6_6_2.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/aa292bc3_HallusionBench_7.wav",
+    "index": 5
+  },
+  {
+    "question": "Is the male in the picture wearing a shirt or a T-shirt?",
+    "ground_truth": "Shirt",
+    "other_info": {
+      "choice": [
+        "Shirt",
+        "T-shirt"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/e0d37b83_271.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/8e2292c4_MMVP_193.wav",
+    "index": 6
+  },
+  {
+    "question": "Are these oranges hanging on the tree?",
+    "ground_truth": "No",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/5f641cc0_204.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/65fce2c1_MMVP_148.wav",
+    "index": 7
+  },
+  {
+    "question": "From the camera's perspective, is the spider web very dense or relatively sparse?",
+    "ground_truth": "Very dense",
+    "other_info": {
+      "choice": [
+        "Very dense",
+        "Relatively sparse"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/3893ac38_95.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/29ac365e_MMVP_196.wav",
+    "index": 8
+  },
+  {
+    "question": "What are the words in the picture?",
+    "ground_truth": "pple and Cherry.",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/596db228_mmbench_1001639.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/c34f24ad_MMVU_39.wav",
+    "index": 9
+  },
+  {
+    "question": "According to the image, which of these is not listed as a component of \"Projects\" related to mind mapping?",
+    "choices": [
+      "Ideas",
+      "Goals",
+      "Strategies",
+      "Sharing"
+    ],
+    "ground_truth": "Ideas",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/5a1e45b8_281.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/dcc7ecd2_SEED-Bench_110.wav",
+    "index": 10
+  },
+  {
+    "question": "Are there four people sitting on the white sofa in the picture? ",
+    "ground_truth": "there are four people sitting on the sofa in total.",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/61a24a3e_23.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/774aefbb_MMVU_34.wav",
+    "index": 11
+  },
+  {
+    "question": "Where is the giraffe located in the picture?",
+    "ground_truth": "left",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/870b8a70_mmbench_1000640.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/d950360c_MMVU_36.wav",
+    "index": 12
+  },
+  {
+    "question": "Is the cup placed on a surface or being held by hand?",
+    "ground_truth": "Placed on a surface",
+    "other_info": {
+      "choice": [
+        "Placed on a surface",
+        "Held by hand"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/c8b5477b_287.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/d1f33f9f_MMVP_197.wav",
+    "index": 13
+  },
+  {
+    "question": "Is this a hammerhead shark?",
+    "ground_truth": "No",
+    "other_info": {
+      "choice": [
+        "Yes",
+        "No"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/d7c1987f_82.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/abce8f36_MMVP_225.wav",
+    "index": 14
+  },
+  {
+    "question": "Are the ears of the dog erect or drooping?",
+    "ground_truth": "Erect",
+    "other_info": {
+      "choice": [
+        "Erect",
+        "Drooping"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/84278a7e_85.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/3fc4ae25_MMVP_152.wav",
+    "index": 15
+  },
+  {
+    "question": "What is the number of refugees by country of asylum in 2003?",
+    "choices": [
+      "4710",
+      "7023",
+      "8046",
+      "9265"
+    ],
+    "ground_truth": "7023",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/e5b0d265_76.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/5cd5d4e2_SEED-Bench_128.wav",
+    "index": 16
+  },
+  {
+    "question": "This image shows the front view of the ego car. What is the status of the trucks that are to the front of the ego car?",
+    "ground_truth": "Three trucks are parked.",
+    "other_info": {
+      "Task": "Perception",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Attribute_Motion_MultiVehicles",
+      "Answer choices": [
+        "(A) Three of the trucks are parked, and one is moving.",
+        "(B) One of the trucks is parked, and two are moving.",
+        "(C) Three trucks are parked.",
+        "(D) Two of the trucks are parked, and one is moving.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/e54a54f0_n015-2018-07-27-11-36-48+0800__CAM_FRONT__1532662735412460.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/520a7456_MME-RealWorld_50.wav",
+    "index": 17
+  },
+  {
+    "question": "This image shows the front view of the ego car. Based on the observations of the white truck on the right side, what are possible actions to be taken by the orange suv in the middle? What is the reason?",
+    "ground_truth": "The action is to keep going at the same speed, the reason is that there is no safety issue.",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Other2Other",
+      "Answer choices": [
+        "(A) The action is to accelerate and go ahead, the reason is to avoid a collision.",
+        "(B) The action is to decelerate and go ahead, the reason is that there is no safety issue.",
+        "(C) The action is to keep going at the same speed, the reason is that there is no safety issue.",
+        "(D) The action is to gently brake to a stop, the reason is to follow the traffic rules.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/a022cac8_n015-2018-08-02-17-28-51+0800__CAM_FRONT__1533202480162460.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/14135fc6_MME-RealWorld_63.wav",
+    "index": 18
+  },
+  {
+    "question": "What is the difference between the amount of loans disbursed in Costa Rica in 2004 and the amount of loans disbursed in Papua New Guinea in 2009?",
+    "choices": [
+      "-9520000",
+      "-9820000",
+      "-10520000",
+      "-10570000"
+    ],
+    "ground_truth": "-10520000",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/9e6b1845_46.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/2578ac35_SEED-Bench_111.wav",
+    "index": 19
+  },
+  {
+    "question": "This image shows the front view of the ego car. Based on the observations of the white commercial vehicle in the middle, what are possible actions to be taken by the black car in the middle? What is the reason?",
+    "ground_truth": "The action is to keep going at the same speed, the reason is that there is no safety issue.",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "Autonomous_Driving",
+      "Category": "Relation_Interaction_Other2Other",
+      "Answer choices": [
+        "(A) The action is to keep going at the same speed, the reason is that there is no safety issue.",
+        "(B) The action is to decelerate and go ahead, the reason is to keep a safe distance.",
+        "(C) The action is to decelerate and go ahead, the reason is to yield to pedestrians.",
+        "(D) The action is to remain stationary, and the reason is to follow traffic rules.",
+        "(E) The image does not feature the object."
+      ]
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/8c23fa9d_n008-2018-08-31-11-19-57-0400__CAM_FRONT__1535729287012404.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/27999dbe_MME-RealWorld_69.wav",
+    "index": 20
+  },
+  {
+    "question": "Are there five people in the picture?",
+    "ground_truth": "No, there are six people.",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/912a7553_COCO_val2014_000000205729.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/b814593b_MMVU_26.wav",
+    "index": 21
+  },
+  {
+    "question": "According to the image, in 2020, did China have a larger population aged between 50 and 54 years than those aged between 0 and 4 years?",
+    "ground_truth": "Yes. In 2020, China have a larger population aged between 50 and 54 years than those aged between 0 and 4 years.",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/87e9eb74_20_1.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/7cbb7c3e_HallusionBench_1.wav",
+    "index": 22
+  },
+  {
+    "question": "What does the center button say?",
+    "ground_truth": "OK/SELECT",
+    "other_info": {
+      "choice": [
+        "OK/SELECT",
+        "OK"
+      ],
+      "Task": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/a0979323_133.jpg",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/7e8bb49f_MMVP_158.wav",
+    "index": 23
+  },
+  {
+    "question": "How many people migrated from California to Colorado between 1995 and 2000?",
+    "choices": [
+      "35,300",
+      "55,300",
+      "65,300",
+      "75,300"
+    ],
+    "ground_truth": "55,300",
+    "other_info": {
+      "Task": "Single-Image & Text Comprehension"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/440d726e_549.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/2502ca4d_SEED-Bench_119.wav",
+    "index": 24
+  },
+  {
+    "question": "Are all the items in this figure cookies?",
+    "ground_truth": "No, there is a dog face in this figure.",
+    "other_info": {
+      "Task": "Reasoning",
+      "Subtask": "hallucination"
+    },
+    "image_path": "media_merge/image/Speech_Driven_Image_Understanding/1811e4ad_8_1.png",
+    "speech_question": "media_merge/audio/Speech_Driven_Image_Understanding/d91c1eb5_HallusionBench_19.wav",
+    "index": 25
+  }
+]

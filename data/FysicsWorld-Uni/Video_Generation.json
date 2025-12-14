@@ -1,0 +1,1171 @@
+[
+  {
+    "prompt": "A tranquil tableau of cliff",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_flickering"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 1
+  },
+  {
+    "prompt": "A person is sword fighting",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "human_action"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 2
+  },
+  {
+    "prompt": "A beautiful coastal beach in spring, waves lapping on sand, in super slow motion",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_style"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 3
+  },
+  {
+    "prompt": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas by Hokusai, in the style of Ukiyo",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "appearance_style"
+      ],
+      "auxiliary_info": {
+        "appearance_style": {
+          "appearance_style": "by Hokusai, in the style of Ukiyo"
+        }
+      }
+    },
+    "index": 4
+  },
+  {
+    "prompt": "In a still frame, a stop sign",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_flickering"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 5
+  },
+  {
+    "prompt": "A drone view of celebration with Christmas tree and fireworks, starry sky - background.",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "overall_consistency",
+        "aesthetic_quality",
+        "imaging_quality"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 6
+  },
+  {
+    "prompt": "a surfboard on the bottom of skis, front view",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "spatial_relationship"
+      ],
+      "auxiliary_info": {
+        "spatial_relationship": {
+          "spatial_relationship": {
+            "object_a": "surfboard",
+            "object_b": "skis",
+            "relationship": "on the bottom of"
+          }
+        }
+      }
+    },
+    "index": 7
+  },
+  {
+    "prompt": "A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "overall_consistency",
+        "aesthetic_quality",
+        "imaging_quality"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 8
+  },
+  {
+    "prompt": "A cat wearing sunglasses and working as a lifeguard at a pool.",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "overall_consistency",
+        "aesthetic_quality",
+        "imaging_quality"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 9
+  },
+  {
+    "prompt": "A person is trimming or shaving beard",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "human_action"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 10
+  },
+  {
+    "prompt": "a banana on the bottom of an apple, front view",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "spatial_relationship"
+      ],
+      "auxiliary_info": {
+        "spatial_relationship": {
+          "spatial_relationship": {
+            "object_a": "banana",
+            "object_b": "apple",
+            "relationship": "on the bottom of"
+          }
+        }
+      }
+    },
+    "index": 11
+  },
+  {
+    "prompt": "The bund Shanghai, black and white",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "appearance_style"
+      ],
+      "auxiliary_info": {
+        "appearance_style": {
+          "appearance_style": "black and white"
+        }
+      }
+    },
+    "index": 12
+  },
+  {
+    "prompt": "A tranquil tableau of a dining table",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_flickering"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 13
+  },
+  {
+    "prompt": "an elephant taking a peaceful walk",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "subject_consistency",
+        "dynamic_degree",
+        "motion_smoothness"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 14
+  },
+  {
+    "prompt": "An astronaut flying in space by Hokusai, in the style of Ukiyo",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "appearance_style"
+      ],
+      "auxiliary_info": {
+        "appearance_style": {
+          "appearance_style": "by Hokusai, in the style of Ukiyo"
+        }
+      }
+    },
+    "index": 15
+  },
+  {
+    "prompt": "A person is sweeping floor",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "human_action"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 16
+  },
+  {
+    "prompt": "a giraffe taking a peaceful walk",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "subject_consistency",
+        "dynamic_degree",
+        "motion_smoothness"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 17
+  },
+  {
+    "prompt": "a person swimming in ocean",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "subject_consistency",
+        "dynamic_degree",
+        "motion_smoothness"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 18
+  },
+  {
+    "prompt": "A tranquil tableau of in the Zen garden, a perfectly raked gravel path led to a serene rock garden",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_flickering"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 19
+  },
+  {
+    "prompt": "a sheep bending down to drink water from a river",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "subject_consistency",
+        "dynamic_degree",
+        "motion_smoothness"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 20
+  },
+  {
+    "prompt": "a snowboard and a sports ball",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "multiple_objects"
+      ],
+      "auxiliary_info": {
+        "multiple_objects": {
+          "object": "snowboard and sports ball"
+        }
+      }
+    },
+    "index": 21
+  },
+  {
+    "prompt": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, oil painting",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "appearance_style"
+      ],
+      "auxiliary_info": {
+        "appearance_style": {
+          "appearance_style": "oil painting"
+        }
+      }
+    },
+    "index": 22
+  },
+  {
+    "prompt": "a giraffe on the right of a bird, front view",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "spatial_relationship"
+      ],
+      "auxiliary_info": {
+        "spatial_relationship": {
+          "spatial_relationship": {
+            "object_a": "giraffe",
+            "object_b": "bird",
+            "relationship": "on the right of"
+          }
+        }
+      }
+    },
+    "index": 23
+  },
+  {
+    "prompt": "a bicycle gliding through a snowy field",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "subject_consistency",
+        "dynamic_degree",
+        "motion_smoothness"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 24
+  },
+  {
+    "prompt": "Gwen Stacy reading a book, with an intense shaking effect",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_style"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 25
+  },
+  {
+    "prompt": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pixel art",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "appearance_style"
+      ],
+      "auxiliary_info": {
+        "appearance_style": {
+          "appearance_style": "pixel art"
+        }
+      }
+    },
+    "index": 26
+  },
+  {
+    "prompt": "a toilet on the left of a hair drier, front view",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "spatial_relationship"
+      ],
+      "auxiliary_info": {
+        "spatial_relationship": {
+          "spatial_relationship": {
+            "object_a": "toilet",
+            "object_b": "hair drier",
+            "relationship": "on the left of"
+          }
+        }
+      }
+    },
+    "index": 27
+  },
+  {
+    "prompt": "a bird on the left of a cat, front view",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "spatial_relationship"
+      ],
+      "auxiliary_info": {
+        "spatial_relationship": {
+          "spatial_relationship": {
+            "object_a": "bird",
+            "object_b": "cat",
+            "relationship": "on the left of"
+          }
+        }
+      }
+    },
+    "index": 28
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset, animated style",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "appearance_style"
+      ],
+      "auxiliary_info": {
+        "appearance_style": {
+          "appearance_style": "animated style"
+        }
+      }
+    },
+    "index": 29
+  },
+  {
+    "prompt": "A tranquil tableau of a picturesque barn was painted a warm shade of red and nestled in a picturesque meadow",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_flickering"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 30
+  },
+  {
+    "prompt": "a kite on the top of a skateboard, front view",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "spatial_relationship"
+      ],
+      "auxiliary_info": {
+        "spatial_relationship": {
+          "spatial_relationship": {
+            "object_a": "kite",
+            "object_b": "skateboard",
+            "relationship": "on the top of"
+          }
+        }
+      }
+    },
+    "index": 31
+  },
+  {
+    "prompt": "The bund Shanghai, tilt down",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_style"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 32
+  },
+  {
+    "prompt": "A tranquil tableau of a wooden bench in the park",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_flickering"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 33
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, Van Gogh style",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "appearance_style"
+      ],
+      "auxiliary_info": {
+        "appearance_style": {
+          "appearance_style": "Van Gogh style"
+        }
+      }
+    },
+    "index": 34
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "overall_consistency",
+        "aesthetic_quality",
+        "imaging_quality"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 35
+  },
+  {
+    "prompt": "A panda drinking coffee in a cafe in Paris, zoom in",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_style"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 36
+  },
+  {
+    "prompt": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_style"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 37
+  },
+  {
+    "prompt": "A super robot protecting city",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "overall_consistency",
+        "aesthetic_quality",
+        "imaging_quality"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 38
+  },
+  {
+    "prompt": "A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Hokusai, in the style of Ukiyo",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "appearance_style"
+      ],
+      "auxiliary_info": {
+        "appearance_style": {
+          "appearance_style": "by Hokusai, in the style of Ukiyo"
+        }
+      }
+    },
+    "index": 39
+  },
+  {
+    "prompt": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, watercolor painting",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "appearance_style"
+      ],
+      "auxiliary_info": {
+        "appearance_style": {
+          "appearance_style": "watercolor painting"
+        }
+      }
+    },
+    "index": 40
+  },
+  {
+    "prompt": "An astronaut flying in space, tilt up",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_style"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 41
+  },
+  {
+    "prompt": "a skateboard on the top of a surfboard, front view",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "spatial_relationship"
+      ],
+      "auxiliary_info": {
+        "spatial_relationship": {
+          "spatial_relationship": {
+            "object_a": "skateboard",
+            "object_b": "surfboard",
+            "relationship": "on the top of"
+          }
+        }
+      }
+    },
+    "index": 42
+  },
+  {
+    "prompt": "The bund Shanghai, racking focus",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_style"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 43
+  },
+  {
+    "prompt": "A tranquil tableau of an exquisite mahogany dining table",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_flickering"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 44
+  },
+  {
+    "prompt": "a car on the right of a motorcycle, front view",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "spatial_relationship"
+      ],
+      "auxiliary_info": {
+        "spatial_relationship": {
+          "spatial_relationship": {
+            "object_a": "car",
+            "object_b": "motorcycle",
+            "relationship": "on the right of"
+          }
+        }
+      }
+    },
+    "index": 45
+  },
+  {
+    "prompt": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_style"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 46
+  },
+  {
+    "prompt": "Splash of turquoise water in extreme slow motion, alpha channel included.",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "overall_consistency",
+        "aesthetic_quality",
+        "imaging_quality"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 47
+  },
+  {
+    "prompt": "A beautiful coastal beach in spring, waves lapping on sand, in cyberpunk style",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "appearance_style"
+      ],
+      "auxiliary_info": {
+        "appearance_style": {
+          "appearance_style": "in cyberpunk style"
+        }
+      }
+    },
+    "index": 48
+  },
+  {
+    "prompt": "A tranquil tableau of in the heart of Plaka, the neoclassical architecture of the old city harmonizes with the ancient ruins",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_flickering"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 49
+  },
+  {
+    "prompt": "a parking meter on the right of a bench, front view",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "spatial_relationship"
+      ],
+      "auxiliary_info": {
+        "spatial_relationship": {
+          "spatial_relationship": {
+            "object_a": "parking meter",
+            "object_b": "bench",
+            "relationship": "on the right of"
+          }
+        }
+      }
+    },
+    "index": 50
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, racking focus",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_style"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 51
+  },
+  {
+    "prompt": "this is how I do makeup in the morning.",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "overall_consistency",
+        "aesthetic_quality",
+        "imaging_quality"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 52
+  },
+  {
+    "prompt": "A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_style"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 53
+  },
+  {
+    "prompt": "A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_style"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 54
+  },
+  {
+    "prompt": "a shark is swimming in the ocean, tilt down",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_style"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 55
+  },
+  {
+    "prompt": "An astronaut flying in space, tilt down",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "temporal_style"
+      ],
+      "auxiliary_info": {}
+    },
+    "index": 56
+  },
+  {
+    "prompt": "a toaster on the top of a microwave, front view",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "spatial_relationship"
+      ],
+      "auxiliary_info": {
+        "spatial_relationship": {
+          "spatial_relationship": {
+            "object_a": "toaster",
+            "object_b": "microwave",
+            "relationship": "on the top of"
+          }
+        }
+      }
+    },
+    "index": 57
+  },
+  {
+    "prompt": "an apple on the bottom of a sandwich, front view",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "spatial_relationship"
+      ],
+      "auxiliary_info": {
+        "spatial_relationship": {
+          "spatial_relationship": {
+            "object_a": "apple",
+            "object_b": "sandwich",
+            "relationship": "on the bottom of"
+          }
+        }
+      }
+    },
+    "index": 58
+  },
+  {
+    "prompt": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks by Hokusai, in the style of Ukiyo",
+    "task": "video generation",
+    "other_info": {
+      "dimension": [
+        "appearance_style"
+      ],
+      "auxiliary_info": {
+        "appearance_style": {
+          "appearance_style": "by Hokusai, in the style of Ukiyo"
+        }
+      }
+    },
+    "index": 59
+  },
+  {
+    "prompt": "A bicycle gliding through a snowy field",
+    "task": "video generation",
+    "other_info": {
+      "domain": "action"
+    },
+    "index": 60
+  },
+  {
+    "prompt": "A motorcycle turning a corner",
+    "task": "video generation",
+    "other_info": {
+      "domain": "action"
+    },
+    "index": 61
+  },
+  {
+    "prompt": "A bicycle leaning against a tree",
+    "task": "video generation",
+    "other_info": {
+      "domain": "action"
+    },
+    "index": 62
+  },
+  {
+    "prompt": "A bicycle gliding through a snowy field",
+    "task": "video generation",
+    "other_info": {
+      "domain": "action"
+    },
+    "index": 63
+  },
+  {
+    "prompt": "A person drinking coffee in a cafe",
+    "task": "video generation",
+    "other_info": {
+      "domain": "action"
+    },
+    "index": 64
+  },
+  {
+    "prompt": "A person is clay pottery making",
+    "task": "video generation",
+    "other_info": {
+      "domain": "action"
+    },
+    "index": 65
+  },
+  {
+    "prompt": "A raccoon is playing the electronic guitar.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "aesthetic_quality"
+    },
+    "index": 66
+  },
+  {
+    "prompt": "A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background",
+    "task": "video generation",
+    "other_info": {
+      "domain": "aesthetic_quality"
+    },
+    "index": 67
+  },
+  {
+    "prompt": "Cinematic shot of van gogh's selfie, van gogh style",
+    "task": "video generation",
+    "other_info": {
+      "domain": "aesthetic_quality"
+    },
+    "index": 68
+  },
+  {
+    "prompt": "Balloon full of water exploding in extreme slow motion.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "aesthetic_quality"
+    },
+    "index": 69
+  },
+  {
+    "prompt": "A modern art museum, with colorful paintings",
+    "task": "video generation",
+    "other_info": {
+      "domain": "aesthetic_quality"
+    },
+    "index": 70
+  },
+  {
+    "prompt": "Yellow flowers swing in the wind",
+    "task": "video generation",
+    "other_info": {
+      "domain": "aesthetic_quality"
+    },
+    "index": 71
+  },
+  {
+    "prompt": "Sunset time lapse at the beach with moving clouds and colors in the sky.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "aesthetic_quality"
+    },
+    "index": 72
+  },
+  {
+    "prompt": "Robot dancing in times square.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "aesthetic_quality"
+    },
+    "index": 73
+  },
+  {
+    "prompt": "A raccoon that looks like a turtle, digital art.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "aesthetic_quality"
+    },
+    "index": 74
+  },
+  {
+    "prompt": "Iron man flying in the sky",
+    "task": "video generation",
+    "other_info": {
+      "domain": "aesthetic_quality"
+    },
+    "index": 75
+  },
+  {
+    "prompt": "A person is catching or throwing baseball",
+    "task": "video generation",
+    "other_info": {
+      "domain": "motion_effects"
+    },
+    "index": 76
+  },
+  {
+    "prompt": "A person is dancing ballet",
+    "task": "video generation",
+    "other_info": {
+      "domain": "motion_effects"
+    },
+    "index": 77
+  },
+  {
+    "prompt": "A person is arranging flowers",
+    "task": "video generation",
+    "other_info": {
+      "domain": "motion_effects"
+    },
+    "index": 78
+  },
+  {
+    "prompt": "A bus stuck in traffic during rush hour",
+    "task": "video generation",
+    "other_info": {
+      "domain": "motion_effects"
+    },
+    "index": 79
+  },
+  {
+    "prompt": "A horse bending down to drink water from a river",
+    "task": "video generation",
+    "other_info": {
+      "domain": "motion_effects"
+    },
+    "index": 80
+  },
+  {
+    "prompt": "A person is dunking basketball",
+    "task": "video generation",
+    "other_info": {
+      "domain": "motion_effects"
+    },
+    "index": 81
+  },
+  {
+    "prompt": "A shark swimming in clear caribbean ocean",
+    "task": "video generation",
+    "other_info": {
+      "domain": "video-text consistency"
+    },
+    "index": 82
+  },
+  {
+    "prompt": "A raccoon is playing the electronic guitar.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "video-text consistency"
+    },
+    "index": 83
+  },
+  {
+    "prompt": "Clown fish swimming through the coral reef",
+    "task": "video generation",
+    "other_info": {
+      "domain": "video-text consistency"
+    },
+    "index": 84
+  },
+  {
+    "prompt": "A cute fluffy panda eating chinese food in a restaurant",
+    "task": "video generation",
+    "other_info": {
+      "domain": "video-text consistency"
+    },
+    "index": 85
+  },
+  {
+    "prompt": "Splash of turquoise water in extreme slow motion, alpha channel included.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "video-text consistency"
+    },
+    "index": 86
+  },
+  {
+    "prompt": "A squirrel eating a burger.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "video-text consistency"
+    },
+    "index": 87
+  },
+  {
+    "prompt": "A koala bear playing piano in the forest.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "video-text consistency"
+    },
+    "index": 88
+  },
+  {
+    "prompt": "A mars rover moving on mars",
+    "task": "video generation",
+    "other_info": {
+      "domain": "video-text consistency"
+    },
+    "index": 89
+  },
+  {
+    "prompt": "A corgi is playing drum kit.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "video-text consistency"
+    },
+    "index": 90
+  },
+  {
+    "prompt": "A bus stuck in traffic during rush hour",
+    "task": "video generation",
+    "other_info": {
+      "domain": "temporal_consistency"
+    },
+    "index": 91
+  },
+  {
+    "prompt": "A person is stretching leg",
+    "task": "video generation",
+    "other_info": {
+      "domain": "temporal_consistency"
+    },
+    "index": 92
+  },
+  {
+    "prompt": "A person is sword fighting",
+    "task": "video generation",
+    "other_info": {
+      "domain": "temporal_consistency"
+    },
+    "index": 93
+  },
+  {
+    "prompt": "A boat sailing smoothly on a calm lake",
+    "task": "video generation",
+    "other_info": {
+      "domain": "temporal_consistency"
+    },
+    "index": 94
+  },
+  {
+    "prompt": "A giraffe bending down to drink water from a river",
+    "task": "video generation",
+    "other_info": {
+      "domain": "temporal_consistency"
+    },
+    "index": 95
+  },
+  {
+    "prompt": "A train speeding down the tracks",
+    "task": "video generation",
+    "other_info": {
+      "domain": "temporal_consistency"
+    },
+    "index": 96
+  },
+  {
+    "prompt": "A bear catching a salmon in its powerful jaws",
+    "task": "video generation",
+    "other_info": {
+      "domain": "temporal_consistency"
+    },
+    "index": 97
+  },
+  {
+    "prompt": "Two pandas discussing an academic paper.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "imaging_quality"
+    },
+    "index": 98
+  },
+  {
+    "prompt": "Sunset time lapse at the beach with moving clouds and colors in the sky.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "imaging_quality"
+    },
+    "index": 99
+  },
+  {
+    "prompt": "A panda cooking in the kitchen",
+    "task": "video generation",
+    "other_info": {
+      "domain": "imaging_quality"
+    },
+    "index": 100
+  },
+  {
+    "prompt": "A car moving slowly on an empty street, rainy evening",
+    "task": "video generation",
+    "other_info": {
+      "domain": "imaging_quality"
+    },
+    "index": 101
+  },
+  {
+    "prompt": "An epic tornado attacking above a glowing city at night, the tornado is made of smoke",
+    "task": "video generation",
+    "other_info": {
+      "domain": "imaging_quality"
+    },
+    "index": 102
+  },
+  {
+    "prompt": "Close up of grapes on a rotating table.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "imaging_quality"
+    },
+    "index": 103
+  },
+  {
+    "prompt": "A fat rabbit wearing a purple robe walking through a fantasy landscape.",
+    "task": "video generation",
+    "other_info": {
+      "domain": "imaging_quality"
+    },
+    "index": 104
+  }
+]
