@@ -8,7 +8,7 @@
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
-<font size=7><div align='center' > [[🏠 Project Page](https://github.com/Fysics-AI/FysicsWorld)] [[📖 arXiv Paper](https://arxiv.org/pdf/2512.XXXX)] [[🤗 Dataset](https://huggingface.co/datasets/Fysics-AI/FysicsWorld)] [[🏆 Leaderboard](https://huggingface.co/spaces/Fysics-AI/FysicsWorld-Leaderboard)]  </div></font>
+<font size=7><div align='center' > [[🏠 Project Page](https://github.com/Fysics-AI/FysicsWorld)] [[📖 arXiv Paper](https://arxiv.org/pdf/2512.12756)] [[🤗 Dataset](https://huggingface.co/datasets/Fysics-AI/FysicsWorld)] [[🏆 Leaderboard](https://huggingface.co/spaces/Fysics-AI/FysicsWorld-Leaderboard)]  </div></font>
 
 
 </div>
@@ -99,7 +99,7 @@ If you find ***FysicsWorld*** helpful for your research, please consider citing 
 @article{jiang2025fysicsworld,
     title={FysicsWorld: A Unified Full-Modality Benchmark for Any-to-Any Understanding, Generation, and Reasoning},
     author={Jiang, Yue and Yang, Dingkang and Han, Minghao and Han, Jinghang and Chen, Zizhi and Liu, Yizhou and Li, Mingcheng and Zhai, Peng and Zhang, Lihua},
-    journal={arXiv preprint arXiv:2512.XXXX},
+    journal={arXiv preprint arXiv:2512.12756},
     year={2025}
 }
 ```
