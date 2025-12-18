@@ -8,7 +8,14 @@
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
-<font size=7><div align='center' > [[🏠 Project Page](https://github.com/Fysics-AI/FysicsWorld)] [[📖 arXiv Paper](https://arxiv.org/pdf/2512.12756)] [[🤗 Dataset](https://huggingface.co/datasets/Fysics-AI/FysicsWorld)] [[👾 ModelScope](https://www.modelscope.cn/datasets/Fysics-AI/FysicsWorld)] [[🏆 Leaderboard](https://huggingface.co/spaces/Fysics-AI/FysicsWorld-Leaderboard)]  </div></font>
+<font size=7><div align='center' > 
+[[🏠 Project Page](https://github.com/Fysics-AI/FysicsWorld)] 
+[[📖 Paper](https://arxiv.org/pdf/2512.12756)] 
+[[🤗 Dataset](https://huggingface.co/datasets/Fysics-AI/FysicsWorld)] 
+[[👾 ModelScope](https://www.modelscope.cn/datasets/Fysics-AI/FysicsWorld)] 
+[[🏆 Leaderboard](https://huggingface.co/spaces/Fysics-AI/FysicsWorld-Leaderboard)] 
+[[🀄 中文版](README_zh.md)]
+  </div></font>
 
 </div>
 
@@ -28,7 +35,7 @@ We introduce ***FysicsWorld***, the **first** unified full-modality benchmark th
 
 * **Fusion-Dependent Cross-Modal Reasoning**. We propose a method for omni-modal data construction, which is named **C**ross-**M**odal **C**omplementarity **S**creening (**CMCS**) strategy, which ensures that our tasks maintain strong cross-modal coupling, preventing single-modality shortcuts and enforcing true synergistic perception of omni-modality.
 
-* **Speech-Driven Cross-Modal Interaction**. To support natural, multimodal communication and interaction, we develop a speech-grounded multimodal data construction pipeline that ensures both linguistic fluency and semantic fidelity in voice-based interactions, including 20+ authentic voices and tones.
+* **Speech-Driven Cross-Modal Interaction**. To support natural, multimodal communication and interaction, we develop a speech-grounded multimodal data construction pipeline that ensures both linguistic fluency and semantic fidelity in voice-based interactions, including 10+ authentic voices and tones.
 
 Based on **FysicsWorld**, we extensively evaluate various advanced models, including Omni-LLMs, MLLMs, modality-specific models, and unified understanding–generation models. By establishing a unified benchmark and highlighting key capability gaps, FysicsWorld provides not only a foundation for evaluating emerging multimodal systems but also a roadmap for the next generation of full-modality architectures capable of genuinely holistic perception, reasoning, and interaction.
 
