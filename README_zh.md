@@ -60,14 +60,14 @@
 
 ## 🔮 基准评测
 
-为确保评测协议的公平性与标准化，第一阶段我们公开发布完整的 ***FysicsWorld*** 数据集，以及一个包含正确答案的 test-mini 子集（300 个样本），用于本地验证与调试。相应的问答数据分别位于 [./data](https://github.com/Fysics-AI/FysicsWorld/tree/main/data) 与 [./test-mini](https://github.com/Fysics-AI/FysicsWorld/tree/main/test-mini)中。
+为确保评测协议的公平性与标准化，第一阶段我们公开发布完整的 ***FysicsWorld*** 数据集任务和问题，以及一个包含正确答案的 test-mini 子集（300 个样本），用于本地验证与调试。相应的问答数据分别位于 [./data](https://github.com/Fysics-AI/FysicsWorld/tree/main/data) 与 [./test-mini](https://github.com/Fysics-AI/FysicsWorld/tree/main/test-mini)中。
 
 🕹️ **使用指南**:
 
 1. 下载完整的 Fysics 数据集。
 2. 按需选用 Fysics 中感兴趣的目标任务用于评测你的本地模型。
 3. 将模型输出内容格式化为：[参考格式](https://github.com/Fysics-AI/FysicsWorld/blob/main/eval/submission_format.json).
-4. 将待测评结果发送至 *t1.jiangyue@outlook.com*，我们会尽快给您反馈并在排行榜上更新您的成绩。
+4. 将待测评结果发送至 *dicken@fyscis.ai*，我们会尽快给您反馈并在排行榜上更新您的成绩。
 
 
 ## 📈 评测结果
