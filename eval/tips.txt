@@ -1,7 +1,0 @@
-To ensure a fair and standardized evaluation protocol, we release the full ***FysicsWorld*** dataset with ground-truth answers withheld, along with a test-mini subset (300 samples) that includes answers for local validation and debugging.
-
-If the output is a multimedia file, please include the multimedia file and list its relative path in "predictions".
-
-Please submit different JSON files for each different tasks.
-
-We will update the Leaderboard as soon as we receive your model results. Due to the complexity of various modal outputs and the diversity of tasks, the automated evaluation suite will be updated soon.

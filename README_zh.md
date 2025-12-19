@@ -66,8 +66,9 @@
 
 1. 下载完整的 Fysics 数据集。
 2. 按需选用 Fysics 中感兴趣的目标任务用于评测你的本地模型。
-3. 将模型输出内容格式化为：[参考格式](https://github.com/Fysics-AI/FysicsWorld/blob/main/eval/submission_format.json).
+3. 遵循[评测指南](https://github.com/Fysics-AI/FysicsWorld/blob/main/eval/submission/EVALUATION.md)，将模型输出内容格式化为：[参考格式](https://github.com/Fysics-AI/FysicsWorld/blob/main/eval/submission/submission_format.json).
 4. 将待测评结果发送至 *dicken@fyscis.ai*，我们会尽快给您反馈并在排行榜上更新您的成绩。
+
 
 
 ## 📈 评测结果

@@ -57,7 +57,7 @@ To ensure a fair and standardized evaluation protocol, we release the full ***Fy
 
 1. Download the full FysicsWorld dataset from [here](https://huggingface.co/datasets/Fysics-AI/FysicsWorld).
 2. Run inference using your model on the provided questions.
-3. Format the model responses according to the required [submission format](https://github.com/Fysics-AI/FysicsWorld/blob/main/eval/submission_format.json).
+3. Follow the [guidelines](https://github.com/Fysics-AI/FysicsWorld/blob/main/eval/submission/EVALUATION.md), and format the model responses according to the required [submission format](https://github.com/Fysics-AI/FysicsWorld/blob/main/eval/submission/submission_format.json).
 4. Send the formatted responses to *dicken@fyscis.ai*. We will periodically update the corresponding scores on the leaderboard.
 
 

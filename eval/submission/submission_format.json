@@ -1,0 +1,15 @@
+
+[
+    {
+        "model": "string (required) - The name of the model used for the submission.",
+        "model_link": "string (optional) - URL link to the model's repository or webpage.",
+        "task": "string (required) - The specific task, e.g., 'Image Understanding' or 'Task1-1'.",
+        "predictions": [
+            {
+                "index": "string (required) - Unique identifier for the input data.",
+                "question": "string (required) - The input question or prompt provided to the model.",
+                "predicted_output": "string (required) - The model's predicted output (or the relative path of output media file) for the given input."
+            }
+        ]
+    }
+]
