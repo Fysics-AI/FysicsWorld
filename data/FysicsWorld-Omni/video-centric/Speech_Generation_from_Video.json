@@ -1,1068 +1,904 @@
 [
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Sports",
-      "content_fine_category": "Career Highlights",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/540a2327_G_VTkkb34gw_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/0c8617264a9646a493be0f913233f53e_id04295.mp4",
+    "audio_path": "media_merge/audio/0c8617264a9646a493be0f913233f53e_id04295.wav",
     "index": 1
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Education",
-      "content_fine_category": "Engineering Projects",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/0b0c864e_d6b4OmUFt7I_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/d3388d2a619d454da49d7bd57e3a8fa8_id03178.mp4",
+    "audio_path": "media_merge/audio/d3388d2a619d454da49d7bd57e3a8fa8_id03178.wav",
     "index": 2
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Sports",
-      "content_fine_category": "Career Highlights",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/3ce7c70a_G_VTkkb34gw_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/ad1513a1bc7040ac9f08099aa1ba06fe_id02286.mp4",
+    "audio_path": "media_merge/audio/ad1513a1bc7040ac9f08099aa1ba06fe_id02286.wav",
     "index": 3
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Sports",
-      "content_fine_category": "Career Highlights",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/788e7440_G_VTkkb34gw_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/52619bbf6a2d4aaabf8b59c02436f66a_id04232.mp4",
+    "audio_path": "media_merge/audio/52619bbf6a2d4aaabf8b59c02436f66a_id04232.wav",
     "index": 4
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Education",
-      "content_fine_category": "Engineering Projects",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/1622bc53_d6b4OmUFt7I_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/26e7a96a5ff344d7ab0b3f85b837b2e9_id01567.mp4",
+    "audio_path": "media_merge/audio/26e7a96a5ff344d7ab0b3f85b837b2e9_id01567.wav",
     "index": 5
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Education",
-      "content_fine_category": "Engineering Projects",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/20f67ea0_d6b4OmUFt7I_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/b658c85fda484b03b16435a482fe0691_id03041.mp4",
+    "audio_path": "media_merge/audio/b658c85fda484b03b16435a482fe0691_id03041.wav",
     "index": 6
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Education",
-      "content_fine_category": "Engineering Projects",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/c8e0dcf8_d6b4OmUFt7I_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/9d11f8c0c05d4ffbafa5b8fd125c116e_id06484.mp4",
+    "audio_path": "media_merge/audio/9d11f8c0c05d4ffbafa5b8fd125c116e_id06484.wav",
     "index": 7
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Sports",
-      "content_fine_category": "Documentary Profiles",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/a68164ec_jj5j3jksbUM_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/019df093651b489aa4da8a637c74417f_id02317.mp4",
+    "audio_path": "media_merge/audio/019df093651b489aa4da8a637c74417f_id02317.wav",
     "index": 8
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Sports",
-      "content_fine_category": "Documentary Profiles",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/314dc016_jj5j3jksbUM_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/5479f855ecfd4757b26a95b34af86e55_id06692.mp4",
+    "audio_path": "media_merge/audio/5479f855ecfd4757b26a95b34af86e55_id06692.wav",
     "index": 9
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Lifestyle",
-      "content_fine_category": "Travel Tips",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/90444b8f_6vKvjzuICxg_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/88d52d1f20254ffa885279267c203ad0_id07494.mp4",
+    "audio_path": "media_merge/audio/88d52d1f20254ffa885279267c203ad0_id07494.wav",
     "index": 10
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Sports",
-      "content_fine_category": "Documentary Profiles",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/447ab509_jj5j3jksbUM_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/9c1994b01edd4b92b5939f431f53b5df_id01509.mp4",
+    "audio_path": "media_merge/audio/9c1994b01edd4b92b5939f431f53b5df_id01509.wav",
     "index": 11
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Lifestyle",
-      "content_fine_category": "Travel Tips",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/db8f018e_6vKvjzuICxg_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/9d4b9b06fcfd4cb5ae316258d62e6ffe_id05459.mp4",
+    "audio_path": "media_merge/audio/9d4b9b06fcfd4cb5ae316258d62e6ffe_id05459.wav",
     "index": 12
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "News & Politics",
-      "content_fine_category": "World News",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/18cef5eb_2u3tic9llpw_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/65dce84a4a254ec79c9abb14f12068c3_id05124.mp4",
+    "audio_path": "media_merge/audio/65dce84a4a254ec79c9abb14f12068c3_id05124.wav",
     "index": 13
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "News & Politics",
-      "content_fine_category": "World News",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/349774a4_2u3tic9llpw_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/baf0ef8abd064f1898ee3854554c3da3_id09017.mp4",
+    "audio_path": "media_merge/audio/baf0ef8abd064f1898ee3854554c3da3_id09017.wav",
     "index": 14
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "News & Politics",
-      "content_fine_category": "World News",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/4ee05a86_2u3tic9llpw_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/1235553cdc324fbe9f428085c3347172_id05850.mp4",
+    "audio_path": "media_merge/audio/1235553cdc324fbe9f428085c3347172_id05850.wav",
     "index": 15
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "News & Politics",
-      "content_fine_category": "World News",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/cb38b6b0_2u3tic9llpw_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/d1214e9f9f4d4db3b6639a1982493d65_id03981.mp4",
+    "audio_path": "media_merge/audio/d1214e9f9f4d4db3b6639a1982493d65_id03981.wav",
     "index": 16
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Education",
-      "content_fine_category": "Historical Analysis",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/e6b64579_P6-I5fsCA9w_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/68819eba2f8046d99a65a34150112922_id07663.mp4",
+    "audio_path": "media_merge/audio/68819eba2f8046d99a65a34150112922_id07663.wav",
     "index": 17
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Education",
-      "content_fine_category": "Marketing Strategies",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/e89b9414_gleNOAoDG4U_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/d752736e71de4e70bb1623c92a23277b_id00017.mp4",
+    "audio_path": "media_merge/audio/d752736e71de4e70bb1623c92a23277b_id00017.wav",
     "index": 18
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Education",
-      "content_fine_category": "Historical Analysis",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/0f091538_06b2PxvBoNU_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/0795a73f312a4f89a3989d9e11f27d51_id04478.mp4",
+    "audio_path": "media_merge/audio/0795a73f312a4f89a3989d9e11f27d51_id04478.wav",
     "index": 19
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "News & Politics",
-      "content_fine_category": "Political News",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/e652827b_zI4QBIVHeIY_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/d8e894f9534c4742a0d6eb03d417c287_id01822.mp4",
+    "audio_path": "media_merge/audio/d8e894f9534c4742a0d6eb03d417c287_id01822.wav",
     "index": 20
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Education",
-      "content_fine_category": "Marketing Strategies",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/12fe0eda_gleNOAoDG4U_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/fcf143bc28704c779e25856b2ab5146d_id05015.mp4",
+    "audio_path": "media_merge/audio/fcf143bc28704c779e25856b2ab5146d_id05015.wav",
     "index": 21
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "News & Politics",
-      "content_fine_category": "Breaking News",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/46fef955_DTA5AbpHwEQ_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/2322ec6810e94573989b281d0de95b8e_id01333.mp4",
+    "audio_path": "media_merge/audio/2322ec6810e94573989b281d0de95b8e_id01333.wav",
     "index": 22
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "News & Politics",
-      "content_fine_category": "World News",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/8270eadc_i9x_JohBBe4_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/d86deb609b6b4049a40f76571ec68484_id07426.mp4",
+    "audio_path": "media_merge/audio/d86deb609b6b4049a40f76571ec68484_id07426.wav",
     "index": 23
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "News & Politics",
-      "content_fine_category": "Social Commentary",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/36ebc76c_ZtE20CoGkus_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/2882daf534334e66932bb06ab299d8c2_id03347.mp4",
+    "audio_path": "media_merge/audio/2882daf534334e66932bb06ab299d8c2_id03347.wav",
     "index": 24
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "News & Politics",
-      "content_fine_category": "Social Commentary",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/93456959_ZtE20CoGkus_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/395ee376f7bd4cd8b633a57484000c1b_id05816.mp4",
+    "audio_path": "media_merge/audio/395ee376f7bd4cd8b633a57484000c1b_id05816.wav",
     "index": 25
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Education",
-      "content_fine_category": "Marketing Strategies",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/2f4bb6ac_jqJNYUb22Xk_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/63da9701a57546719046991a73559a02_id04094.mp4",
+    "audio_path": "media_merge/audio/63da9701a57546719046991a73559a02_id04094.wav",
     "index": 26
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "News & Politics",
-      "content_fine_category": "Social Commentary",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/9185f899_ZtE20CoGkus_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/2e21b78325aa48cba23ea2d85aba32e2_id01224.mp4",
+    "audio_path": "media_merge/audio/2e21b78325aa48cba23ea2d85aba32e2_id01224.wav",
     "index": 27
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "Science & Technology",
-      "content_fine_category": "Climate Change",
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/c563b77f_b7LiW66cSM4_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/31164d88ef6e434b8211961de6aae6cc_id07802.mp4",
+    "audio_path": "media_merge/audio/31164d88ef6e434b8211961de6aae6cc_id07802.wav",
     "index": 28
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": null,
-      "content_fine_category": null,
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/9306cede_2q4_wFFFG_U_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/9f5116191ec745f799893bb316e6381c_id03981.mp4",
+    "audio_path": "media_merge/audio/9f5116191ec745f799893bb316e6381c_id03981.wav",
     "index": 29
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": null,
-      "content_fine_category": null,
-      "video_category": "News & Politics",
-      "video_duration": "30s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/68812117_2q4_wFFFG_U_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/ea279f2b1f7b49e2a73c27d3d793fa57_id06209.mp4",
+    "audio_path": "media_merge/audio/ea279f2b1f7b49e2a73c27d3d793fa57_id06209.wav",
     "index": 30
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/925b0464_08km9Yqbt-A_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/7ac170f4e8d841619f7998b742c59430_id04570.mp4",
+    "audio_path": "media_merge/audio/7ac170f4e8d841619f7998b742c59430_id04570.wav",
     "index": 31
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/1bdcd8b5_08km9Yqbt-A_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/dea777986ee244979a5c3a8655893c6d_id05055.mp4",
+    "audio_path": "media_merge/audio/dea777986ee244979a5c3a8655893c6d_id05055.wav",
     "index": 32
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/0f0e1e89_1NH5dJ9VRvU_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/3df5a8a22e434a1fbee7707fe790fd47_id00061.mp4",
+    "audio_path": "media_merge/audio/3df5a8a22e434a1fbee7707fe790fd47_id00061.wav",
     "index": 33
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/978913d3_08km9Yqbt-A_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/a5b4628acfd14a9ca371b7b87767cf9e_id02019.mp4",
+    "audio_path": "media_merge/audio/a5b4628acfd14a9ca371b7b87767cf9e_id02019.wav",
     "index": 34
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/9dc32085_1NH5dJ9VRvU_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/f0befbfeeab443d8b91c6e3f79634087_id08701.mp4",
+    "audio_path": "media_merge/audio/f0befbfeeab443d8b91c6e3f79634087_id08701.wav",
     "index": 35
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/fa0f4986_20gUIdXGuAs_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/210f57e64b6944f190fffae7c117d389_id02745.mp4",
+    "audio_path": "media_merge/audio/210f57e64b6944f190fffae7c117d389_id02745.wav",
     "index": 36
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/4711ad3c_20gUIdXGuAs_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/c8c6cf98a69a4122a2e27ba3fb09958a_id05202.mp4",
+    "audio_path": "media_merge/audio/c8c6cf98a69a4122a2e27ba3fb09958a_id05202.wav",
     "index": 37
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/790c4f08_1NH5dJ9VRvU_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/6a1ac9e88fe04dc4907724e2a70da6b4_id05124.mp4",
+    "audio_path": "media_merge/audio/6a1ac9e88fe04dc4907724e2a70da6b4_id05124.wav",
     "index": 38
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/34c47d7d_40BlVzjxu-I_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/5bdd419f2f154690a2c4f7119fe9a227_id01437.mp4",
+    "audio_path": "media_merge/audio/5bdd419f2f154690a2c4f7119fe9a227_id01437.wav",
     "index": 39
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/4da7900e_40BlVzjxu-I_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/7d842aefe722479e9ab3ef87d3073fd2_id05999.mp4",
+    "audio_path": "media_merge/audio/7d842aefe722479e9ab3ef87d3073fd2_id05999.wav",
     "index": 40
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/3f9d3be7_20gUIdXGuAs_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/c661409f9c0c4872a571df2b5403abd4_id06310.mp4",
+    "audio_path": "media_merge/audio/c661409f9c0c4872a571df2b5403abd4_id06310.wav",
     "index": 41
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/4b3aba2e_3fQxvz4ENDg_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/194837a8e3c847f5878cdd7074510023_id02548.mp4",
+    "audio_path": "media_merge/audio/194837a8e3c847f5878cdd7074510023_id02548.wav",
     "index": 42
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/c9041d09_40BlVzjxu-I_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/cf574cac5d7946f4baa6d243da64b4b0_id08548.mp4",
+    "audio_path": "media_merge/audio/cf574cac5d7946f4baa6d243da64b4b0_id08548.wav",
     "index": 43
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/b5a7885c_3fQxvz4ENDg_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/747e962e8040495fae32bc7bf2cfda78_id02086.mp4",
+    "audio_path": "media_merge/audio/747e962e8040495fae32bc7bf2cfda78_id02086.wav",
     "index": 44
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/3eafaa8a_3uV8XZcIBbk_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/be0b3b65c6dc4adc83681436832517df_id05594.mp4",
+    "audio_path": "media_merge/audio/be0b3b65c6dc4adc83681436832517df_id05594.wav",
     "index": 45
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/0d4b0f84_3fQxvz4ENDg_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/b6ebc8ede25c4280b0010df714a6072d_id07868.mp4",
+    "audio_path": "media_merge/audio/b6ebc8ede25c4280b0010df714a6072d_id07868.wav",
     "index": 46
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/6ccdc6e9_54H8ppxnp8I_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/e611df7ae1fa4a17a7e57760df98994e_id02576.mp4",
+    "audio_path": "media_merge/audio/e611df7ae1fa4a17a7e57760df98994e_id02576.wav",
     "index": 47
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/427b518c_3fQxvz4ENDg_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/228155ecf73847339d4aef30bb6fb337_id04862.mp4",
+    "audio_path": "media_merge/audio/228155ecf73847339d4aef30bb6fb337_id04862.wav",
     "index": 48
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/6e628824_8TNPeimqOO0_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/ae55834b694a47c88eee92a7c205aec8_id04656.mp4",
+    "audio_path": "media_merge/audio/ae55834b694a47c88eee92a7c205aec8_id04656.wav",
     "index": 49
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/fdbe7999_8TNPeimqOO0_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/2d110de58b9a47609731bf4d86e054e6_id02725.mp4",
+    "audio_path": "media_merge/audio/2d110de58b9a47609731bf4d86e054e6_id02725.wav",
     "index": 50
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/eaab7736_8TNPeimqOO0_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/58dc3b547a994a4e8735f203999b7fdc_id04478.mp4",
+    "audio_path": "media_merge/audio/58dc3b547a994a4e8735f203999b7fdc_id04478.wav",
     "index": 51
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/0d51be03_990ci2H9BBc_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/92fe325d023f4a62b3f64522bada6ef5_id01066.mp4",
+    "audio_path": "media_merge/audio/92fe325d023f4a62b3f64522bada6ef5_id01066.wav",
     "index": 52
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/d50fa3a8_9QXXL96y3A0_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/bb830f83c73a44dfa9bd872ac2881b37_id08552.mp4",
+    "audio_path": "media_merge/audio/bb830f83c73a44dfa9bd872ac2881b37_id08552.wav",
     "index": 53
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/71f302e1_8TNPeimqOO0_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/2ea567c2767b46d0a51b3d9f0b905035_id08374.mp4",
+    "audio_path": "media_merge/audio/2ea567c2767b46d0a51b3d9f0b905035_id08374.wav",
     "index": 54
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/f1a09429_9Y-YJEtxHeo_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/e1bf672c493a4ad386252bae6a3ccc59_id05594.mp4",
+    "audio_path": "media_merge/audio/e1bf672c493a4ad386252bae6a3ccc59_id05594.wav",
     "index": 55
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/536ce0bb_9Y-YJEtxHeo_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/4384cb3b63c548c09d21f9055ad4f225_id01298.mp4",
+    "audio_path": "media_merge/audio/4384cb3b63c548c09d21f9055ad4f225_id01298.wav",
     "index": 56
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/d3924755_9Y-YJEtxHeo_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/7fa9f90db9084e5eb79b492e595c3839_id02685.mp4",
+    "audio_path": "media_merge/audio/7fa9f90db9084e5eb79b492e595c3839_id02685.wav",
     "index": 57
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/d4685d3f_AFFZjzuAHMg_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/8d21ae96ac8b403a86a8b5563f599267_id01892.mp4",
+    "audio_path": "media_merge/audio/8d21ae96ac8b403a86a8b5563f599267_id01892.wav",
     "index": 58
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/88b81bf8_AFFZjzuAHMg_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/6ca28de8fa5e42f8b57e92569bd89b9c_id04627.mp4",
+    "audio_path": "media_merge/audio/6ca28de8fa5e42f8b57e92569bd89b9c_id04627.wav",
     "index": 59
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/0f75338a_CKYw_RG7i7w_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/db776900341b4f5f85da389ac3744ec6_id03127.mp4",
+    "audio_path": "media_merge/audio/db776900341b4f5f85da389ac3744ec6_id03127.wav",
     "index": 60
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/f25f1733_CKYw_RG7i7w_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/2e6bee681ed94a33aafe6cea0f49a314_id03524.mp4",
+    "audio_path": "media_merge/audio/2e6bee681ed94a33aafe6cea0f49a314_id03524.wav",
     "index": 61
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/cd6a87a1_E-YnmCB6yjo_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/f5ea579bdf4f4470aeafc05ca985b94b_id03789.mp4",
+    "audio_path": "media_merge/audio/f5ea579bdf4f4470aeafc05ca985b94b_id03789.wav",
     "index": 62
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/57ef9015_E-YnmCB6yjo_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/6c8ba7b7311041d28edf90e846d5c1ab_id06310.mp4",
+    "audio_path": "media_merge/audio/6c8ba7b7311041d28edf90e846d5c1ab_id06310.wav",
     "index": 63
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/82ce5d9f_FkZn5u3MIiY_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/0369064952034d09a7c20dd689fd524e_id06484.mp4",
+    "audio_path": "media_merge/audio/0369064952034d09a7c20dd689fd524e_id06484.wav",
     "index": 64
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/2d900819_E-YnmCB6yjo_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/e3c5c17e95b14dbb8270d4e201a78e84_id01822.mp4",
+    "audio_path": "media_merge/audio/e3c5c17e95b14dbb8270d4e201a78e84_id01822.wav",
     "index": 65
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/33bb3c0a_FcP0mzWFCQU_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/bf597fa1e39a400c9a660cc7ddc8a33f_id03980.mp4",
+    "audio_path": "media_merge/audio/bf597fa1e39a400c9a660cc7ddc8a33f_id03980.wav",
     "index": 66
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/fe4c2a1d_FkZn5u3MIiY_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/def2d5627e8b4794949112731675dac9_id01298.mp4",
+    "audio_path": "media_merge/audio/def2d5627e8b4794949112731675dac9_id01298.wav",
     "index": 67
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/bfbd26f6_FkZn5u3MIiY_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/35300db4491443dbbd1cf09f8c6749bd_id06104.mp4",
+    "audio_path": "media_merge/audio/35300db4491443dbbd1cf09f8c6749bd_id06104.wav",
     "index": 68
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/4376e0f2_HK13nVxBYxI_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/1d0aacfcee774745aad5f3b1d96812b6_id04536.mp4",
+    "audio_path": "media_merge/audio/1d0aacfcee774745aad5f3b1d96812b6_id04536.wav",
     "index": 69
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/3eda9785_N1cdUjctpG8_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/b76871b1c52c42b48f3c4aa51cdb2a3d_id01224.mp4",
+    "audio_path": "media_merge/audio/b76871b1c52c42b48f3c4aa51cdb2a3d_id01224.wav",
     "index": 70
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/2e0ae361_N1cdUjctpG8_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/0247069ecb284b1fa9cfd239409c1230_id04657.mp4",
+    "audio_path": "media_merge/audio/0247069ecb284b1fa9cfd239409c1230_id04657.wav",
     "index": 71
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/eb9cf56b_NEFG7YcIDcI_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/3180108bfe83490f95ed8effb45bc8d5_id00866.mp4",
+    "audio_path": "media_merge/audio/3180108bfe83490f95ed8effb45bc8d5_id00866.wav",
     "index": 72
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/37defe67_K3ksKkCOgTw_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/2e597f3e4fb84bf3b58ac84bfb2fb4a6_id04094.mp4",
+    "audio_path": "media_merge/audio/2e597f3e4fb84bf3b58ac84bfb2fb4a6_id04094.wav",
     "index": 73
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/8d8577f8_NEFG7YcIDcI_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/86cbeab0a7e34766a7038970ed61e0c5_id01066.mp4",
+    "audio_path": "media_merge/audio/86cbeab0a7e34766a7038970ed61e0c5_id01066.wav",
     "index": 74
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/7288ec28_QTA8j5wSTx4_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/fdec9779f71a48df8d11e9508d289dc2_id04276.mp4",
+    "audio_path": "media_merge/audio/fdec9779f71a48df8d11e9508d289dc2_id04276.wav",
     "index": 75
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/44c46db1_RBTiTcHm_ac_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/628a88ba3bf94c179d802ec64d5e84a9_id03382.mp4",
+    "audio_path": "media_merge/audio/628a88ba3bf94c179d802ec64d5e84a9_id03382.wav",
     "index": 76
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/50af1cf3_RBTiTcHm_ac_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/c97779c6a39a402989bc8335eabf9d99_id01618.mp4",
+    "audio_path": "media_merge/audio/c97779c6a39a402989bc8335eabf9d99_id01618.wav",
     "index": 77
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/7accfc2f_UyaKyS2wTQk_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/88d7afad802f462097de23379dab56ea_id04657.mp4",
+    "audio_path": "media_merge/audio/88d7afad802f462097de23379dab56ea_id04657.wav",
     "index": 78
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/532fc005_UZvydHZKyww_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/9e07e2b8bb0b4ba981d243ce185651b1_id07354.mp4",
+    "audio_path": "media_merge/audio/9e07e2b8bb0b4ba981d243ce185651b1_id07354.wav",
     "index": 79
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/9e8c43ad_UyaKyS2wTQk_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/459be473f2d247ce9bf87ea09560a053_id03178.mp4",
+    "audio_path": "media_merge/audio/459be473f2d247ce9bf87ea09560a053_id03178.wav",
     "index": 80
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/e859dcdc_VQKpMmBDtZo_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/0026a9df6da649b8821bbc3d19cc7e55_id01437.mp4",
+    "audio_path": "media_merge/audio/0026a9df6da649b8821bbc3d19cc7e55_id01437.wav",
     "index": 81
   },
   {
-    "prompt": "Analyze the character shown in the video and generate a spoken voice line that matches their identity, personality, age, gender, emotional tone, and speaking style. The generated voice should sound natural and consistent with how this character would realistically speak. Maintain coherence with the character’s role in the scene and produce a fitting, context-appropriate line of dialogue.",
+    "prompt": "Given a video containing a person, analyze the person's gender, age, facial expressions, and motion cues.\nGenerate a natural human voice that matches the character's appearance and behavior in the video, including appropriate timbre, pitch, emotion, and speaking style.\nSpeak a short, neutral English utterance (2-3 sentences).\nOutput only an audio file (e.g., WAV or MP3), with no text.",
     "task": "Speech_Generation",
     "other_info": {
-      "content_parent_category": "No content_parent_category provided",
-      "content_fine_category": "No content_fine_category provided",
-      "video_category": "News & Politics",
-      "video_duration": "60s"
+      "content_parent_category": "Speech",
+      "content_fine_category": "daily life"
     },
-    "video_path": "media_merge/video/Speech_Generation_from_Video/b151abee_RBTiTcHm_ac_video.mp4",
-    "audio_path": "",
+    "video_path": "media_merge/video/733192dfc24a4cc28dbb58e09c2dd4d6_id08392.mp4",
+    "audio_path": "media_merge/audio/733192dfc24a4cc28dbb58e09c2dd4d6_id08392.wav",
     "index": 82
   }
 ]
