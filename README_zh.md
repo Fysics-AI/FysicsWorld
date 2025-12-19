@@ -53,7 +53,8 @@
 完整数据集和相应的多媒体文件（图像、视频、音频）：
 
 - 下载路径 1（🤗 HuggingFace）：[[链接](https://huggingface.co/datasets/Fysics-AI/FysicsWorld)]
-- 下载路径 2（👾 ModelScope）：[[链接](https://www.modelscope.cn/datasets/Fysics-AI/FysicsWorld)]
+- 下载路径 2（🤗 HF-Mirror）：[[链接](https://hf-mirror.com/datasets/Fysics-AI/FysicsWorld)]
+- 下载路径 3（👾 ModelScope）：[[链接](https://www.modelscope.cn/datasets/Fysics-AI/FysicsWorld)]
 
 
 

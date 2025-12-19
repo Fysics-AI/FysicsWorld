@@ -44,7 +44,11 @@ Based on **FysicsWorld**, we extensively evaluate various advanced models, inclu
 </p>
 
 ## 🔍 Dataset Download
-The full dataset, including associated multimedia files (images, videos, and audio), can be downloaded from [here](https://huggingface.co/datasets/Fysics-AI/FysicsWorld).
+The full dataset, including associated multimedia files (images, videos, and audio), can be downloaded from:
+
+- Link-1（🤗 HuggingFace）：[[Link](https://huggingface.co/datasets/Fysics-AI/FysicsWorld)]
+- Link-2（🤗 HF-Mirror）：[[Link](https://hf-mirror.com/datasets/Fysics-AI/FysicsWorld)]
+- Link-3（👾 ModelScope）：[[Link](https://www.modelscope.cn/datasets/Fysics-AI/FysicsWorld)]
 
 
 
